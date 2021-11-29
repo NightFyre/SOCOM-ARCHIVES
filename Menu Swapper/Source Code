@@ -1,0 +1,735 @@
+// model swap with menu
+address $2009A000
+addiu sp, sp, $fff0
+sd ra, $0010(sp)
+sq s0, $0000(sp)
+jal $002B3580
+nop
+daddu s0, v0, zero
+beq s0, zero, :end5
+nop
+jal $000bad00
+nop
+jal $000BB174
+nop
+end5:
+ld ra, $0010(sp)
+lq s0, $0000(sp)
+jr ra
+addiu sp, sp, $0010
+
+address $2009bae0
+
+print "Bismo's Menu Swap v2.0"
+nop
+nop
+
+// x offset
+hexcode $420FFFFF
+// y offset
+hexcode $42820000
+// size
+hexcode $3F700000
+//red
+hexcode $43000000
+// blue
+hexcode $00000000
+// green
+hexcode $00000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Seal 1"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $42c00000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Seal 2"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $42f00000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Seal 3"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $43100000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Seal 4"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $43270000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Terrorist 1"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $43400000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Terrorist 2"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $43550000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Terrorist 3"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $43690000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+
+print "Terrorist 4"
+nop
+nop
+
+// x offset
+hexcode $42a00000
+// y offset
+hexcode $437d0000
+// size
+hexcode $3F600000
+//red
+hexcode $43000000
+// blue
+hexcode $43000000
+// green
+hexcode $43000000
+// opacity
+hexcode $43000000
+nop
+nop
+// shader stuff
+hexcode $40000000
+hexcode $41F00000
+hexcode $43490000
+hexcode $41F00000
+hexcode $3E2C0000
+hexcode $3E2C0000
+hexcode $3E340000
+hexcode $3F800000
+nop
+hexcode $41000000
+hexcode $42300000
+hexcode $43410000
+hexcode $42500000
+hexcode $3D800000
+hexcode $3D800000
+hexcode $3D83126F
+hexcode $3F800000
+nop
+hexcode $41000000
+hexcode $42300000
+hexcode $43400000
+hexcode $42600000
+hexcode $00000000
+hexcode $00000000
+hexcode $00000000
+hexcode $3F800000
+
+// menu stuff 0009BAC0
+// 0: selection index
+// 4: max selection
+// 8: timer
+// c: menu open boolean
+// 10: shader boolean
+address $200bad00
+addiu sp, sp, $ff90
+sd ra, $0060(sp)
+sq s5, $0050(sp)
+sq s4, $0040(sp)
+sq s3, $0030(sp)
+sq s2, $0020(sp)
+sq s1, $0010(sp)
+sq s0, $0000(sp)
+setreg s0, $0009BAC0
+lb s1, $0000(s0)
+lb s2, $000c(s0)
+beq s2, zero, :end1
+nop
+lb s3, $0010(s0)
+beq s3, zero, :skipshader
+nop
+setreg s5, $0009BCD4
+daddu a0, s5, zero
+addiu s5, s5, $0008
+daddu a1, s5, zero
+addiu a2, zero, $0236
+addiu s5, s5, $0008
+daddu a3, s5, zero
+jal :__printshader
+nop
+addiu s5, s5, $0014
+daddu a0, s5, zero
+addiu s5, s5, $0008
+daddu a1, s5, zero
+addiu a2, zero, $0204
+addiu s5, s5, $0008
+daddu a3, s5, zero
+jal :__printshader
+nop
+addiu s5, s5, $0014
+daddu a0, s5, zero
+addiu s5, s5, $0008
+daddu a1, s5, zero
+addiu a2, zero, $0040
+addiu s5, s5, $0008
+daddu a3, s5, zero
+jal :__printshader
+nop
+skipshader:
+// header
+setreg s4, $0009bae0
+addiu s4, s4, $0000
+daddu a0, s4, zero
+lw a1, $0020(s4)
+lw a2, $0024(s4)
+lw a3, $0028(s4)
+lw t0, $002c(s4)
+lw t1, $0030(s4)
+lw t2, $0034(s4)
+lw t3, $0038(s4)
+daddu t4, s1, zero
+daddu t5, zero, zero
+jal :__print
+nop
+// seal 1
+addiu s4, s4, $0044
+daddu a0, s4, zero
+lw a1, $0010(s4)
+lw a2, $0014(s4)
+lw a3, $0018(s4)
+lw t0, $001c(s4)
+lw t1, $0020(s4)
+lw t2, $0024(s4)
+lw t3, $0028(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0001
+jal :__print
+nop
+// seal 2
+addiu s4, s4, $0034
+daddu a0, s4, zero
+lw a1, $0010(s4)
+lw a2, $0014(s4)
+lw a3, $0018(s4)
+lw t0, $001c(s4)
+lw t1, $0020(s4)
+lw t2, $0024(s4)
+lw t3, $0028(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0002
+jal :__print
+nop
+// seal 3
+addiu s4, s4, $0034
+daddu a0, s4, zero
+lw a1, $0010(s4)
+lw a2, $0014(s4)
+lw a3, $0018(s4)
+lw t0, $001c(s4)
+lw t1, $0020(s4)
+lw t2, $0024(s4)
+lw t3, $0028(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0003
+jal :__print
+nop
+// seal 4
+addiu s4, s4, $0034
+daddu a0, s4, zero
+lw a1, $0010(s4)
+lw a2, $0014(s4)
+lw a3, $0018(s4)
+lw t0, $001c(s4)
+lw t1, $0020(s4)
+lw t2, $0024(s4)
+lw t3, $0028(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0004
+jal :__print
+nop
+// terr 1
+addiu s4, s4, $0034
+daddu a0, s4, zero
+lw a1, $0014(s4)
+lw a2, $0018(s4)
+lw a3, $001c(s4)
+lw t0, $0020(s4)
+lw t1, $0024(s4)
+lw t2, $0028(s4)
+lw t3, $002c(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0005
+jal :__print
+nop
+// terr 2
+addiu s4, s4, $0038
+daddu a0, s4, zero
+lw a1, $0014(s4)
+lw a2, $0018(s4)
+lw a3, $001c(s4)
+lw t0, $0020(s4)
+lw t1, $0024(s4)
+lw t2, $0028(s4)
+lw t3, $002c(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0006
+jal :__print
+nop
+// terr 3
+addiu s4, s4, $0038
+daddu a0, s4, zero
+lw a1, $0014(s4)
+lw a2, $0018(s4)
+lw a3, $001c(s4)
+lw t0, $0020(s4)
+lw t1, $0024(s4)
+lw t2, $0028(s4)
+lw t3, $002c(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0007
+jal :__print
+nop
+// terr 4
+addiu s4, s4, $0038
+daddu a0, s4, zero
+lw a1, $0014(s4)
+lw a2, $0018(s4)
+lw a3, $001c(s4)
+lw t0, $0020(s4)
+lw t1, $0024(s4)
+lw t2, $0028(s4)
+lw t3, $002c(s4)
+daddu t4, s1, zero
+addiu t5, zero, $0008
+jal :__print
+nop
+beq zero, zero, :end2
+nop
+end1:
+addiu v0, zero, $0001
+sb v0, $0000(s0)
+addiu v0, zero, $0008
+sb v0, $0004(s0)
+end2:
+ld ra, $0060(sp)
+lq s5, $0050(sp)
+lq s4, $0040(sp)
+lq s3, $0030(sp)
+lq s2, $0020(sp)
+lq s1, $0010(sp)
+lq s0, $0000(sp)
+jr ra
+addiu sp, sp, $0070
+nop
+__print:
+addiu sp, sp, $fff0
+sd ra, $0010(sp)
+sq s0, $0000(sp)
+// text pointer
+setreg s0, $000B3000
+setreg v0, $00406DF0
+sw v0, $000c(s0)
+setreg v0, $3F8000CD
+sw v0, $0014(s0)
+sw a0, $001c(s0)
+addiu v0, zero, $000f
+sw v0, $0020(s0)
+addiu v0, zero, $0006
+sw v0, $0024(s0)
+setreg v0, $414ED2E3
+sw v0, $0038(s0)
+setreg v0, $42740000
+sw v0, $003c(s0)
+sw a3, $0040(s0)
+bne t4, t5, :skip1
+nop
+setreg t0, $42c80000
+daddu t1, zero, zero
+daddu t2, zero, zero
+skip1:
+sw t0, $0048(s0)
+sw t1, $004c(s0)
+sw t2, $0050(s0)
+sw t3, $0054(s0)
+setreg v0, $80800051
+sw v0, $005c(s0)
+setreg v0, $0040d57c
+lw v0, $0000(v0)
+sw v0, $0018(s0)
+setreg v0, $004067B0
+sw v0, $0060(s0)
+addiu v0, zero, $0100
+sw v0, $0068(s0)
+addiu v0, zero, $015E
+sw v0, $0070(s0)
+setreg v0, $3f800000
+sw v0, $0078(s0)
+sw a1, $0090(s0)
+sw a2, $0094(s0)
+setreg v0, $0000EC60
+sw v0, $0098(s0)
+setreg v0, $00406C10
+sw v0, $0100(s0)
+setreg v0, $00488DF8
+lw v0, $0000(v0)
+sw v0, $0104(s0)
+addiu a1, s0, $0100
+daddu a0, s0, zero
+jal $003635C0
+nop
+ld ra, $0010(sp)
+lq s0, $0000(sp)
+jr ra
+addiu sp, sp, $0010
+nop
+__printshader:
+addiu sp, sp, $ff80
+sd ra, $0070(sp)
+sq s2, $0060(sp)
+sq s1, $0050(sp)
+sq s0, $0040(sp)
+ld t1, $0000(a0)
+sd t1, $0030(sp)
+ld t1, $0000(a1)
+sd t1, $0020(sp)
+daddu s0, zero, zero
+daddu s1, a2, zero
+sq a3, $0010(sp)
+shaderloop:
+lq a2, $0010(sp)
+lq a3, $0010(sp)
+jal $0035FCE0
+nop
+addiu s0, s0, $0001
+lwc1 $f0, $0034(sp)
+lui t0, $3f00
+mtc1 t0, $f1
+add.s $f0, $f0, $f1
+swc1 $f0, $0034(sp)
+swc1 $f0, $0024(sp)
+addiu a0, sp, $0030
+addiu a1, sp, $0020
+bne s0, s1, :shaderloop
+nop
+ld ra, $0070(sp)
+lq s2, $0060(sp)
+lq s1, $0050(sp)
+lq s0, $0040(sp)
+jr ra
+addiu sp, sp, $0080
+nop
+address $200BB174
+addiu sp, sp, $ff80
+sd ra, $0080(sp)
+sq s7, $0070(sp)
+sq s6, $0060(sp)
+sq s5, $0050(sp)
+sq s4, $0040(sp)
+sq s3, $0030(sp)
+sq s2, $0020(sp)
+sq s1, $0010(sp)
+sq s0, $0000(sp)
+// menu settings pointer
+setreg s0, $0009BAC0
+// current selection index
+lb s1, $0000(s0)
+// max selection index
+lb s2, $0004(s0)
+// timer value
+addiu s3, zero, $000c
+// load timer offset
+lb s4, $0008(s0)
+beq s4, s3, :continue
+nop
+addiu s4, s4, $0001
+sb s4, $0008(s0)
+bne s4, s3, :end3
+nop
+continue:
+setreg s5, $0044F15C
+lh s6, $0000(s5)
+addiu v0, zero, $ffff
+beq s0, v0, :end3
+nop
+//reset timer
+sb zero, $0008(s0)
+// open menu L1_Square
+addiu v0, zero, $7bff
+beq s6, v0, :openmenu
+nop
+lb s7, $000c(s0)
+beq s7, zero, :end3
+nop
+// close menu circle
+addiu v0, zero, $dfff
+beq s6, v0, :closemenu
+nop
+lb s7, $000c(s0)
+beq s7, zero, :end3
+nop
+openmenu:
+setreg t9, $00415ff0
+lw t9, $0000(t9)
+lw t9, $00bc(t9)
+lw t9, $00c0(t9)
+lb s7, $000c(s0)
+bne s7, zero, :skip2
+nop
+addiu v1, zero, $0001
+sb v1, $000c(s0)
+addiu v1, zero, $0003
+sb v1, $0221(t9)
+beq zero, zero, :skip2
+nop
+closemenu:
+setreg t9, $00415ff0
+lw t9, $0000(t9)
+lw t9, $00bc(t9)
+lw t9, $00c0(t9)
+sb zero, $000c(s0)
+sb zero, $0221(t9)
+beq zero, zero, :skip2
+nop
+skip2:
+// scroll up
+addiu v0, zero, $ffbf
+bne s6, v0, :skip3
+nop
+beq s1, s2, :reset
+nop
+addiu s1, s1, $0001
+beq zero, zero, :fnc
+nop
+reset:
+addiu s1, zero, $0001
+beq zero, zero, :fnc
+nop
+// scroll down
+skip3:
+addiu v0, zero, $ffef
+bne s6, v0, :fnc
+nop
+addiu s1, s1, $ffff
+bne s1, zero, :fnc
+nop
+daddu s1, s2, zero
+fnc:
+sw s1, $0000(s0)
+lb s1, $0000(s0)
+lb s7, $000c(s0)
+beq s7, zero, :end3
+nop
+// seal 1
+addiu v1, zero, $0001
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0002
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0003
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0004
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0005
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0006
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0007
+beq s1, v1, :fnc2
+nop
+addiu v1, zero, $0008
+beq s1, v1, :fnc2
+nop
+fnc2:
+addiu v0, zero, $bfff
+beq s6, v0, :fnc3
+nop
+beq zero, zero, :end3
+nop
+fnc3:
+daddu a0, v1, zero
+jal :__swap
+nop
+end3:
+ld ra, $0080(sp)
+lq s7, $0070(sp)
+lq s6, $0060(sp)
+lq s5, $0050(sp)
+lq s4, $0040(sp)
+lq s3, $0030(sp)
+lq s2, $0020(sp)
+lq s1, $0010(sp)
+lq s0, $0000(sp)
+jr ra
+addiu sp, sp, $0080
+nop
+
+__swap:
+addiu sp, sp, $ffb0
+sd ra, $0050(sp)
+sq s4. $0040(sp)
+sq s3, $0030(sp)
+sq s2, $0020(sp)
+sq s1, $0010(sp)
+sq s0, $0000(sp)
+daddu s0, a0, zero
+beq s0, zero, :end4
+nop
+addiu s0, s0, $0030
+setreg s1, $0009BD50
+lb s2, $fffc(s1)
+beq s2, zero, :printui
+nop
+beq zero, zero, :fnc4
+nop
+printui:
+setreg t0, $68436955
+
+setreg t1, $79547261
+
+setreg t2, $00316570
+sw t0, $0000(s1)
+sw t1, $0004(s1)
+sw t2, $0008(s1)
+addiu v0, zero, $0001
+sb v0, $fffc(s1)
+sb s0, $000a(s1)
+swap1:
+jal $0053e170
+daddu a0, s1, zero
+daddu s3, v0, zero
+jal $002B3580
+nop
+daddu s4, v0, zero
+sw s3, $0540(s4)
+addiu v1, zero, $0001
+sb v1, $0fcf(s4)
+beq zero, zero, :end4
+nop
+fnc4:
+sb s0, $000a(s1)
+beq zero, zero, :swap1
+nop
+end4:
+ld ra, $0050(sp)
+lq s3, $0040(sp)
+lq s2, $0030(sp)
+lq s1, $0020(sp)
+lq s0, $0010(sp)
+jr ra
+addiu sp, sp, $0050
