@@ -11,5 +11,5 @@ The only bug is that other players won't see your new skin on their screen.
 ---
 UPDATE
 
-Aimbot(r0001) : Source & Release | inFramework.h & PCSX2RecompileMEM Function removed. Tutorial is on GuidedHacking.com "PCSX2 Emulator FindDMAAddy MultiLevel Pointer Function"
+Aimbot(r0001) : Source & Release | Tutorial is on GuidedHacking.com "PCSX2 Emulator FindDMAAddy MultiLevel Pointer Function"
 
