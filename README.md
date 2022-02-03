@@ -11,5 +11,5 @@ The only bug is that other players won't see your new skin on their screen.
 ---
 UPDATE
 
-Turning this into an archive for all things SOCOM 2
+Aimbot(r0001) : Source & Release | inFramework.h & PCSX2RecompileMEM Function removed. Tutorial is on GuidedHacking.com "PCSX2 Emulator FindDMAAddy MultiLevel Pointer Function"
 
