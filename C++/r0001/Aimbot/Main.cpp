@@ -1,7 +1,7 @@
-//#include "../../../INTERNAL/includes.h"
+// More detailed information can be in the linked header file
 #include "Helper.h"
 
-
+//  MAIN THREAD
 DWORD WINAPI iniThread(HMODULE hModule)
 {
     //  Init Console Framework
@@ -14,6 +14,7 @@ DWORD WINAPI iniThread(HMODULE hModule)
     //  Main Hack Loop
     while (true)
     {
+        //  Console Menu
         if (!Vars::bMENU)
             UpdateMenu();
 
@@ -52,6 +53,7 @@ DWORD WINAPI iniThread(HMODULE hModule)
     return 0;
 }
 
+// DLL ATTACH
 BOOL APIENTRY DllMain( HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReserved )
 {
     switch (ul_reason_for_call)

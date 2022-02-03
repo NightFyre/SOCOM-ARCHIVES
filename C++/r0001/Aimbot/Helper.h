@@ -1,8 +1,12 @@
+/// includes.h is my personal framework. Can be obtained by contributing to my efforts OR join the GuidedHacking Community to learn how to go about creating your own
+/// PCSX2 GuidedHacking Thread: https://guidedhacking.com/threads/pcsx2-emulator-finddmaaddy-multilevel-pointer-function.19423/
 #pragma once
 #include "../../../INTERNAL/includes.h"
 
-//Summary
+///Summary
 //Game: SOCOM 2 patch.r0001
+
+//  PROC & GAME VARIABLES
 struct Vector3 { float x, y, z; };
 class sealOBJECT
 {
@@ -68,6 +72,7 @@ namespace Offsets {
     int MapBrightness3 = 0x204B4D6C;
 }
 
+//  CONSOLE
 FILE* f;
 void initFrameWork()
 {
@@ -82,6 +87,7 @@ void initFrameWork()
 
 void UpdateMenu()
 {
+    //  Console UI Framework
     cMENU::_clearConsole();
     cMENU::_setConsole();
     std::cout << " ______________________ \n";
@@ -93,24 +99,37 @@ void UpdateMenu()
     Vars::bMENU = true;
 }
 
+//  CHEATS
 void ProMod(bool ENABLED)
 {
     if (ENABLED)
     {
-        Vars::sRFIX = "X";
+        //  Apply Render Fix
         mem::PS2Nop((BYTE*)Offsets::RenderFix, 1);
+        
+        //  Disable Fog
         *(int*)Offsets::Fog = 0;
+        
+        //  Adjust framerate
         *(int*)Offsets::Framerate1 = 60;
         *(int*)Offsets::Framerate2 = 60;
+        
+        //  Adjust map brightness
         *(float*)Offsets::MapBrightness1 = 5;
         *(float*)Offsets::MapBrightness2 = 5;
         *(float*)Offsets::MapBrightness3 = 5;
+        
+        //  Recompile PCSX2 Memory
+        // More information can be found at GuidedHacking.com , I have a thread where I give an overview on this function
         PCSX2RecompileMEM();
+        
+        //  Enabled indication for Menu
+        Vars::sRFIX = "X";
         Vars::bMENU = FALSE;
     }
     else if (!ENABLED)
     {
-        Vars::sRFIX = " ";
+        //  Restore defaults
         mem::Patch((BYTE*)Offsets::RenderFix, (BYTE*)"\x60", 1);
         *(int*)Offsets::Fog = 1;
         *(int*)Offsets::Framerate1 = 30;
@@ -118,7 +137,12 @@ void ProMod(bool ENABLED)
         *(float*)Offsets::MapBrightness1 = 0;
         *(float*)Offsets::MapBrightness2 = 0;
         *(float*)Offsets::MapBrightness3 = 0;
+        
+        //  Recompile PCSX2 Memory
         PCSX2RecompileMEM();
+
+        //  Disabled indication for Menu
+        Vars::sRFIX = " ";
         Vars::bMENU = FALSE;
     }
 }
@@ -127,12 +151,10 @@ void AimBot(bool ENABLED)
 {
     if (ENABLED)
     {
-        Vars::sAIMBOT = "X";
-
-        //  Turn Aim Assist Bool On
+        //  Enable Aim Assist
         mem::Patch((BYTE*)Offsets::AimAssistBool, (BYTE*)"\x01\x00\x00\x00", 4);
 
-        //  Target Distance
+        //  Aim Assist Target Distance
         mem::PS2Nop((BYTE*)Offsets::TargetLockDistance, 4);
 
         //  Perfect Shot
@@ -141,37 +163,35 @@ void AimBot(bool ENABLED)
         mem::PS2Nop((BYTE*)Offsets::wpnSpread2, 4);
         mem::PS2Nop((BYTE*)Offsets::wpnSpread3, 4);
 
-        //  Infinite Ammo
+        //  Infinite Ammo (Ballistics and Equipment)
         mem::Patch((BYTE*)Offsets::decAmmoCount, (BYTE*)"\x00\x00\x63\x24", 4);
         mem::Patch((BYTE*)Offsets::decEquipmentCount, (BYTE*)"\x00\x00\x42\x24", 4);
 
         //  Recompile PCSX2 Memory
+        // More information can be found at GuidedHacking.com , I have a thread where I give an overview on this function
         PCSX2RecompileMEM();
 
+        //  Enabled indication for Menu
+        Vars::sAIMBOT = "X";
         Vars::bMENU = FALSE;
     }
     else if (!ENABLED)
     {
-        Vars::sAIMBOT = " ";
-
-        //  Turn Aim Assist Bool Off
+        //  Restore Defaults
         mem::PS2Nop((BYTE*)Offsets::AimAssistBool, 4);
-
-        //  Target Distance
         mem::Patch((BYTE*)Offsets::TargetLockDistance, (BYTE*)"\xDC\x40\x0A\x0C", 4);
-
-        //  Perfect Shot
         mem::Patch((BYTE*)Offsets::wpnRecoil, (BYTE*)"\x18\x08\xA2\xAE", 4);
         mem::Patch((BYTE*)Offsets::wpnSpread, (BYTE*)"\x08\x00\x00\xE6", 4);
         mem::Patch((BYTE*)Offsets::wpnSpread2, (BYTE*)"\x4C\x08\x40\xE6", 4);
         mem::Patch((BYTE*)Offsets::wpnSpread3, (BYTE*)"\x04\x00\x00\x45", 4);
-
-        //  Infinite Ammo
         mem::Patch((BYTE*)Offsets::decAmmoCount, (BYTE*)"\xFF\xFF\x63\x24", 4);
         mem::Patch((BYTE*)Offsets::decEquipmentCount, (BYTE*)"\xFF\xFF\x42\x24", 4);
 
         //  Recompile PCSX2 Memory
         PCSX2RecompileMEM();
+        
+        //  Disabled indication for Menu
+        Vars::sAIMBOT = " ";
         Vars::bMENU = FALSE;
     }
 }
@@ -181,8 +201,10 @@ void Brightness()
     //  Check if player is in game
     if (*(int*)Offsets::PlayerObjectPTR != NULL)
     {
+        //  Check if brightness has reset itself
         if (*(float*)Offsets::MapBrightness1 == 0)
         {
+            //  Re-Apply our patch
             *(float*)Offsets::MapBrightness1 = 5;
             *(float*)Offsets::MapBrightness2 = 5;
             *(float*)Offsets::MapBrightness3 = 5;
@@ -190,6 +212,7 @@ void Brightness()
     }
     else if (*(float*)Offsets::MapBrightness1 != 0)
     {
+        //  Restore default brightness for menus
         *(float*)Offsets::MapBrightness1 = 0;
         *(float*)Offsets::MapBrightness2 = 0;
         *(float*)Offsets::MapBrightness3 = 0;
