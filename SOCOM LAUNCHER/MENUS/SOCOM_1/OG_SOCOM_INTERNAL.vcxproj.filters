@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{e760bc31-f71a-4138-956c-84c7a07200cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\ImGui">
+      <UniqueIdentifier>{61e31934-7271-4b01-b475-70cf6d253c9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\Minhook">
+      <UniqueIdentifier>{485bc419-4527-4ad5-8c7f-40c4a7cfde2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Class">
+      <UniqueIdentifier>{679dfb99-1367-4ce2-b845-a91e954afc08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Class">
+      <UniqueIdentifier>{8f7c3ed1-9973-4b04-8967-febbc0376c98}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_demo.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_draw.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_impl_dx11.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_impl_win32.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_tables.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\ImGui\imgui_widgets.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\Minhook\buffer.c">
+      <Filter>libs\Minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\Minhook\hde32.c">
+      <Filter>libs\Minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\Minhook\hde64.c">
+      <Filter>libs\Minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\Minhook\hook.c">
+      <Filter>libs\Minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\libs\Minhook\trampoline.c">
+      <Filter>libs\Minhook</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Console.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="src\D3D11Window.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hooking.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Menu.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imconfig.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imgui.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imgui_impl_dx11.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imgui_impl_win32.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imgui_internal.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imstb_rectpack.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imstb_textedit.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\ImGui\imstb_truetype.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\buffer.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\hde32.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\hde64.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\MinHook.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\pstdint.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\table32.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\table64.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\libs\Minhook\trampoline.h">
+      <Filter>libs\Minhook</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Console.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="include\D3D11Window.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Game.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Hooking.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Menu.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
