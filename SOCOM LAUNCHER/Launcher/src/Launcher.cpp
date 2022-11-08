@@ -1,5 +1,4 @@
 #include "../include//Launcher.hpp"
-#include "../include//Injector.h"
 #include "../resource.h"
 namespace SOCOMLauncher {
 
@@ -374,7 +373,7 @@ namespace SOCOMLauncher {
         g_LauncherVariables->proc_T.p_hProc = OpenProcess(PROCESS_ALL_ACCESS, FALSE, g_LauncherVariables->proc_T.p_PID);
 
         //  Method for injection . . .
-        if (!ManualMap(g_LauncherVariables->proc_T.p_hProc, Game)) {
+        if (!g_Memory->ManualMap(g_LauncherVariables->proc_T.p_hProc, Game)) {
             MessageBoxA(NULL, xorstr_("THE ATTEMPT TO LAUNCH WITH MENU HAS FAILED"), xorstr_("ERROR"), NULL);
             return FALSE;
         }

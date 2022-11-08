@@ -31,8 +31,7 @@ typedef DWORD (WINAPI *PFN_XInputGetState)(DWORD, XINPUT_STATE*);
 #endif
 
 #pragma once
-#include "../../MENUS/SOCOM_1/include/Game.hpp"
-#include "../../MENUS/SOCOM_3/include/Game.hpp"
+#include "../../libs/FrameWork/Game.hpp"
 #include "../../MENUS/SOCOM_2/include/Game.hpp"
 #include "../../MENUS/SOCOM_CA/include/Game.hpp"
 // CHANGELOG
@@ -273,9 +272,9 @@ static void ImGui_ImplWin32_UpdateGamepads(int SelectedGame)
             if (COUNT1 >= 25) {
                 switch (SelectedGame) {
                 case(0):
-                    if (SOCOM1::g_GameVariables->m_ShowHud)
-                        SOCOM1::g_GameVariables->m_ShowHud = FALSE;
-                    SOCOM1::g_GameVariables->m_ShowMenu ^= 1;
+                    if (g_GameVariables->m_ShowHud)
+                        g_GameVariables->m_ShowHud = FALSE;
+                    g_GameVariables->m_ShowMenu ^= 1;
                     break;
                 case(1):
                     if (SOCOM2::g_GameVariables->m_ShowHud)
@@ -283,9 +282,9 @@ static void ImGui_ImplWin32_UpdateGamepads(int SelectedGame)
                     SOCOM2::g_GameVariables->m_ShowMenu ^= 1;
                     break;
                 case(2):
-                    if (SOCOM3::g_GameVariables->m_ShowHud)
-                        SOCOM3::g_GameVariables->m_ShowHud = FALSE;
-                    SOCOM3::g_GameVariables->m_ShowMenu ^= 1;
+                    if (g_GameVariables->m_ShowHud)
+                        g_GameVariables->m_ShowHud = FALSE;
+                    g_GameVariables->m_ShowMenu ^= 1;
                     break;
                 case(3):
                     if (SOCOM_CA::g_GameVariables->m_ShowHud)

@@ -66,18 +66,9 @@
     <ClCompile Include="Launcher\src\Launcher.cpp">
       <Filter>Source Files\Class</Filter>
     </ClCompile>
-    <ClCompile Include="Launcher\src\Injector.cpp">
-      <Filter>Source Files\Class</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Launcher\Console.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Launcher\Helper.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Launcher\Memory.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="libs\ImGui(Docking)\imconfig.h">
@@ -113,9 +104,6 @@
     <ClInclude Include="Launcher\include\Launcher.hpp">
       <Filter>Header Files\Class</Filter>
     </ClInclude>
-    <ClInclude Include="Launcher\include\Injector.h">
-      <Filter>Header Files\Class</Filter>
-    </ClInclude>
     <ClInclude Include="Launcher\include\Memory.hpp">
       <Filter>Header Files\Class</Filter>
     </ClInclude>
@@ -124,6 +112,9 @@
     </ClInclude>
     <ClInclude Include="Launcher\resource.h">
       <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\Console.hpp">
+      <Filter>Header Files\Class</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
