@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{7ccd5f5e-0d5b-4cff-839f-e5086ed47071}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\ImGui">
+      <UniqueIdentifier>{37755ebe-0c23-4f9b-b633-652399059191}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\StringEcryption">
+      <UniqueIdentifier>{f2571c5b-9cd3-4fea-9970-6b32053bbfdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Class">
+      <UniqueIdentifier>{3fd5e620-97a4-466e-89c9-a80295521e2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Class">
+      <UniqueIdentifier>{d1b3c754-b024-41cb-aff9-e87c0a179ae0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Launcher\SOCOM_LAUNCHER.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_demo.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_draw.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_impl_dx11.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_impl_win32.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_tables.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\ImGui(Docking)\imgui_widgets.cpp">
+      <Filter>libs\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher\src\Console.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher\src\Memory.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher\src\DXWindow.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher\src\Launcher.cpp">
+      <Filter>Source Files\Class</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Launcher\Helper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imconfig.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imgui.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imgui_impl_dx11.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imgui_impl_win32.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imgui_internal.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imstb_rectpack.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imstb_textedit.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\ImGui(Docking)\imstb_truetype.h">
+      <Filter>libs\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\StringEncryption\xorstr.hpp">
+      <Filter>libs\StringEcryption</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\include\DXWindow.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\include\Launcher.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\include\Memory.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\resource1.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Launcher\Console.hpp">
+      <Filter>Header Files\Class</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Launcher\SOCOM_LAUNCHER.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Launcher\icon\socom_community.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2289 @@
+Socom 2: US Navy Seals Glitch Archive
+-------------------------
+
+This is the official Glitch Archive, of Socom 2: US Navy Seals, made by Outsider of www.NextGenBoards.com
+Please, as a disclaimer, do not post this on any other website without contacting Outsider via Aim at eXo Outsider.
+
+Archive Statistics:
+Websites Posted At (2):
+www.NextGenBoards.com
+
+Game Name: SOCOM 2: U.S. NAVY SEALs
+Version: Patch r0004
+Region: NTSC - USA 
+
+-=-=-=-=-=-==-=-=-=-=-=-==-=-
+
+Original Archive Written By: Outsider
+Edited, Revised, and Maintained By: Outsider
+Original Formatting By Outsider
+-------------------------------------------------------------
+
+Updates
+Sept. 10 2006: Glitch Archive Reformatted
+Sept. 10 2006: Started adding videos to the glitches
+Sept. 22 2006: Formatting is finished
+------------------------------------------------------------
+
+INDEX
+Text Glitches
+Box Glitches
+Shotgun Knockups
+Useful Glitches
+Skin/Gun Glitches
+Slides
+Random Glitches
+Turret/Ladder Glitches
+Ninja Jumps
+Lobby Glitches
+Throw/Plant/Shoot Anything Glitches
+M203/Frag Glitches
+Showoff Glitches
+Boot Glitches
+Bomb Glitches
+
+-=-=-=-=-=-==-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
+
+Text Glitches
+
+[****] Star Clan Tag
+[*****] Star Clan Tag
+Only { As Clan Tag
+50 Star Room Name
+Red Clan Tag
+Changing Long Clan Tag
+Curse In Clan Tag
+Change Room Name w/o Making New Room
+No Room Name
+MSG Codes In Room Name
+Long Clan Tag
+Long Clan Name
+Long Room Name
+Buttons In Player Description
+Invisible Name/Clan Tag
+Send Clan Invites To Long Names
+Colored Clan Tag
+----------------------------------------------
+
+
+[****] As Clan Tag
+1. Make clan tag [fkæ]
+Credit: Unknown
+
+[*****] As Clan Tag
+1. Make clan tag [FK€]
+Credit: Unknown
+
+Only [ As Clan Tag
+1. Go to Clan Tag
+2. Put in #C!
+3. Flip switch, go to main menu, flip back
+Credit: Unknown
+
+50 Star Room Name
+1. Make the room name FK€€€€€€€€€
+Credit: Unknown
+
+Red Clan Tag
+1. Press standby and go to manage clan
+2. Change tag to #C and leave manage clan
+3. Press standby back on and clan tag will change to [#C??? but in red
+Credit: l)NAS
+
+Changing Long Clan Tag
+1. Go to Options, Setup Taunts.
+3. Set a Taunt to a maximum of 14/15 characters.
+(Tip: If your clan's name is Killers; make the tag -K-%%%%%%%%%€€€)
+(Tip: Replace the % with a space; the € is the European E)
+2. Go back to the Main Menu and go to Clan.
+3. Go to Clan Tag.
+4. Enter ]]] into the Text Box, but don't press Enter yet.
+4. Press Standby. (To Disconnect)
+5. Press Enter, to enter ]]] as the Clan Tag.
+6. Go back to the Main Menu, click Options, click Setup Taunts.
+7. Press Standby again. (To Reconnect)
+8. When the ]]] shows up as your Clan Tag, Press Standby again. (To Disconnect)
+9. Select the Taunt with the Spaces and European E symbols.
+10. Press Circle to exit from the Taunt.
+11. Go back to the Main Menu, then select Clan.
+12. Press X and then Circle on Clan Tag.
+13. Press Standby. (To Reconnect)
+14. Press X and then Circle on Clan Tag, again.
+15. Wait about 5 seconds until it pops up.
+16. Your tag should be something like [TAGHERE €€€]
+17. Press X, then Triangle, and then Triangle again.
+Credit: Nepdawg and Vezman
+
+Curse In Clan Tag
+1. Press standby and go to manage clan
+2. Change clan tag to the curse (Example: KKK, FAG, ASS, JEW)
+3. Leave manage clan and press standby back on
+Credit: l)NAS
+
+Change Room Name Without Making New Room
+1. Go to create game and type in what you want room name to be but dont enter it.
+2. Pull cord and enter it in.
+4. Leave create game and go to thee room that you want to change name.
+5. Now fot it to change on everyone elses screen you must become host and then everyone will see the room called whatever you called it.
+Credit: l)NAS
+
+No Room Name
+1. Make the password maps and settings how you want them.
+2. Pull cord and then press x on the room name then o to enter nothing.
+3. Then Press x again to bring up room name and type annyrhing then enter it.
+4. Press square so bar starts moving then press stanby again and while it is creating the name will dissaper and it will be nothing.
+Credit: l)NAS
+
+MSG Codes In Room Name
+1. go in lobby and open chat message..
+2. Type (for example) _52_Select_MSG But dont enter it!
+3. Flip your switch and press enter go to room name and just type somthin quick like "A" then flip your switch back and when the lag catches up you will have it...
+Credit: l)NAS
+
+Long Clan Tag
+1. Make your clan tag ]]]
+2. then press standby
+3. Press circle then enter, then go to your options and press standby.
+4. Go into taunts and make a taunt with NO spaces that you want to be your clan tag
+5. Then highlight your taunt and press standby. Press X then triangle and go to your clan tag
+6. Press X circle then press standby again. Press X circle then your done
+Credit: Crezza
+
+Long Clan Name
+1. Go to taunts and type in whatever you want clan name to be but dont enter it
+2. Press standby and enter the taunt
+3. Go to create clan and type anything in (Example: hhfhfhfa)
+4. Press standby back on and keep pressing create clan rapidly and the clan will create
+5. Now leave manage clan and go back about 3 times and you will see the taunt for your clan name
+Credit: l)NAS
+
+Long Room Name
+1. Go to the breifing room and type whatever you want the room to be called in the lobby but dont enter it
+2. Press standby and enter the message
+3. Go to create game and type anything in for the name (Example: a)
+4. Press standby back on and the a will change to the message that you typed
+Credit: l)NAS
+
+Have Buttons In Player Description
+1. Go onto lan without the patch
+2. Go to taunts and change it to however you want your player description using msg codes or whatever
+3. Save the taunt and go on S2 online and go to taunts
+4. Hit X on the taunt you just made then hit standby
+5. Press O then go to your player description and type anything(Example: a)
+6. Press standby back on and the a will turn into whatever your taunt is
+Credit: l)NAS
+
+Invisible Name/Clan Tag
+1. Go to lan and make ~$~ a taunt
+2. Then go online and do long clan tag glitch using that taunt
+Credit: Clan Evolution
+
+Send Clan Invites To Long Names
+1. Go into your friends list and go to add new friend
+2. Now put in the person’s name, but don’t enter
+3. Hit standby then go to clan, invitation, then invite player
+4. With standby still on type in ‘a’ then press O and turn off standby
+Credit: Unknown
+
+Colored Clan Tags
+1. Make the clan name and everything you want set up.
+2. Make a FAKE name and register it. (this will be the name your banning)
+3. Log back on your REAL name and send an invite to your FAKE name.
+4. Log off go on your FAKE name and accept the clan invite.
+5. Log off again and go on REAL name then make your FAKE name leader of the clan.
+6. Now sign off and load up your cheat device.
+7. Boot up with the no text limits code (203BA77C 24420001).
+8. Sign on your FAKE name and go straight to manage clan.
+9. Then go straight to clan tag as fast as you can and once your in flip switch.
+10. Hurry up and enter in the color codes and text you want.
+11. Enter it in and go back to main menu.
+12. Flip switch back when your at main menu.
+13. Wait till your tag pops up in color, then go back into manage clan real quick.
+14. Go to appoint leadership and select your REAL name.
+15. Once you gave your REAL name leadership just turn off ps2 and when you log on it'll be that color
+Credit: Snowboard*Bum
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Box Glitches
+
+Clip Into Any Box
+Invisible Box Climb
+Hulk
+David Blaine
+Jordan
+Hulk, David Blaine, and Hang Ten w/o Unplugging
+Box and Weapon Climb Extensions
+Double Climb
+Get Into Any Box w/o Clay/Mine (Non-Respawn)
+Prone Invincibility
+Prone Invincibility w/o Unplugging
+Portable Box Climb
+Portable Box Climb In Frostfire
+Portable Box Climb w/o Unplugging V1-2
+Hulk/David Blaine On Turret V2
+Advanced Hulk/Jordan/Guirilla Slide w/Rocket
+Mirror Image Hang Ten
+----------------------------------------------
+
+
+Clip Into Any Box
+1. Take out your primary then take out your claymores
+2. Hang on a box
+3. Climb up and when your right knee is level with the box plant a claymore and dont press anything
+Credit: DarkSoulBlade
+
+Invisible Box Climb
+1. Go up to a box and run to the side of it, then press X and square at the same time
+Credit: Unknown
+
+Hulk
+1. Press standby and do the invisible box climb
+2. When you land press standby back on and wait til lag catches up
+Credit: .22 Cali
+
+Hulk w/ Feeny Climb
+1. Do the feeny climb, then do a running jump
+Credit: Flippin Feeny
+
+David Blaine
+1. Press standby and run and jump at the box and while in the air climb up the box
+2. Once on top of the box press standby back on and stand there til lag catches up
+Credit: :SkilLZ:
+
+The Jordan
+1. Go up to something you can hang on
+2. Hit standby and do a short invisible box climb
+3. When your climbing up you should see the climb icon hit X and turn off standby
+Credit: Flippin Feeny
+
+Hulk w/o Unplugging
+1. Do invisible box climb but hit a wall so on your screen your not doing it but on other peoples screen you are
+2. Take out your pistol
+3. Do invisible box climb again only really do it this time and climb up
+Credit: l)NAS
+
+David Blaine w/o Unplugging
+1. Do the hulk without unplugging
+2. Run and jump at a box and while in the air climb the box
+Credit: l)NAS
+
+Hang Ten w/o Unplugging
+1. Do the hulk without unplugging
+2. When doing it lean
+Credit: l)NAS
+
+Box Climb Extension
+1. Take out your primary then your claymores
+2. Do an invisible box climb and climb up
+3. When your shoulders get above the invisible box plant a claymore and hold lean
+4. As long as you lean people can push you around to get past proxies
+Credit: Fastkilla
+
+Double Climb
+1. In Desert Glory, go to a climbing area near a rock
+2. Do an invisible box climb towards the rock
+3. Now you should be able to see the climb icon again, once seen press X
+Credit: Imperfection
+
+Get Into Any Box w/o Claymores/Mines
+1. Go to a box and have someone die in front of it
+2. Now look down and climb up the box
+3. When your shoulders get above the box pick up the weapon
+(Note: You can also do this witht a victory dance but it must be the back flip victory dance)
+Credit: -=M9=-
+
+Prone Invincibility
+1. Hang on a box
+2. Press standby get off of the box and do invisible box climb
+3. After lag catches up Press triangle and on other peoples screen you are in prone
+Credit: Mike19687
+
+Prone Invincibility w/o Unplugging
+1. Go to a box
+2. Do the invisible box climb and while in air rapidly hit X to plant a claymore
+3. While hanging, hit triangle hard to go into prone on others screens
+Credit: Standby and Corder
+
+Portable Box Climb
+1. Go to a room that has a bomb and somewhere to climb
+2. Go up to the climb spot and look down til you see climb and drop bomb at the same time
+3. Press standby and drop the bomb then press standby back on 2 seconds later ( Example: 4:48 Press standby, drop bomb, 4:50 press standby back on)
+4. One second after you press standby back on do invisable box climb
+5. You will jump like your going to do it but then it will say bomb dropped while your jumping, and when you land you will drop bomb, while dropping the bomb turn towards whatever you want to get on but you only have 2 seconds to turn then after dropping bomb you will then slide away
+6. Dont press anything until you wanna climb, when you do want to climb just press up on your analog stick
+Credit: SiLeNt and l)NAS
+
+Portable Box Climb In Frostfire
+1. Go to the box inside the box room thats closest to the door and open the door
+2. Get into crouch and run and start to do invisible box climb
+3. While in the air press close door
+4. You will slide but dont press anything til you hit the ramps then climb up
+Credit: SiLeNt and l)NAS
+
+Portable Box Climb w/o Standby
+1. Get the bomb and go to a hanging ledge.
+2. Get both the climb and drop bomb icons to show up
+3. Drop the bomb and as your fropping it do an invisible box climb in the direction u want to go.
+4. After u hit hit invisible box climb your guy will plant the bomb animation u can turn to face the direction u are going
+5. While sliding press up on the right analog stick to climb up
+Credit: DUFFFMAN
+
+Portable Box Climb w/o Unplugging in Any Map
+1. Get a dead guy gun near a hanging climb spot
+2. Drop the gun and do an invisble box climb
+3. Hit your analog stick when you want to climb up
+Credit : DUFFFMAN
+
+Feeny Climb
+1. Do the turret glitch
+2. Take out your pistol and go to a ledge you can hang on
+3. Hang then hold lean left and while climbing up let go and press X
+Credit: Flippin Feeny
+
+Hang Ten On Turret
+1. Do the feeny climb then go on a turret
+Credit: Flippin Feeny
+
+Hulk On Turret
+1. Do the hulk using the feeny climb method
+2. Get on a turret
+Credit: Flippin Feeny
+
+David Blaine/ Hulk On Turret
+1. Do the turret glitch
+2. Do the david blaine/hulk or any floating glitches
+3. Then go on the turret and u will be david blaineing/hulk or w/e on turret
+Credit: ROBBY23 and Toy_Machine
+
+Advanced Hulk/Jordan/Guirrilla Slide With Rocket
+1. Do the rocket illusion glitch
+2. Now depending on which thing your doing go to a hang spot for hulk, hopping ledge spot for guirrilla slide, or little step for jordan
+3. To do jordan and guirrilla slide with rocket just pull your cord hop the ledge or climb the step then plug back in
+4. For hulk, hang on a ledge while in rocket illusion then pull your cord climb up then jump now plug back in
+Credit: Nate2k4 and Duffman
+
+Mirror Image Hang Ten
+1. Do the hulk without unplugging then lean
+2. You should be doing hang ten
+3. Now do a proxie break into something that is knee high
+4. Other people will see you rapidly bouncing up and down in hang ten (Like there is two bodies)
+Credit: Outsider
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Shotgun Knock-ups/Ninja Jumps
+
+Shoguns V1-7
+Super Shotgun V1-3
+Portable Shotgun
+Pink Floyd Shotgun
+----------------------------------------------
+
+
+Shotgun Version 1
+1. Have someone stand on your head and shoot them in the legs with a shotgun
+Credit: Not Available
+
+Shotgun Version 2
+1. Have someone hang then climb up and while they are climbing shoot them in the legs
+Credit: Not Available
+
+Shotgun Version 3
+1. Have someone stand n your head and keep switching from pistol to primary and shoot them in the legs with a shotgun
+Credit: Not Available
+
+Shotgun Version 4
+1. Have someone stand on you and take there rocket out then while they are putting it away shotguns them in the legs
+Credit: Mr Bigelsworth
+
+Shotgun Version 5
+Have someone stand on your head and jump up and down and while they are about to jump shotguns them in the legs
+Credit: Clan Fusion
+
+Shotgun Version 6
+1. Have Someone stand on your head and jump up and down and when they are about to jump shoot twice with the M3
+Credit: Not Available
+
+Shotgun Version 7
+1. Prone at the top of the ladder and while they and getting off of the ladder shotguns them in the legs
+Credit: Not Available
+
+Super Shotgun V1
+Needed : 2 people, one with rocket, and the other with a shotgun.
+1. Person one does the rocket hang, so they are hanging with their RPG/ AT4 out. To do that have your rocket on quick two, go up to a ledge you can hang on, and then stay hanged there.
+2. The next person regular prone shotguns them and they go amazingly high.
+3. If you do the double shotgunn with this glitch, you go INSANLY high.
+Credit : Pac-Man, Illusions, and Swift
+
+Super Shotgun V2
+1. Have someone go where you want to be shotgun
+2. The person with the shotgun flips there switch and shoots the other person bout 7 times then flip your switch back
+Credit: BLinD
+
+Super Shotgun V3
+1. Go to a ledge where u cant hang
+2. Look all the way up then climb and have someone shoot you
+Credit: Fatal and Carebear
+
+Portable Shotgun
+1. Do either the weapon, bomb, ladder, or box climb extension
+2. Have someone push you to where you want to go
+3. Have the one who has the shotty get in prone and when they see player 2 popping up shoot them in the legs
+Credit: Outsider and Fastkilla
+
+Pink Floyd Shotgun
+1. Person w/ shotgun lines up with person 2 about 10 ft away
+2. Person 2 jumps twice, and once he starts running he should jump half way through
+3. At this time player 1 shoots him in knees and he will go flying
+Credit: -The_Professor and Icedogs
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Useful Glitches
+
+Throw Nades Threw Walls
+Neverending Respawn
+Plant Bomb/Diffuse Bomb
+No Fall Damage V1-2
+Host Spawns Early
+Proxy Drop
+Easy Infinite Game Timer
+One Vote Glitch
+Proxie Slide Return
+Instant Hostage Extract
+----------------------------------------------
+
+Throw Nades Threw Walls
+1. Go up to a wall with nades out.
+2. Lean into the wall and throw a nade.
+Credit: Unknown
+
+Neverending Respawn
+1. Have whoever the host is to open there disc tray
+2. Vote him off
+3. Now as long as he has his ps2 on the respawn will never end and noone can abort
+Credit: Unknown
+
+Plant Bomb/ Defuse Bomb
+1. Start planting the bomb 3/4 way through plant pull ethernet cord out.
+2. Then plant will finish and while cord is out plant icon will come up again plant again halfway through plant plug ethernet cord back in.
+Credit: Candyman and Bizzleshizzle
+
+No Fall Damage Version 1
+1. Plant a claymore at the bottom to where you are gonna jump to from a high place, or throw a nade.
+2. Now when you fall off the edge you will either get blown back up in the air by the nade or claymore landing low enough to survive.
+Credit: Unknown
+
+No Fall Damage Version 2
+1. You must get blown off of the roof by a clay or shotgun, so when you do right before you hit the ground press triangle
+Credit: Unknown
+
+Host Spawns Early
+1. Host pulls his cord at 5 seconds left on the stat screen.
+Credit: Unknown
+
+Proxy Drop
+1. Go to any staircase or ramp.
+2. Have some get at the bottom of the staircase in crouch with their feet touching the stairs.
+3. Then the person getting in the stairs get in prone on the stairs.
+4. The the person in prone crawls towards the person in crouch.
+5. The person in prone should lean left and reloads when he touches the persons feet.
+6. And you then should be in it.
+Credit: l)NAS
+
+Easy Infinate Game Timer
+1. Go into a respawn game.
+2. At any time vote the host and have him eject his disc when his screen frezes.
+3 . The game will not end until the host puts his disc back in.
+Credit: The Professor and Mike19687
+
+Proxie Slide Return
+1. Do a proxie slide
+2. Now whenever you lean, just let go and you will go to original starting point
+(Note: If you slide higher than the building the corner was on, you will get on top of that roof)
+Credit: degree
+
+Extract All Hostages Instantly
+1. Take all the vips in the extraction zone
+2.Wait for the bar to start going, then start running away from the extraction zone
+3. The bar will keep on going all the way through
+4. Now when ever you take any of those vips in the extraction zone they'll automatically extract when there in it without having to wait for a bar
+Credit: FaTaL
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Skin/Gun Glitches
+
+Assassinator V1-2
+Skin Glitch
+Unlock 4th Seal
+Scope with Pistol
+3rd Person Binoculars V1-2
+3rd Person Scope
+Lock Your Armory V1-2
+No Reload V1-2
+Quick Switch
+7 Weapons
+
+----------------------------------------------
+
+Assassinator
+1. Get on the team you want to be on
+2. Press standby and press switch teams then go to armory
+3. Pick the first guy and press standby back on
+4. Right after pressing standby back on press square rapidly
+5. After a few seconds you will see a message come up then disappear
+6. After message goes away pick the weapons you want
+7. Customize, then press done
+8. Switch teams and G^, Dont go to armory
+Credit: #1 Assassin
+
+Assassinator w/o Unplugging
+1. Do the half the skin glitch so that your still in the seals armory (For second time)
+2. Pick the weapons you want as a terrorist
+3. Then switch teams and green up
+Credit: CoRdEr
+
+Skin Glitch
+1. Go to the seals team and go to armory.
+2. Select the first guy and pick HK5SD,SP-10,Frag, and Frag.
+3. Customize that setup two times.
+4. Leave the armory and switch to the terrorist.
+5. Pick the 4th guy.
+6. After selecting him select the weapons you wouuld like to have on the seals team.
+7. Customize the setup 5 times.
+8. Return to the lobby of the game you are in, hit switch teams, then x right after to make your self green up right after.
+9. After that green down and go tp the armory on seals.
+10. As soon as you click armory, hit x as fast as you possibly can, until the armory is messed up, but still clear enough for you to see.
+11. Press up and the weapons should appear (Terrorist ones you pickes) but sometimes the HK5SD set will appear. If that happens, leave armory and repeat steps 9-11.
+12. When the weaapons do appear, keep pressing up and down until you hit done and then green up.
+Credit: Bwell
+
+Unlock 4th Character as Seal
+1. Do part of the skin glitch so u g^ the green down as seal
+2. Then go into armory and press X when you first see the characters
+3. Now there should be no characters highlighted, now press left on the d-pad
+Credit: Unknown
+
+Scope With Pistol
+1.Get any sniper rifle or any gun with a scope.
+2.Press Circle and R2 right after eachother. If you did it right the tactical menu should pop up.
+3.Press triangle to close it.
+4.Then your inventory will pop up
+5.Then scroll down in your inventory to Zoom in and then select your pistol.
+Credit: Unknown
+
+3rd Person Binoculars #1
+1. Take out claymores and get into first person
+2. Press R1 and Up on your D pad rapidly til you go into binoculars
+3. Your binoculars will slowly more towards you and after about 30 seconds you will see yourself in your binoculars
+Credit: Unknown
+
+3rd Person Binoculars #2
+1.Take out your pistol
+2.Press Circle and R2 right after eachother. If you did it right the tactical menu should pop up.
+3.Press triangle to close it.
+4.Then your invintory will pop up
+5.Then scroll down in your inventory to Zoom in and then select your primary
+Credit: Dragon And ZEUS
+
+3rd Person Scope
+1. Pull out your rocket and start tapping right on the d-pad hit quick 1 and you will have your rocket on your shoulder but your primary is in the box in the bottom of the screen
+2. Take out primary press circle and R2 right after eachother
+3. If you did it right the tactical menu should pop up press triangle to close it
+4. Then your inventory will pop up
+5. Then scroll down in your inventory to Zoom in and then select your pistol
+6. Now walk forward and your scope will start to move towards you slowly
+7. About 30 seconds later you will be in scope but you can see yourself
+Credit: Unknown
+
+Lock Your Armory
+1.Get a rocket and c4
+2.Go up to any c4 breach, and take out w/e you want to get on turret, put w/e you took out on quick one
+3.Take out your rocket in front of the breach
+4. Now do rapid flashbangs wioth whatever you want on the turret
+5.Get the c4 icon, up hit X to start planting
+6.As soon as you see the c4 in the little icon in the bottom left corner run away
+7.When your done your armory should be locked
+8.Then you can wait on a turret and your gun will pop on it like c4 as primary
+Credit: Cable Guy
+
+Lock Your Armory V2
+1. Go up to a c4 breach and get c4 as primary with whatever you want on turret
+2. Now move back so u cant see c4 sign and press R1 to take out whatever you did c4 as prim. with
+Credit: Cable Guy
+
+No Reload Version 1
+1. Go up against a wall and lean against it in prone
+2. Now while still leaning against it start moving away
+Credit: Stealth
+
+No Reload Version 2
+1. Go to the crane switches in chain reaction
+2. Hold lean left and press X five times then lean right and press X five times
+3. Keep doing this back and forth and soon you will get stuck
+4. Shoot your gun and you will never reload you will just keep shooting
+Credit: Stealth
+
+Quick Switch
+1. Press lean and quick 2 and you will switch to your pistol automatically do vice versa for the primary
+Credit: Dragon
+
+7 Weapons
+1. Have one person g^ and a nother person red
+2. Have the person red pull there cord and G^
+3. It should start the game
+4. If done correctly you should only have seven weapons in armory
+Credit: .AKa.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Slides
+
+Lean Back Slide
+Crouch and Prone Baby Slide
+Hulk Slide
+Perfect Slide
+Stand Slide W/Clays
+Rocket Prone Slide
+Prone Slide W/Ladder
+Easy Ass Prone Slide
+Proxy Slide
+Reverse Claymore Slide
+Guirilla Slide
+Guitar Slide
+Cord Pull Lean Back
+Shit Slide
+Boxer Slide
+eXo Slide
+Magical Door
+Magical Fall
+Magical Hop
+Magical Stumble
+----------------------------------------------
+
+Lean Back Slide
+1. Do the invisible box climb with your pistol out, but hit something so it looks like your hanging on others screens
+2. Look to the side of the box and jump forwards
+Credit: NEWYORK
+
+Crouch and Prone Baby Slide
+1. Do the lean back slide
+2. Now, depending on which stance you want to do the baby slide in (crouch or prone only) throw two grenades
+Credit: DNAS
+
+Hulk Slide
+1. Do the lean back slide
+2. Plant a claymore
+Credit: Flippin Feeny
+
+Advanced Stand Slide
+1. Do the lean back slide
+2. Throw A Grenade
+Credit: Flippin Feeny
+
+Perfect Slide
+1. Do the lean back slide
+2. Go into whatever stance you want to be in and reload your primary twice
+Credit: Standby
+
+Stand Slide (W/Claymores)
+1. Go next to a wall in stand with your claymores out
+2. Keep tapping R1 so you do the animation of planting a claymore 5-7 times
+3. One claymore should have planted, now run away
+Credit: Unknown
+
+Rocket Prone Slide
+1.Take out your rocket and do rapid flashbangs so you have your primary out in the corner but you’re in rocket position
+2. Set handgun to quick 2 and primary to quick 1
+3. Now press triangle and in the corner you should see prone
+4. Once in prone keep pressing L1 then L2 about 10 times each really fast
+5. Stop switching and make sure you have your primary weapon out
+6. As soon as you stop switching hold lean left and press down on your left analog stick
+Credit: Stealth
+
+Prone Slide W/ Ladder
+1. Get on ladder with clay/mine.
+2. Ladder slide, and while you ladder sliding keep pressing R1.
+3. So when you do get to the bottom it plants a claymore right away.
+4. While your planting the claymore press triangle for about 1 second.
+5. Then after you let go off triangle keep pressing x so you get back on the ladder right away.
+6. Now get off of the ladder and there you go.
+Credit: Clan Evolution
+
+Easy Ass Prone Slide
+1. Get in prone
+2. Press standby or switch
+3. Press reload, then press reload again
+4. Hold lean right and reload twice
+5. While still holding lean press standby or switch back on
+6. Right after pressing standby or switch back on make sure your still are holding lean right and keep reloading till lag catches up
+7. Stand up
+Credit: DNAS
+
+Perfect Proxy Slide
+1. Go up to a corner of a wall with your grenades out
+2. Slowly turn your right analog stick to the right and you will slide
+(Note: You can slide through walls)
+Credit: Unknown
+
+Reverse Claymore Slide
+1. Do the reverse claymore animation and when stuck press up on the d-pad
+Credit: Iceman12690
+
+Guirrila Slide
+1. Do the lean back slide
+2. Do a hop (Ex. Over the logs in blizzard)
+Credit: NEWYORK
+
+Guitar Slide
+1. Do the lean back slide
+2. Shoot a 12g pump in any stance
+Credit: Unknown
+
+Cord Pull Lean Back
+1. Get into a hang so everyone sees you hanging.
+2. press standby and climb up as your about to finish the climb press standby back
+3. do a smal running jump and wait for lag to catch up
+Credit: NATE2K4
+
+Shit Slide
+1. Do the lean back slide
+2. Go kick a door down
+Credit: DNAS
+
+Boxer Slide
+1. Do the hang 10 and take out your pistol
+2. Have someone stand up against a box or ledge
+3. Run, jump then hit them and climb the box
+Credit: 'Head Shot'
+
+eXo Slide
+1. Do magical rocket
+2. Fall off a ledge so u kind of stumble and get back up
+3. Youll be sliding with your hands out
+Credit: Outsider and Nate2k6
+
+Magical Door
+1. Do magical rocket
+2. Do rocket illusion
+3. Open a door, then dont move for a couple seconds
+4. Do rocket illusion again
+(Note: If you move AT ALL after step 4, you will fall out of it.)
+Credit: Unspeakable
+
+Magical Stumble
+1. Do magical rocket
+2. Do rocket illusion
+3. Fall off something so you stumble, then dont move for a couple seconds
+4. Do rocket illusion again
+(Note: If you move AT ALL after step 4, you will fall out of it.)
+Credit:
+
+Magical Hop
+1. Do magical rocket
+2. Do rocket illusion
+3. Hop over something (Logs in blizzard), then dont move for a couple seconds.
+4. Do rocket illusion again.
+(Note: If you move AT ALL after step 4, you will fall out of it.)
+Credit: Nate2k4 and Dufff
+
+Magical Fall
+1. Do magical rocket
+2. Take out your rocket, Flip your switch, jump forward at a ledge so you clip it and fall
+3. You should be sliding. If you are, do rocket illusion
+(Note: If you move AT ALL after step 3, you will fall out of it.)
+Credit:
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Random Glitches
+
+Invisible Anything (Respawn)
+Invisible Anything w/ Turret
+Get Anything On Turret
+Pick Up Turret
+Get Anything On Turret w/o C4
+Instant Grenade Explosions
+Bozo Float
+Bozo Float w/o C4
+Talk On Mic After Getting Voted
+Flash Teleport
+Immune To Bullets
+Fake Death
+Drop Grenade/Shoot Rocket After Dead
+Pick Up Turret Off Dead Body
+----------------------------------------------
+
+Invisible Anything (Respawn)
+1. Put your flashbangs/clays/ etc on quick 2
+2. Die(need to be in a respawn room for this one)
+3. Pull your cord hit respawn then quick 2, then plug your cord back in
+Credit: Unknown
+
+Invisible Anything (Map W/Turret)
+1. Go up to a turret with your pistol out
+2. Hit standby, Press X to get on turret, then take out whatever you want invisible then turn standby off
+Credit: Unknown
+
+Get Anything On Turret w/C4
+1. Get out gun you want as primary.
+2. Then get c4 as primary then go get on a turret and wait there until it pops up or shoot all the ammo out of it.
+Credit: Clan M*G
+
+Pick Up Turret
+1. Take out primary and get C4 as primary
+2. Get on turret and wait til your primary pops up about 2 minutes
+3. Get off of turret and go pick up someone elses primary
+4. Take primary out and C4 as primary
+5. Get on a different turret and wait til primary pops up about 2 minutes
+6. Get off of turret and you will be running around with turret
+(Note: Can also do with cable's get guns on turret)
+Credit: l)NAS
+
+Get Anything On Turret w/o C4
+1. Put nades to quick 1
+2. Get the bomb and go to the bomb plant area
+3. Do rapid flashbangs in the bomb plant are so you are in RPG stance but have primary out
+4. Look straight down and plant the bomb
+5. When you see the blue bomb in the bottom corner of the screen run backwards and keep hitting L1 for quick 1 and it should take your nades out
+6. Make your nade meter full and press X on turret right after you press X left go of R1 and the primary or whatever you had out while planting the bomb will go on the turret
+Credit: CABLE GUY..
+
+Instant Grenade Explosions/Grenades Blow Up Twice
+1. Have some one plant an invisible claymore
+2. Then when ever someone throws a grenade right when they throw it that person blows up their claymore
+3. The grenade will blow up instantly/ twice on everyone’s screens but the person who planted the invisible claymore
+Credit: _-D+LaN-_
+
+Bozo Float
+1. Get c4 as primary and get on a turret.
+2. Now wait till your gun pops up.
+3. Get off the turret and get c4 as primary again.
+4. Now get on the turret and wait again till your pistol pops up.
+5. Now when you get off you should have your rocket out.
+6. Get c4 as primary one more time and get on turret and wait.
+7. You should take out you rocket while on the turret.
+8. Shoot your rocket and get off the turret.
+9. You should freeze.
+10. grab turret again and get off and you’re floating.
+Credit: GIM
+
+Bozo Float w/o C4
+1. Get your rocket on the turret w/o C4
+2. Now get off the turret, get on, get off
+Credit: chosimba
+
+Talk On Mic After Getting Voted
+1. Talk on the mic till the last vote comes.
+2. As soon as your screen goes black eject your socom cd from you PS2.
+3. Now you will be able to talk and hear people.
+Credit: CandyMan
+
+Flash Teleport
+1. Go find a dead body
+2. Now you and another person start to lean left and keep tapping X to pick up a primary
+3. When you cannot pick up the primary anymore run away and shoot your gun, if you run at a wall you should teleport
+(Note: If your gun points straight up in the air it is known as the ghetto flash teleport, which is more controlable. Also you can get into any slide/pose if you take out your pistol then take out primary and you will teleport in that pose.)
+Credit: SUPERBOOBS!!!!! And Clan Demented
+
+Immune To Bullets (Respawn)
+1. Get claymores and spawn, once you spawn plant a clay, but dont move
+2. Now have another person (w/ a shotgun) go to your spawn
+3. Now the person w/ clays flip his switch and once player 2 sees that player 1 is lagging he shoots him with his pistol for as long as possible
+4. Now this is the tricky part, with your switch flipped player 1 must keep his switch flipped so that when he sees the lag catching up he must spawn
+5. Player 2 should have killed player 1 or 2 after he spawned
+6. Now on player 2's screen, player 1 should be sitting in crouch
+7. Now, player 2 must shoot player 1 with the shotty until his name disappears
+8. Once player 1's on the ground, player 1 spawns and he should be walking around while looking dead (No name tag, dead on stat screen, etc.)
+(Note: To do invisible rocket just take out your rocket. Also, this may take a few tries.)
+Credit: Orracle and Mike19687
+
+Fake Death (Respawn)
+1. Do immune to bullets
+2. Now once done, jump and you will do a death animation of falling to your death
+3. Now you will be lieing there on everyone's screens but on your screen you will be running around
+(Note: To get back up and running you can dive or do any sort of action)
+Credit: Orracle and Mike19687
+
+Drop Grenade After Dead
+1. Go mup to a c4 breach with your nades out and lock your armory
+2. Now have someone shoot you in the head and a nade will fall out of your body
+(Note: If you wait for the lock armory to expire, it will drop a random nade)
+Credit: Fatal
+
+Shoot Rocket After Dead
+1. Make sure that you have have the rockt round in the slot under your pistol
+2. Now get rid of your pistol, and you should have the rocket round out
+3. Now lock your armory and have someone shoot you in the head
+(Note: If you are close to a c4 breach it will blow it up, after awhile the rocket will fly out of your body, and it is invisible on other's screens, and if you shoot after your armory is locked it will be invisible.)
+Credit: Cable Guy
+
+Switch Turrets
+1. Get the turret you want the other turret to be switched to as your primary with any way
+2. Now just do anyway to get your gun on the turret and time you do it witht the turret as your primary you will have switched the turrets
+Credit: Cable Guy
+
+Pick Up Turret Off Dead Body
+1. Someone get rid of there pistol and throw all of there nades or plant all your mines/clays
+2. Now another person throw a set of nades/plant all there mines
+3. Now the person who eliminated there pistol from there armory must die
+4. Now run over there body and you will have the turret
+Credit: Outsider
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Turret/Ladder Glitches
+
+Turret Glitches 1-3
+Ladder to Hell V1-3
+Ladder Climb Extension
+Monkey Climb V1-2
+Prone Crawl V1-2
+Mikies Ladder Flyback
+Ladder to Heaven
+Superman
+2 People on Ladder
+Rocket Climb
+Spidey Climb
+Hulk Using Ladder
+The Zipline
+Advanced Monkey Climb and Monkey Climb On Turret
+Ladder Extension w/Proxie Slide
+Ladder Float Thing
+SkaWalker
+Angels Into Hell
+----------------------------------------------
+
+Host Turret Glitch
+1. Get on turret
+2. Press standby
+3. Get off turret, get back on, then back off and hold lean left
+4. Press standby back on and wait for lag to catch up than let go of lean
+Credit: l)NAS
+
+Turret Glitch w/o Unplugging V1
+1. Go next to a turret with your pistol out.
+2. Move to the left, enough so you won’t see the turret icon unless you lean.
+3. Now lean to the left and hit X then keep hitting lean and pressing X rapidly.
+Credit: Unknown
+
+Turret Glitch Without Unplugging V2
+1. Get pistol out and be in crouch
+2. Lean left or right and spin in a circle
+3. Everytime the mount turret icon appears tap it three times, do this until you have done it 5 times
+Credit: Unknown
+
+Ladder to Hell V1
+1. Prone at the bottom of a ladder with primary out
+2. Lean Left
+3. Press X once while still holding lean left
+4. Let go of lean left
+Credit: Drumline (.Nahtzee.)
+
+Ladder to Hell V2
+1. Go to the top of a ladder that you can fall from
+2. Hit standby and press X to climb the ladder
+3. While standby is still on fall of the edge and flip standby back
+Credit: Unknown
+
+Ladder To Hell w/Door
+1. Go to ladder, click x, pull cord, and be close enough to the door to get the icon
+2. Put cord back in, and when you start to pull back, open the door, you will open it, and climb down
+Credit: EmericAn
+
+Ladder Climb Extension
+1. Go to the top of the map in chain reaction
+2. Go to a ladder and face it so that your back is against the door
+3. Now press X to climb the ladder and while turning around hit X to open the door
+4. Once you open the door quickly lean to the left or right, now you can have someone push you around the map and when you let go you will fly back to the ladder
+Credit: Mike19687 and Orracle
+
+Monkey Climb V1
+1. Go to a ladder at the bottom.
+2. Jump at the ladder at an angle.
+3. In mid air hit x and triangle around the same time.
+Credit: HeMaN
+
+Monkey Climb V2
+1. Go to a ladder and climb all the way to the top.
+2. Go into prone and then lean left or right.
+3. Unplug your cord and press x to climb the ladder.
+4. Plug your cord back in.
+5. Unplug cord climb up the ladder again and the plug your cord back in
+Credit: Unknown
+
+Prone Crawl
+1. Get on a ladder
+2. Press standby and get off of ladder
+3. Get into prone and lean left right in front of the ladder
+4. While holding lean left press climb ladder 2 times
+5. Press standby back on and continue pressing climb ladder
+6. As soon as you get on ladder press down and you will get off of ladder and be prone crawling
+Credit: l)NAS
+
+Prone Crawl Without Unplugging
+1. Get on ladder with claymores out
+2. Press ladder slide then keep pressing R1 and as soon as you hit the floor you will start planting a claymore
+3. While tapping R1 and planting a claymore press triangle hard like you want to get into prone
+4. Then stop tapping R1 and get onto the ladder, then as soon get on go
+down to get off
+Credit: l)NAS
+
+Mikies Ladder Flyback
+1. Go by a climb ladder symbol
+2. Press X on climb ladder but press standby right after that way you dont get onto the ladder
+3. Run away then press standby back on and it will fly you back to the ladder but you can only have unplugged for about 2-3 seconds or you wont get sucked back to the ladder
+Credit: Mikie
+
+Ladder To Heaven
+1. Get about 2 feet from the top of the ladder and slowly climb up , so slow that you can barely see yourself moving
+Credit: David
+
+Slip n Slide aka Superman
+1. Go mikie's ladder flyback and while getting sucked back press triangle
+Credit: Mikie
+
+Rocket Climb
+1. Go to the top of the ladder and face the ladder
+2. Hit standby then quickly take out your rocket and press standby back off
+Credit: Unknown
+
+Spidey Climb
+1. Go to the left side of a ladder
+2. Press X to get on the ladder then quickly climb up then down
+Credit: aajonlet
+
+Hulk Using Ladder After Patch
+1.Must be host
+2. Get to the top of the ladder but still be on it
+3. Press standby and climb up
+4. Do a small running jump then get back on the ladder
+5. Then climb back up and press standby back on
+6. Dont move til lag catches up
+Credit: l)NAS
+
+The Zipline
+1. Go up to a ladder
+2. Do Mikies Ladder Flyback, but make sure you get stuck on an invisible ladder
+3. Now when on the ladder, ladder slide and you will go flying
+(Note: Glitch can be used to get on Tall Enowapi Mountain)
+Credit: DNAS
+
+16 People on ladder/Ladder Tbone
+1. Goto a ladder and with your nades out
+2. Cook the grenade so the yellow line is showing
+3. Goto the side of the ladder and make sure you still see the ladder symbol, now Press X and quicky run to the side and when your about to be pulled back release the grenade
+4. Your character should be getting pulled back then he throws a grenade and he gets on the ladder.
+5.To see if it works, have another person get on the ladder
+Credit: Zingy
+
+Advanced Monkey Climb
+1. Do the turret glitch
+2. Go to the top of a ladder and ladder slide down
+3. Now get ont hen back off the ladder
+(Note: You can also do it by doin turret glitch then doin monkey climb V2
+Also: You will do monkey climb on turret if you get on the turret)
+Credit: DNAS
+
+Ladder Climb Extension
+1. Finish climbing a ladder and stop at the top
+2. slowing turn as if to do a proxy slide
+3. once u stop sliding forward the climb sign should appear (about 20 feet away max)
+Credit: MasterQ
+
+SkaWalker
+1. Climb up a ladder
+2. Now when up do a proxie slide off the ledge in front of you
+3. Right as you are falling off hit X to climb
+4. You should get thrown onto an invisible ladder somewhere on the map
+Credit: =SKA=
+
+Angels Into Hell
+1. Do the skawalker and when you are flying to where it takes you hit triangle
+2. You have to be good at the skawalker, this is extemely ahrd timing
+3. Now you should fall to the ground in a nose slide
+4. After 10 seconds of just sitting there, you will do a superman to the other side of the map
+Credit: =SKA=
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Ninja Jumps
+
+Prone Ninja Jump
+Reload Ninja Jump
+Backwards Ninja Jump
+Crouch Ninja Jump
+Stand Ninja Jump
+Teleport Ninja Jump
+Victory Dance Ninja Jump
+Lean Ninja Jump
+-------------------------------------
+
+Prone Ninja Jump
+1. Get In Prone and shoot your gun so it is up.
+2. Press triangle twice lightly fast.
+3. Then jerk your right analog stick to the right slightly.
+4. Then hit triangle hard.
+Credit: Mikie
+
+Reload Ninja Jump
+1. Get into crouch with primary out
+2. Press reload, and while reloading press triangle lightly
+3. Then while you are standing up press triangle hard and look to the left
+Credit: Unknown
+
+Backwards Ninja Prone
+1. Have grenades on quick 2 and primary weapon on single shot.
+2. Shoot twice then move your right analog stick to the left and press triangle and quick 2 at the same time.
+Credit: l)NAS
+
+Crouch Ninja Jump
+1. Get in crouch and shoot one time to make your gun up.
+2. Wiggle your right analog stick right and left.
+3. While doing that jump (make sure you are still wiggleing your stick) and when you are all the way in the air hit triangle hard.
+Credit: .22 Cali
+
+Stand Ninja Jump (Illusion)
+1. Get in stand and shoot to get your gun up
+2. Tap triangle, left on the right analog stick then jump and press triangle left triangle
+Credit: Unknown
+
+Teleport Ninja Jump
+1. Get on top of the fish market roof in crossroads
+2. Get in prone and start crawling towards the edge of the roof that is closest to the seals roofs
+3. While proning towards it look straight down the whole time
+4. Keep proning towards the edge until your crosshairs are on your head
+5. If you missed it because you went too fast get up and back up and do steps 1-4 again
+6. After crosshairs are on your head just do ninja jump in prone and you will teleport over to the other roofs
+Credit: Swift
+
+Victory Dance Ninja Jump
+1. Find a dead body that you can victory dance on
+2. Get into crouch and press X to victory dance then press triangle (left on the right analog stick) triangle
+Credit: Unknown
+
+Lean Ninja Jump
+1. Get in crouch
+2. Lean either way and when coming back press triangle left on the right analog stick then triangle
+Credit: Twist'D
+
+[center]-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+» S2 - Socom 2 Glitch Archive p2
+Lobby Glitches
+
+Team Glitch
+Get On Int W/Codes V1-2
+See Every Room On Socom
+Auto Mic V1-2
+No Terrorist Perfect R^
+Lock Up Room
+Server Spam V1-2
+Switch Teams In Clan Only
+Lock Up Autoplay
+R^ Room
+Double Clan Glitch
+Accept Clan Invites While Doing Double Clan Glitch
+Assassin Room V1-2
+R^ Room Catch Urself
+Clan Takeover
+Awesome Lock Room
+Join Breifing Room As Game
+One Man G^
+Long Player Ranking
+Skip Aborting Screen
+----------------------------------------------[/center]
+
+Team Glitch-Works With Any Amount Of People
+1. Have everyone on same team and have everyone green up besides you
+2. Then press standby hit switch teams
+3. Then press switch teams and green up
+4. Press standby back on
+Credit: l)NAS
+
+Get On Int With Codes V1
+1. load codes. When pressing Login, tap stand-by 2-3 times fast, and leave it alone during dnas.
+2. Tap stand-by while connecting to international
+3. Log in. Hit stand-by, accept user agreement, and from there you can
+4. Press autoplay Real fast and hit stand-by to get connection back
+5. Hit join any server. Press stand-by to get connection back. You will get a ban message but it will go away if done correctly. Then, when in server, hit stand-by, create game, then your good to make a game. Then press standby back on.
+Credit: Swifty
+
+Get On Int With Codes V2
+1. Make A New Name And Go To The User Agreements Screen
+2. Press standby and accept
+3. Go to autplay and press x, then right after you press X count to five slowly
+4. Press standby back on and it should say joining room then it will say your banned
+5. Screen will go black, as soon as it’s black press standby
+6. Press yes i would like to join late, then press ready
+7. Wait till you actually see the map start to load then turn standby back on
+Credit: DNAS
+
+See Every Room On Socom
+1. Highlight any briefing room but don’t join it just yet
+2. Hit standby and press X to join the briefing room.
+3. While it says "joining briefing room" keep tapping triangle until the "would you like to log off" thing appears.
+4. Press NO then go down to Autoplay, turn standby off and count to 3 and hit auto play
+5. It Will Bring you to a briefing room but you will see all the rooms
+Credit: Mike~Da~Man
+
+Auto Mic v1
+1. While in lobby highlight ready
+2. While talking slide your finger from circle to x
+3. Left go of x
+Credit: Yo Mamma
+
+Auto Mic v2
+1. Grab mic
+2. Unplug your controller from your ps2
+3. Let go of circle and plug your controller back in
+Credit: Yo Mamma
+
+New No Terrorist Perfect Rank Up
+1. Make a respawn room like a normal rank up, any map.
+2. Put the host in the spectator’s box, and put your terrorist in the game.
+3. Green up the terrorist, and unplug your cord until it says disconnected from the game.
+4. Put your terrorists cord back in, but don't hit X on the pop up message.
+5. Put the seals in on turbo.
+Credit : Fred Jones & Loneranger
+
+Lock Up Room
+1. Must be host
+2. While the game is forcing unplug your cord till it says disconnected to briefing room
+3. The room will be locked and the players will be stuck in lobby
+Credit: CandyMan
+
+Server Spam Version 1
+1. Go to create game and call the room whatever you want (Example:Glitchers Kick Azz)
+2. Select any map it doesn’t matter what
+3. Highlight restore defaults and press square then X
+Credit: l)NAS
+
+Server Spam Version 2
+1. Go to create game and call the room whatever you want (Example:Glitchers Kick Azz)
+2. Select any map it doesn’t matter what
+3. Press standby then press square so the loading bar goes back and forth
+4. Go to choose maps and take away whatever map you choose
+5. Press standby back on after you took away the map
+Credit: =[P]eRFeCtiON=
+
+Switch Teams In Clan Only Room
+1. Find a rank up room
+2. Enter the room
+3. when your screen goes black hold down triangle so you have switch team options (game has to be started already)
+4. When they come back in room hit switch teams.
+Credit: Mikie#B
+
+Lock Up Autoplay
+1. Find a desired briefing room
+2. Do my server glitch (Look in glitch archive for Big server glitch)
+3. once you’re in the briefing room go to create game and make any room name ex. Mike pwns you.
+4. Put EVERY MAP down to crossroads on your playlist.
+5. After you have all your options set highlight restore default and hit Square to create and x.
+6. You will see a message appear "game creation failure" press x to accept and you will see your room at the top of the list.
+7. Now press join game but an error will appear, so leave back to the lobby.
+8. Quickly do my server glitch again in the SAME briefing room.
+9. have someone hit auto play and they should join your room
+10. Now your room should turn into crossroads on your screen, join it.
+11. Now while in the pregame lobby there will be no map 0 rounds 0 times and ALOT of people coming in and out of your game.
+12. G^ and you will get booted now go back, let the map load and have fun locking up autoplay/seeing your room alot.
+Credit: Fatal
+
+Rank Up Room
+1. Go To Create A Game, Pick all Your Settings (Name Of Room, Etc.)
+2. Hit Square To create and while loading Hit Triangle A lot of times to get booted to the lobby. (Turbo Control Works Better, and if you don’t get booted and get sent to your room, you did it wrong)
+3. After Getting Booted Go Back to Create a game.
+4. Highlight Respawn.
+5. Hit Square to Create, and really fast pull ur cord and hit X.
+5. Wait 10 secs plug ur cord back in and count down another 10secs.
+6. Hit X and You Should get booted Offline.
+( 2 PS2s Needed For This Glitch, Or A Friend Waiting In The Lobby For the Room to Pop Up. If you have a friend waiting to catch it, don’t touch the room till you see respawn at the bottom. If it doesn’t pop up and the room is gone, you fucked up)
+Credit: PR
+
+Double Clan Glitch
+1. Must already be in a clan
+2. At the accept/decline user agreement screen press standby and hit accept
+3. Go to create clan and press standby back on
+4. Then make the clan
+Credit: Clan cMf
+
+Accept Clan Invites While Doing Double Clan Glitch
+1.Be in a clan that yo want to be in and have the invitation of the other one u want to join also
+2.Do the normal clan glitch first (standby at accept go to clan and create)
+3.This is where it differs, once u are in the glitched clan send a clan invite to someone and appoint them leader
+4.Then click invitations, and highlight leave clan
+5.Press X then leave clan and while the msg is fading away press X rapidly and you should accept the other invite too
+6.Now u are in two clans and u are not the leader of any of them
+Credit: ><
+
+Assassin Room V1
+1. Do the assassinator but don’t leave the armory
+2. Everyone green up and start the game
+3. The game won’t load so everyone leave and come back
+4. Now everyone green up and the person who stayed in the armory is now host
+5. Now as long as the host is in the armory there will be thermal turrets, when you die you do dead man walking, and you cant kill each other
+(Note: This glitch is best in respawn)
+Credit: #1 Assasin
+
+Assassin Room V2
+1. Find a game where you want to do it in (Game must not be started)
+2. Start to join the game and when the joining bar freezes for a split second
+3. When you see that turn standby on for 1 ½ more bars
+4. When you see the bar freeze for a second time hit standby and you will join
+5. While standby is still of switch teams twice and let the READY button appear
+6. Turn off standby and green up
+7. If done correctly a message saying “You have been disconnected” should come up
+8. Don’t press X, just leave it, and have someone type something up on the board
+9. If you saw what that person typed through the disconnected message you did it
+10. Now everyone green up and abort at the loading screen
+11. Then everyone come back and your doing it
+(Note: Game will last till person who did it presses X, also best in respawn)
+Credit mike~da~man (FaTaL)
+
+Rank Up Room w/ Clan Pass Settings Catch Urself
+1. Go into a regular guidance room and leave
+2. Now go to create game
+3. Pick game name, friendly fire, clan options, whatever u want but u have to put the number of players 10 (don’t pick password because it wont work)
+4. Now pick guidance as level
+5. Highlight restore default options or whatever its called
+6. Press square, X, X and it should say creation failure so click X
+7. You should be taken to server lobby and u should see the room right above medley
+8. Go back to create game
+9. Make game called 123
+10. Keep it at 16 players and pick all the stuff u had before
+11. Highlight respawn
+12. Press X, triangle
+13. You will be at the lobby again and u will see the same room u saw after the first time u went to create game
+14. Got to watch game
+15. Click ur room and it will say joining for about 20 secs and then it will say timeout error
+16. Keep going to watch game and click your room about 4 more times and u will see it disappear from the top and u will be spectating
+17. Either wait for someone to come in the room and tell them to stay as u leave and join game or if u have a second ps2 put it in there
+Credit: »ŠhadoW«
+
+Switch Teams while Ready
+1. Go to armory, pick any model, and then press Done
+2. As soon as you get out of armory, switch teams, and you should be able to press Ready even though there is a timer on it
+3. Wait until the timer reaches one, make sure it is highlighted, and right before the timer expires, press X.
+4. You should then experience something where all buttons are unreachable for a second, then you will see you are greened up, but you can still switch teams.
+Credit: Unknown
+
+Clan Takeover Glitch
+1. Must be in a clan.
+2. Sign on and go to the User Agreement Screen.
+3. Hit standby, And go into clan.
+4. Make a clan (cannot be a clan already).
+5. Push standby back on, and push create clan twice.
+6. When it makes the clan, make a long clan tag. (Make sure you can see everyone else in clan from the main menu first).
+7. Once you got the tag to stick highlight Disband Clan.
+8. Hit standby and disband the clan twice.
+9. Leave to the main menu, then go back into the clan menu.
+10. Send someone a quick clan invite, then flip switch back on.
+11. Once lag catches up everyone in your clan will finally show up.
+12. Press Triangle and from there you can control the clan however you want.
+Credit: Brace Face
+
+Awsome Lock Room
+1. make a none respawn room and have you and one other person in the room,you cant be host.
+2. be on terrorists and host on seals
+3. You G^ and now at the same time, you g down and the host greens up so the game forces on his screen.
+4. abort as the host and now the person that is still in the lobby will become host.
+5. from here have just the host start the game and have him play one round, then you switch teams and everything will get locked up.
+credit- mike~DA~man
+when you go to switch teams you will stay on the side you were on although you really did switch, when you hit armory it wont look like your in it but you really are, and when you G^ you stay red.
+
+Join A Briefing Room As a Game
+1. Do fatals server glitch
+2. join a game and then leave it
+3. go to create game then leave
+4. now when you leave a bunch of wierd looking rooms will appear
+5. Hit standby join one then turn standby off.
+Credit: mike~DA~man aka FaTaL
+
+One Man G^
+1. Have you and one other person in the room, you cant be host.
+2. Be on terrorists and host on seals
+3. You G^ and now at the same time, you g down and the host greens up so the game forces on his screen.
+4. Abort as the host and now the person that is still in the lobby will become host.
+5. From there you can G^ and it will force
+Credit: mike~DA~man
+
+Long Player Ranking
+1. Go into player ranking and pick someone randoms name
+2. Get out of player ranking
+3. Go back in and keep hitting down and L1
+Credit: mike~DA~man aka FaTaL
+
+Skip Aborting Screen
+1. When You Hit Abort
+2. Hold Triangle Intill you get in the main menu
+3. then you should have skipped the Aborting Screen
+Credit: ºCoRdErº
+
+Unlock All Ranks In Rooms
+1. Do the reset any rank glitch
+2. Hit autoplay and then quickly leave the room and create your own game.
+3. Leave and go back to the online menu
+4. If you did this right you should be a lutenant
+5. Now go into a lutenants only briefing room and go to create game
+6. On rank restrictions rapidly press X and you will see every ranks apear
+(Note: This is a perminant affect and can even be done after logging off.)
+Credit: FaTaL
+
+Two Ranks At The Same Time + Frozen Stats
+1. Fisrt, get one of the ranks you want. (ie. Captain)
+2. Do the reset your rank glitch, and get it to stick.
+3. Now get to the second rank you want. (ie. Ensign)
+4. Do the clan takeover glitch, and remove 2 people.
+5. Log off the name for the rest of the day.
+(Note: Every morning you will have the second rank, untill you play a non-respawn game, then your rank will change to your first rank. Also your stats will stay frozen at what they were right before you reset your rank.)
+Credit:
+
+Reset Any Rank
+1. Go into player ranking.
+2. Hit standby, look at 3 or 4 peoples stats, and go to autoplay, and hit standby back.
+3. When your in the room, hit standby, leave and go back to player ranking.
+4. Hit standby back and look at YOUR stats over and over really fast.
+5. Repeat steps 1-4, and your stats should chage to zeros for everything.
+(Note: If you want these stats to stay, i recomend doing this glitch in the morning, and just playing in non-respawn games for that day.)
+Credit:
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Throw/Plant/Shoot Anything Glitches
+
+Shoot Anything Out of Nade Launcher
+Shoot Anything Out of Rocket
+Throw Anything
+Improved Throw Rockets
+Improved Throw PMN’s/Clays/C4
+Plant Anything
+Plant Anything On C4 Breach
+Throw Bomb
+Easy Shoot Bomb
+----------------------------------------------
+
+
+Shoot Anything Out Of Grenade Launcher
+1. Go up to a turret with your handgun out
+2. Press X on mount turret then press standby so you dont get on turret
+3. Take out MGL then take out pistol
+4. Press mount turret twice again then press standby back on and run away
+5. While running away keep switching from pistol to MGL over and over and over
+6. After lag catches up keep switching weapons and ask what you are doing and they should say nothing you just have your pistol out
+7. This means that you deleted your MGL from your armory so no matter what people will never see you have the MGL again for that whole round
+8. Not that you did all the take out whatever you want to shoot such as claymores
+9. Take out MGL then just shoot it as someone and it will kill then with whatever you had out before the MGL
+Credit: What And DNAS
+
+Shoot Anything Out Of AT-4/RPG-7
+1. Go up to a turret with your primary out
+2. Press X on mount turret then press standby so you dont get on turret
+3. Take out your RPG/At-4 then take your primary out again
+4. Press mount turret twice again then press standby back on and run away
+5. While running away keep switching from primary to yout RPG over and over and over
+6. After lag catches up keep switching weapons and ask what you are doing and they should say nothing you just have your primary out even when u take out your RPG/AT-4
+7. This means that you deleted your RPG/AT-4 from your armory so no matter what people will never see you have the RPG/AT-4 again for that whole round
+8. Not that you did all the take out whatever you want to shoot such as claymores
+9. Take out your RPG/AT-4 then just shoot it as someone and it will kill then with whatever you had out before the RPG/AT-4 but make sure you dont hit there body with the RPG/AT-4 or it wont kill them with the clay, make sure you shoot a wall or shoot the ground around them and it will be a clay they die with even on your screen
+Credit: What And DNAS
+
+Throw Anything
+1. Get rid of handgun and primary
+2. Now put whatever you want to throw on quick 1 and nades on quick 2
+3. Go to a turret with your quick 1 out
+4. Press X to get on the turret but then quickly press standby
+5. Press Quick 2, Quick 1, Quick then turn off standby
+6. Now run away from the turret
+Credit: DNAS
+
+Improved Throw Rockets
+1. Have someone get 3 sets of invisible flashbangs
+2. Now somebody do the agg with whatever they want to throw
+3. Now the one with invisible flashbangs must throw the flashbang (at designated target) and the person who did agg must shoot there pistol
+Here's A Video For Demonstration
+http://glitchdrive.com/socom/vids/tracter-rockets.wmv
+Credit: _-D+LaN-_
+
+Improved Throw Mines/Clays/C4
+1. One person needs to do the grenade agg with this armory
+Any Primary
+Any Pistol
+Whatever you want to throw
+Grenades
+Grenades
+2. Ask someone what your shooting they should say they cant hear your gun, if they can, u did it wrong and need to redo it.
+3. The other person needs to get invisible flashbangs
+4. Now have one person throw the invisible flashbang and the other shoots there pistol when they see the other persons arm move
+5. Every one else who didnt do the glitch will see the person throwing flashbangs throw c4 or w/e u picked
+(Note: Can be done with many people doing invisible flashbangs)
+Credit: _-D+LaN-_ and CABLE GUY..
+
+Plant Anything
+1. Get rid of handgun and primary
+2. Now put whatever you want to plant on quick 1 and mines/clays on quick 2
+3. Go to a turret with your quick 1 out
+4. Press X to get on the turret but then quickly press standby
+5. Press Quick 2, Quick 1, Quick 2 then turn off standby
+6. Now run away from the turret and whatever you had as quick 1 you will plant
+Credit: DNAS
+
+Plant Anything On C4 Breach
+1. Armory
+Primary
+Pistol
+C4
+Anything
+Whatever You Want To Plant
+2. Get rid of your handgun, primary, and whatever you have in 4th slot
+3. Go up to the turret (You should have c4 as primary)
+4. Press X then quickly hit standby and take out whatever you want to plant
+5. Then press X and run away to the c4 breach
+6. Now with standby still on get c4 as primary then hit standby off
+Credit: Crazy_Cajun
+
+Throw Bomb
+1. Now you must have nades and a rocket, then get the bomb
+2. Get rid of your primary and pistol
+3. Now go to a turret with your nades out
+4. Press X then standby, now take out your rocket and then your nades
+5. Now turn off standby
+6. When you throw the first nade it will be the bomb, the other nades are bullets
+Credit: ZinGy
+
+Shoot Bomb
+1. Do the shoot anything out of M203 glitch
+2. Get bomb as primary then take out your m203
+3. The next 203 you shooot will plant the bomb in the air
+Credit: DNAS
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+M203/Rocket Glitches
+
+
+Run and Shoot RPG
+Explode Dead Rocket/M203
+Prone Rocket
+Invisible Rocket Off Turret
+Rocket Superjump
+14 Rockets
+Infinite Rockets V1-2
+Stand Up With Rocket
+Grenade, 30mm and Rocket AGG
+Rapid Flash bangs
+Magical Hang
+Rocket On Turret w/o C4
+Magical Rocket V1-2
+Double At4’s
+AGG w/ 30mm
+Shoot M203's Out of Any Gun
+M203 as Primary
+M203 Attachment Doesn't Take Up A Slot
+Rearrange M203's
+Agg on Turret
+Rocket Illusion
+Shoot Rpg, but says at-4/ Shoot At-4 but it says Rpg
+2 Rpg's/At-4's In Armory
+Trippy Magical Rocket Hang
+Magical Rocket While Dead
+Reverse Climb Animation While Dead
+Advanced Magical Hang With Rocket
+Magical Hang While Dead
+----------------------------------------------
+
+
+Run And Shoot RPG
+1. Get C4 and a RPG.
+2. Go to a wall you can climb near a C4 place (e.g: Vigilance in the center).
+3. As your planting C4 turn and climb the wall [C4 should be primary now]
+4. Go to a gun turret and get on it, and wait there until the turret starts shooting by it's self.
+5. Get off and take out RPG and you should be able to run and shoot.
+(Note: Can also be done with cable's get guns on turret w/o C4)
+Credit: Clan M*G
+
+Explode Dead Rocket/M203
+1. Have someone plant an invisible claymore
+2. Now have some one shoot a rocket/M203 straight down where the claymore was planted
+3. When the person blows up the invisible claymore the rocket/M203 will explode on everyone else’s screen
+Credit: _-D+LaN-_
+
+Prone Rocket
+1. Put rocket as quick 2 and primary as quick 1
+2. Go up to a door and take out your rocket
+3. Press X on open door and hit L1 then L2 right after your press open and you will be running around with your rocket out but you must get in prone to shoot
+Credit: Stealth
+
+Invisible Rocket Off turret
+1.Set up your armory
+Primary
+Pistol
+RPG ROUND
+c4
+RPG
+2.Go up to breach take out your pistol
+3.Lock you armory
+4.Wait on turret, when your gun pops get off the turret
+5.You could have the RPG round as your primary
+6.Get c4 as primary, with your RPG ROUND out the normal way
+7.Wait on a turret
+8.The RPG round will pop up on the turret, and when you shoot it it will be invisible on peoples screens, you have to hit people in the head with them to kill them.
+Credit: Cable Guy
+
+Rocket Superjump
+1. Put rocket on quick 2.
+2. Go to a place where you can hang.
+3. Hit x and then L2 and you should be hanging with a rocket out.
+4. Now climb up and you should go really high.
+Credit: Swift and Lost Illusions
+
+14 Rockets
+1. Pick frags frags frags.
+2. Have everyone on you team pick claymores and at-4s.
+3. Line all your teammate up then kill them in a line.
+4. Throw 2 sets of frsgs then run over there body and find pick up AT-4.
+5. Now unplug your cord and pick up the AT-4's off of everyone’s body.
+6. If you pick up 5 AT-4's off of people’s bodies then you have 5 AT-4's.
+Credit: l)NAS
+
+Infinite Rockets Version 1
+1. Have clays or mines out.
+2. Highlight your RPG or AT-4 heat in your armory.
+3. Then hit r1 then press r1 and x together rapidly until you plant the mine or clay.
+4. Then you will get out your AT4/RPG.
+Credit: Stealth
+
+Infinite Rockets Version 2
+1. Get at4/rocket out.
+2. Do rapid flash bangs glitch with pmns or anything you can throw.
+3. Once u get that highlight rocket.
+4. Plant the pmn mine throw the item. 1 sec after that take out the rocket. If you planted or throw the item u did it too late, if no rocket came out u did it too early.
+Credit: Swifty
+
+Stand Up With Rpg/AT4 Out
+1. Get out a rocket.
+2. Then keep hitting r3 and L3 and after 10 seconds you will stand up on everyone else’s screen.
+Credit: :SkilLZ:
+
+Rocket AGG
+1. Make your armory like this Any Primary
+Any Pistol
+RPG/AT4 round
+PMN/CLAYMORE
+RPG/AT4
+2.Go to turret with pistol out in crouch
+3.Press standby hit turret icon, open inventory
+4.Go to mines, then rpg/AT4
+5.When you have rpg/AT out run forward to the turret then run away from turret for about 4 or 5 sec./or until you freeze
+Credit: =PyRO=
+
+Grenade AGG
+1. Make your armory like this Any Primary
+Any Pistol
+M67
+PMN/CLAY
+M67
+2. Go to turret with pistol out in crouch
+3. Press standby hit turret icon, open inventory
+4. Go to M67,then mines, then M67
+5. Switch to pistol then run forward to the turret then run away from turret for about 4 or 5 sec./or until you freeze
+Credit: :SkiLlZ:
+
+Rapid Flashbangs
+1. Get an RPG and flashbangs.
+2. Set rpg as quick 1 and flashbangs as quick 2.
+3. Take out RPG.
+4. Lean to the left and take out your flashbangs.
+5. Then keep tapping lean.
+6. You should then see your RPG out, but your flashbangs in the bottom left.
+7.After that happens, you just keep tapping R1 to throw them.
+Credit: l)NAS
+
+Magical Hang
+1. Take out your rocket
+2. Press standby and do the old superjump that got patched
+3. While you are climbing up press standby back on
+4. Take out your rocket after lag catches up and ask if you’re doing magical rocket
+5. If you are then take out your primary and press standby
+6. Reload then take out pistol, then reload then take out rocket
+7. Right after you take out rocket press standby back on and walk forward then do invisible box climb
+8. Climb up as soon as you hang then ask what your doing
+9. If you did it right they will say hanging from there take out your rocket then just press forward and jump at same time
+Credit: l)NAS
+
+Rocket On Turret w/o C4
+1. Get the bomb and go to the demolition site
+2. Take out your rocket and fill up the plant bomb bar
+3. Once you fill up the bar quickly run away and take out your nades
+4. Now go to the turret and charge up your grenade
+5. Then press X to get on the turret and let go of R1
+6. You will have your rocket on the turret
+Credit: chosimba
+
+Magical Rocket v1
+1. Go to a ledge
+2. Put your rocket on quick 2
+3. Highlight your primary, hit standby, press X then do the old super jump (Hit x and jump, you should do a smalll leap up when you climb)
+4. Hit standby off then run a little bit forward
+Credit: .:SiLEnT:.
+
+Double At4’s
+1. In lobby make your armory
+Primary
+Pistol
+2x Ammo
+At4
+At4 Heat
+2. Highlight 2x Ammo, press O 5-8 times then press left, and keep pressing down
+Credit: ZinGy and Illusions
+
+AGG w/30mm Turret
+1. Go up to a 30mm turret with your Model 18 out
+2. Start shooting your model 18 and keep pressing X to get on the turret
+3. You should get on the turret after you empty your clip, now get off and keep repeating
+Credit: Crazy_Cajun
+
+Shoot M203's Out Of Any Gun
+1. Ask your secound person to get a shot gun and you get a m203 Havnt tested with launchers but you can try it :wink:
+2. Get C4 as primary get on turret until gun pops up.
+3. get off turret after gun pops up and ask that person to commit cuicide.
+4. Pick up his shotgun BUT make sure you didnt waste your m203's before you pick his gun up.
+5. choose it in your armory.
+6. get c4 as primary agin and get on turret until your gun pops up.
+You should be able to shoot m203 as primary... DONT GO TO ARMORY and... you can do this with any gun as long as you have a m203 as starting.. with ammo cause your not gana gain ammo..(m203 ammo)
+(Note: Can also be done with cables get anything on turret w/o c4)
+Credit : K A R N I V O R
+
+M203 Attachment Doesn’t Take Up A Slot
+1. Go to seals and pick the m203 so it makes your first slot and m203 attachment
+2. Put 2nd equipment slot as an m203 frag and the 3rd equipment slot as claymores
+3. Press done
+4. Press standby then switch teams, then switch teams back over and press standby back on
+5. Go to armory and the m203 attachment will be gone
+Credit: HUNT3R
+
+M203 As Primary
+1. Make sure you have mines, Plant 3 mines leaving you with one left.
+2. Kill a team mate with a mgl, get over his dead body plant your last mine while picking up his MGL.
+3. Then pick up your gun again
+4. Your M203 Frag should be your primary.
+(Note: You can only shoot if you have c4 as primary and wait on turret
+Credit: Imperfection
+
+Rearange the M203 attachment in your armory
+1. Do the assassinator in a map so you have an m203 launcher and an rpg launcher
+2. select your rpg in the bottom slot while u still have the m203 attachment
+3. get two rpg rounds change the top slot to 2xammo
+4. get rid of the rpg and the m203 attachment will be in the middle slot
+5. do steps 2-4 again only using the slots below the the first time
+6 now the m203 is in your bottom slot
+Credit: DUFFFMAN5000
+
+Shoot Rpg But It Says At4
+1.Get ur armory on terrorist now do the skin glitch with this armory
+Primary
+Secondary
+RPG ROUND
+RPG
+RPG ROUND
+2.Now u should have terrorist skin on seals start game
+3.Die go to ur last equipment slot
+4.Switch the RPG-7 to AT-4
+5.Now when respawn open ur armory up u will see pic of at-4 grab it he will take the rpg off his back and shoot it will say person fragged person with at-4 when u have rpg out
+(Note: Can be done with assasinator to shoot at-4 but it says rpg.)
+Credit: DUFFFMAN and MasterQ
+
+2 At-4 launcher in armory
+1. Do steps 1 and 2 of "Shoot at4 out of rpg"
+2. Reselect the rpg (just press x twice on it)
+3. Change the bottom slot back to an at4 and u will have both at4 and at4 in your armory
+Credit: MasterQ
+
+2 Rpg Launchers In Armory
+1. Do all the steps for "Rpg out of at4" (make sure when you do the assassinator your bottom armory piece is 2xammo)
+2. Reselect the at4 and change the top slot to an rpg
+3 you will now have 2 rpg's in your armory
+Credit: DUFFFMAN5000
+
+AGG On Turret ( Only In Sujo)
+1. Get rid of all weapons except an RPG and grenades
+2. Go to the two turrets in terr base that are right next to each other
+3. Take out RPG then walk so your doing run with rpg
+4. On either turret press X then standby so you dont get on
+5. Then press X 3 more times, then run to other turret and press X 3 times
+6. Now run back to the other turret and press X 3 more times, then press standby back on
+Whoever is dead or dies will see you shooting rockets out of the turret
+Credit: DNAS
+
+Rocket Illusion
+1. Get out your rocket
+2. Do a smal run jump
+3. Your rocket should still be out on others screens, not yours
+Credit: Unknown
+
+Magical Rocket V2
+1. Have out your pistol and do the rocket illusion right next to a climb icon
+2. Flip your switch climb up the ledge (Remember the sort of ledge has no matter on this, all that affects is the float you'll be in)
+3. once climbed, jump forward and flip back switch
+4. Now take out your rocket and move slightly forward and you'll continusly take out your rocket while moving
+Credit: DUFFFMAN and NATE2K4
+
+Trippy Magical Rocket Hang
+1. Do magical rocket
+2. Do either the rocket gorilla or exo slide
+3. Go back into magical rocket by taking out rocket and moving a bit forward
+4. Hang and you will be popping up and down and doing magical rocket
+Credit: DUFFFMAN and NATE2K4
+
+Magical Rocket While Dead
+1. Do the advanced magical rocket
+2. Now fall to your death
+Credit: Nate2k4 and Duffman
+
+Reverse Climb Animation While Dead
+1. Do the advanced magical hang
+2. Now go up to a ledge and hang
+3. Flip your switch and climb up then jump and flip back
+4. Youll be in the hulk and when you fall to your death youll do a reverse climb animation
+Credit: Nate2k4
+
+Advanced Magical Hang With Rocket
+1. Do the advanced hang ten with rocket out, now take out your rocket
+2. Now shoot the rocket and you'll be doing the magical hang
+(Note: You can't move, you have to keep your rocket out
+Credit: Nate2k4 and Duffman
+
+Magical Hang While Dead
+1. Do the advanced magical hang with rocket near a ledge
+2. Now jump off that ledge with yourr rocket out
+3. When you die you will be doing it
+Credit: Nate2k4
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Showoff Glitches
+
+Exorcist V1-2
+One Man Exorcist
+Ninja Float
+Shoot While Victory Dancing
+Double Ammo As Primary
+Blinks Pose
+Deadman Turret
+Only Silencer
+Patriots Gun Glitch
+Only Scope
+Float Away Gun Off Body And Turret
+eXo Hostage Float
+Hostage Invincibility
+One Shot = Kill Illusion
+----------------------------------------------
+
+Exorcist
+1. Whoever wants to do this glitch, go and die.
+2. Find their spawn and make sure they are still dead, and at a certain time tell the person to pull their cord and re-spawn, wait 2 seconds, then plug the cord back in.
+3. Then when they do this throw a grenade and wait. If done correctly they will die after re-spawning, but still look alive on your screen. You can now shoot them around.
+Note: You can also do the prone slide with the same method, but respawn when in a prone.
+Credit: l)NAS and BANANNA RAMMER
+
+One Man Exorcist
+1. Put grenades on quick 2.
+2. DIE.
+3. Pull cord when you see the repawn icon.
+4. Respawn and throw a nades.
+5. Put cord in for 2 seconds.
+6. Take back out until you die then plug it in.
+Credit: Swifty
+
+Ninja Float
+1. Make a crossroads room and be terrorists, and have someone on your team.
+2. Make sure the person who is going to be doing it spawns on the stairs.
+3. Wait until the end of the round and tell the person who spawns on the stairs to run and jump off the steps and never stop running the beginning of the next rounds.
+4. Then hears what you do unplug your cord 2 seconds after the music stops and keep it out for 6 seconds.
+5. Plug cord back in and it should skip the round stats screen, then when you spawn you should see him doing it.
+Credit: l)NAS
+
+Shoot While Victory Dancing
+1. Go to a dead body.
+2. Victory dance quickly press reload and start shooting.
+3. On your screen you are just shooting but with everyone else you are victory shooting.
+Credit: Unknown
+
+Double Ammo As Primary
+1. Get C-4 as primary then go to a turret and sit there till your gun pops up on your screen while your on the turret.(Usally comes up in about 2 mins).
+2. Get off and you will not have the gun that poped up on the sreen next tale out your pistol and get c-4 again.
+3. Then get on the turret and sit there again unti the pistol pops up.
+4. Then you should have wat ever you have as your other equipment, equip it then get c-4 again.
+5. Now go get on the turret and your nade should pop up in about 2 mins. Then get off and you should only have c-4 and double ammon left go plant all your c4 and the it will pop up on your screen.
+Note: Best things to get for this glitch is Ra-14,SP-10,C4,Flashbang,and Double Ammo.
+Credit: GIM
+
+Blinks Turret Pose
+1. Press standby and press mount turret then run and fall to death
+2. Press standby back on once you die
+Credit: (-BliNK-)
+
+Deadman Turret
+1. Get the person who wants to do the glitch to stand in front of the turret and be able to see the Mount Turret icon
+2. Designate a time, at which player 1 will shoot player 2 (the person doing the glitch) in the head and player 2 will unplug their cord, press x 3 times, plug their cord in, and continue pressing x very fast.
+3. If done correctly player 2's dead body will mount the turret
+Credit: Unknown
+
+Only Silencer
+1. Have someone die with a silenced gun
+2. Now two other people must have silencer's and now do the flash teleport glitch
+3. After a while you should only have the silencer
+Credit: Ace and Clan Demented
+
+Patriots Gun Glitch
+1. Get claymore and the them on quick 2
+2. Go up to the turret with your pistol out press X X then hit ur switch so you dont get on
+3. then switch you your primary(quick 1) then switch you your claymores(quick 2) then hit your switch back.
+4. Run around and keep switching from quick 1 and quick 2
+5. Now on others screens your gun will keep disappearing and reappearing
+Credit: *pAtRiOt*
+
+Fly away gun off body
+1. Find a dead body
+2. Switch primarys with the body
+3. Hit standby, lean left and switch 7 times
+4. While your doing that have them vote you out and when the lagg catches up your gun flies away.
+Credit: FaTaL
+
+Fly Away gun off turret
+1. Have someone on your team get on the turret and kill them
+2. Find there primary
+3. Switch back and forth 7-10 times while hitting get on turret
+4. When the lag catches up the gun will fly away
+Credit: DNAS
+
+Rapid Fire Illusion
+1. Pick w/e gun you wanna make look rapid
+2. Pick up a turret off a dead body(RMG SUGGESTED)
+3. Now keep out the turret
+4. Get bomb as primary with the turret out
+5. Now switch to your gun that you wanna make fast
+6. Go up to a turret
+7. Tap X to get on it, but hit standby first so you dont get on it.
+8. Switch to your gernades and throw one, you should pull out the turret
+9. Hit standby back and get away from the turret
+10. Ask someone if you shooting your primary on their screen even though your shooting the turret
+Credit: Cableguy
+
+One Shot=Kill Illusion
+1. Have the person doing it plant a claymore
+2. Now jump hit standby and kill yourself with it
+3. At the same time have another person shoot you with a gun but make sure the shots wouldnt kill you
+4. Now the person who hit standby plugs there cord back in about 3 seconds before the respawn icon shows
+5. When it does spawn
+6. Right when they spawn they should lose the health that the persons shots did to them
+7. But on the other persons screen they will ahve full health
+Credit: Eblade
+
+eXo Hostage FLoat
+1. Be in the lobby and have the second person in the game green up and pull there cord till they get the disconnected message
+2. Now green up and in the game move the hostages over a plank
+3. Have the person in the lobby press X on the message
+4. Now the game will freeze and now when you blow up the plank hostages will float
+Credit: .FaTaL.
+
+Hostage Invincibilty
+1. Set up the room like you would for hostage float
+2. Now when the person in lobby leaves the hostages will be invisincible
+Credit: .FaTaL.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Claymore/PMN Mine/C4 Glitches
+Claymore Teleport
+Claymore Jump
+Infinite Claymores V1-2
+Infinite PMN Mines
+Have Clays And PMN’s
+Mobile Clays/PMN Mines
+Reverse Claymore Animation
+C4 As Primary V1-6
+----------------------------------------------
+
+Claymore Teleport
+1.Take out pistol, then take out claymore
+2. Go up to a building and lean left, kinda like your trying to throw a grenade throw it
+3. Keep tapping R1 till you touch the ground then stop pressing R1
+Credit: OFFICER_FUZNUT
+
+Claymore Jump
+1. Plant a claymore on a roof
+2. Run and jump off of the roof and in the air blow it and it will send you flying forward
+Credit: Unknown
+
+Infinite Claymores
+Here’s What You Need
+1. Get nades nades nades for your equipment
+2. You need to have someone on your team
+Here’s How To Do It
+
+1. Make a Vigilance Non-Respawn room
+2. Have the person on ur team, grab Rockets and Claymores
+3- So u grab 3 sets of frags
+4. Now kill the guy that has the rocket and claymores and waist 2 sets of ur frags
+5. Now ur going to pick up his rocket
+6. Now when ur done with that, Open ur armory and u should have Rocket Claymores and Nades
+7. Then u take out ur rocket and make it so u have ur nades out with ur rocket (The Rapid Flash bang glitch)
+8. now open ur armory and highlight ur Claymores... Now hit R1 and X and u should Plant a claymore automatically.
+9. Repeat process's 7 and 8 ..
+Credit: l)NAS and Swifty
+
+Infinite PMN Mines
+1. Have clays out and highlight mines in armory.
+2. Hit r1 and then press r1 and x together at the same time rapidly.
+3. Then you will plant a mine and it won’t take any away form your ammo.
+Credit: Stealth
+
+Have Clays And PMN Mines
+1. Go to terrorist if you want mines as Seal and visversa.
+2. Go to armory and pick the 4th character.
+3. Switch PMN mines to thermal scope and then the characters sniper rifle to anything else.
+4. It should say none in the first slot.
+5. Change M67 to OMN mines.
+6. Custom the character and get out of armory by pressing done.
+7. Leave the room and come back.
+8. Depending on what team you started on , if you started on terrorist and you landed on terrorist, switch to seals and you done
+but if you started as seal and landed on terrorist you have to switch teams twice.
+Credit: Latin
+
+Mobile Clays/PMN Mines
+1. Go to a building that has a table with plates on them in desert glory.
+2. Shoot the plate off the table.
+3. Plant claymore on the plate.
+4. Shoot the plate around.
+5. On your screen it will be on the plate but on everyone else’s screen it will stay in one spot.
+Credit: l)NAS
+
+Infinite Claymores With Bomb
+1. Plant all of your claymores
+2. Get the bomb and get the bomb as primary any way
+3. Now once you get the bomb as primary highlight your claymores
+4. Start to plant the bomb and keep tapping X and R1 (Like Infinite Mines)
+Credit: . °
+
+Reverse Claymore Animation
+1. Go to a door
+2. Start to plant a claymore while leaning left and right and open/close the door
+3. Once done you should be stuck now to get unstuck go into first person
+Credit: Iceman12690
+
+C4 As Primary V1
+1. Find a dead body next to a c4 gate.
+2. Get both victory dance Icon and C4 icon up.
+3. Scroll to C4 and then just tap x until you have it.
+Credit: l)NAS
+
+C4 As Primary V2
+1. Go on a map where there is a c4 breach and a edge where you can fall off right next to each other.
+2. Get the c4 icon up then back up or move around till you are about to fall off the ledge.
+3. Plant c4 if you don’t fall automatically then turn your body while planting c4 so you fall.
+Credit: GIM
+
+C4 As Primary V3
+1. Go to a c4 breach
+2. Get on the right of it and hold lean and plant the c4
+3. Now keep pressing lean right on the directional pad
+Credit: Unknown
+
+C4 As Primary V4
+1. Go to a ladder near a c4 breach
+2. Hit standby and go to the breach
+3. Hit standby back on and quickly plant the c4
+4. If done correctly, you should be sucked back to the ladder while planting c4
+5. Now get off ladder
+Credit: Clan Konfederation
+
+C4 As Primary V5
+1. Go to a c4 breach.
+2. Get in the wood, so that its coming up the middle of you. (like in vigilance, by the houses u get onto, or in sandstorm, on either of the breaches you can get through without blowing.)
+3. Plant the C4, and it should become your primary without having to move
+Credit: nicksmola
+
+c4 As Primary v6
+Do the rapid flashbangs glitch in front of a c4 breach
+bland a c4 and turn 180 degrees
+once you move forwards it will take out your primary and lock your guns
+Credit: FaTaL
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Boot Glitches
+
+Blue World
+One Shoot Boots V1-2
+Fatals 10 second Boot
+Plant=Boot
+Dnas' Shoot=Boot
+Host Boot Room
+----------------------------------------------
+
+
+Blue World
+1. Get c4 as primary and then get on a turret.
+2. Shoot all the ammo out of the turret.
+3. When you have 54 bullets left unplug cord and continue shooting it.
+4. Then when your gun pops up while you have your cord unplugged plug it back in and that’s it.
+Credit: GIM
+
+Host Boot Room
+1. At the end of a round not game pull your cord at 5 seconds remaining.
+2. The plug it in when round starts.
+Credit: Unknown
+
+Fatals 10 Second Boot (Non-respawn)
+1. Have someone on YOUR team kill themselves or find their body.
+2. Walk around it until you find their primary weapon.
+3. Hold right on your d-pad, switch to their primary then back to yours once. (Hold right throughout the hold thing.)
+4. After you do that once while still holding right hit standby.
+5. Repeat step 3 about 7-8 times quickly then turn standby off.
+6. If you dont have your primary at the end then switch back once and you will boot the room.
+Credit: mike~da~man (FaTaL)
+
+Nate2k4's One shot boot
+1. Go up to a turret with your primary out
+2. Press X on mount turret then press standby so you dont get on turret
+3. Take out your RPG/At-4 then take your primary out again
+4. Press mount turret twice again then press standby back on and run away
+5. While running away keep switching from primary to yout RPG over and over and over
+6. After lag catches up keep switching weapons and ask what you are doing and they should say nothing you just have your primary out even when u take out your RPG/AT-4
+7. This means that you deleted your RPG/AT-4 from your armory so no matter what people will never see you have the RPG/AT-4 again for that whole round
+8. Then put your pistol on quick 1 go back to the turret press X on mount turret then press standby
+9. Take out RPG/AT-4
+10.Then go back to pistol hit the standby again then get off turret
+Credit:NATE2K4
+
+Head Shot's One Shot Boot w/C4
+1. Go up to a turret with your primary out
+2. Press X on mount turret then press standby so you dont get on turret
+3. Take out your RPG/At-4 then take your primary out again
+4. Press mount turret twice again then press standby back on and run away
+5. While running away keep switching from primary to yout RPG over and over and over
+6. After lag catches up keep switching weapons and ask what you are doing and they should say nothing you just have your primary out even when u take out your RPG/AT-4
+7. This means that you deleted your RPG/AT-4 from your armory so no matter what people will never see you have the RPG/AT-4 again for that whole round
+8. Go get c4 as primary and get on turret wait for it to pop
+9. Again go get c4 as primary and get on the turret and wait for it to pop
+10.After it pops get off the turret and you will have a rocket bullet if you shoot 1 time you will boot the room
+Credit:`Head Shot'
+
+Plant = Boot
+1. Have mines/clays and a M79 and M79 frags
+2. Delete your M79 (primary), Delete your pistol (you should now have m79 frag out)
+3. Go up to turret press x twice then flip your switch and take out mine/clays
+4. Plant Mine/Clay and it will boot the room out
+Credit: Toy_Machine and ROBBY23
+
+Shoot=Boot
+1. Do the Shoot Anything Out Of Grenade Launcher
+2. Take out your MGL
+3. Plant the satchel
+4. After you plant it dont switch weapons at all
+5. And the next bullet you shoot will boot the whole room
+Credit: DNAS
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Bomb Glitches
+
+Bomb Climb
+Bomb Climb Extension
+Plant Bomb Anywhere
+Plant Bomb and Have Turret w/o C4
+Plant Bomb on Turret
+Plant Bomb and Have Turret w/C4
+Plant Bomb Further From Base
+Duplicate Bomb V1-2
+Plant Bomb Anywhere With Table
+Bomb As Terrorist In Breach
+Bomb On Back While Dead
+----------------------------------------------
+
+
+Bomb Climb
+1. Get the bomb and go to a small ledge (Ex. X-roads Half wall)
+2. Now look down so you see both drop bomb and climb
+3. Now get it so it says drop bomb first
+4. Now quickly drop the bomb then press X to climb and while dropping the bomb turn to where you want to climb
+Credit: Unknown
+
+Bomb Climb Extension
+1. Do the bomb climb and at the end lean
+2. Now you can have someone push you to where ever you want to climb in
+Credit: Fastkilla
+
+Plant Bomb Anywhere
+1. Get your Primary on the Turret and get off turret,then find another primary and pick it up
+2. Go to the Demolition Site with the Satchel and do the rapid flashbang glitch with your primary, now fill up gray bar (May need to go into first person to see icon)
+3. When you see the Blue Bomb icon appear as the Active Weapon (Lower left corner of your screen.) run forward and tap Quick 2, until your Grenades come out, then drop the bomb and pick it up
+4. When you throw the nade you will have bomb as primary
+Credit: CABLE GUY..
+
+Plant Bomb And Have Turret w/o C4
+1. Get your primary on the turret without c4
+2. Now go to a dead body and pick up there primary
+3. Do the rapid flashbangs again, but with your primary
+4. Now go to the bomb site and fill up the gray bar (bomb won’t plant) and run away and press L2 to take out nades
+5. Now drop the bomb then pick it up and throw a grenade
+6. You should have bomb as primary, now get on the turret then get off
+7. You should have your primary out, now do step 4
+8. Now go to the turret and charge up your nade, then press X and let go of R1
+9. Now get off the turret and you will have the bomb, and when planted you will have the turret
+Credit: CABLE GUY..
+
+Plant Bomb On Turret
+1. Do the plant bomb anywhere glitch but don’t throw your grenade
+2. Go up to the turret, charge up your grenade and press X to get on the turret, then let go of R1
+(Note: To make the bomb disappear just get off the turret w/o planting the bomb)
+Credit: CABLE GUY..
+
+Plant Bomb and Have Turret w/C4
+1. Get c4 as primary
+2. Mount a turret and wait for your primary to pop up.
+3. Ask someone too commit suicide.
+4. pick up that persons primary the choose it in your armory.
+5. Pick up the bomb
+6. Get c4 as primary
+7. Get on a DIFFERNT turret and wait for your primary to pop up
+Credit: K A R N I V O R
+
+Plant Bomb Further From Base
+1. Take out primary and find plant bomb
+2. Start planting the bomb and halfway through plant a claymore
+3. You will be able to walk around with the bomb for about three seconds
+Credit: Unknown
+
+Duplicate Bomb
+1. Have someone go in prone and have someone get the bomb
+2. Now the person with bomb get on top of the person in prone
+3. Then the person with bomb will hit standby and drop the bomb three times
+4. As soon as the person in prone sees the bomb on there back they run away
+5. At the same time the person who had the bomb should run away and hit standby back off after about 7 seconds
+6. Now look down and see if u have the bomb
+Credit: Glitch Pro
+
+Plant Bomb Anywhere With Table
+1. Get on a table and plant the bomb
+2. When doin the animation of planting have som1 knock you down with a clay
+Credit: Unknown
+
+Have Bomb As Terrorist In Breach
+1. Have someone on seals do duplicate bomb with someone
+2. Now the person on terrorist has to plant all his clays/throw all his nades
+3. Now run over that person's body
+4. You should have the bomb as primary and on your back
+Credit: Clan eXo
+
+Bomb On Back While Dead
+1. Set the room up how you would for hostage float/invincibilty
+2. Now have someone pick up the bomb
+3. Now the person in lobby leaves
+4. When you kill the person with the bomb it will remain on their back
+Credit: Fatal and Clan eXo
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

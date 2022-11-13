@@ -1,0 +1,2722 @@
+Socom 3: US Navy Seals Interactive Glitch Archive
+-------------------------
+
+This is the official Interactive Glitch Archive, of Socom 3: US Navy Seals, made by Outsider of www.NextGenBoards.com.
+Please, as a disclaimer, do not post this on any other website without contacting Outsider via Aim at eXo Outsider.
+
+Archive Statistics:
+Websites Posted At (1):
+www.NextGenBoards.com
+Number of Glitches in Archive: (TBD)
+
+Game Name: SOCOM 3: U.S. NAVY SEALs
+Version: Patch 1.6
+Region: NTSC - USA 
+
+-=-=-=-=-=-==-=-=-=-=-=-==-=-
+
+Original Archive Written By: Outsider
+Edited, Revised, and Maintained By: Outsider
+Original Formatting By Outsider
+Revised Formatting By 24 Gunz and Outsider
+-------------------------------------------------------------
+
+INDEX
+M203/Rocket Glitches
+Useful Glitches
+Gun/Skin/Armory/Vision/Ammo Glitches
+Lobby Glitches
+Hostage/Convoy Boxes/Extraction Glitches
+Text Glitches
+Climbing/Ledge Glitches
+Bomb/Control Point Glitches
+Random Glitches
+Ladder Glitches
+Showoff Glitches
+Vehicle Glitches
+eXo Merge Maps Glitches
+eXo Shoot/Plant/Throw Anything Glitches
+e.X.o Glitch (Redline) Glitches
+Swimming/Water Glitches
+Turret Glitches
+Patched Glitches
+
+
+-=-=-=-=-=-==-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
+
+M203/Rocket Glitches
+
+Run with Rocket v2-6
+Rocket Flash In Water
+Rocket Flash v1 & 3
+Advanced Rocket Flash
+Shoot Anything Out Of Rocket
+Rocket In Hands with Gun Out V1-2
+M203/Airburst As Primary
+Rocket Trick
+Rocket Floating Off Back
+Rocket Clipping
+Dud Rocket
+Ghetto 31 Rockets
+Military Man (Infinite Rockets On Body)
+At4 and RPG On Body Illusion
+Rocket On Ground Turret
+
+----------------------------------------
+
+Run With Rocket v2 - Can run with rocket
+1. Open armory and highlight rocket
+2. Quickly press x, square and you'll jump and you'll have rocket as prmary
+Credit: Fizban
+
+Run With Rocket v3 - Can run with rocket
+1. Hang with your rocket at an elevated ledge
+2. Now do 3 sec float and when you come down you will run with rocket
+Credit: Outsider
+
+Run Wtih Rocket v4 - Can run with rocket
+1. Get halfway into any proxy w/ horizontal clipping, so that you can see just your body, not the wall.
+2. Pull out rocket.
+(Note: Only works when you dont see the animation of taking out the rocket.)
+Credit: Swifty
+
+Run With Rocket v5 - Can run with rocket
+1. Bring rocket out then bring claymores out
+2. Switch to primary then prone
+3. Crouch then have someone shoot you in leg and you run forward
+Credit: -Redman & SwordPlay
+
+Run With Rocket v6 - Can run with rocket
+1. Get extra rocket
+2. Put rocket on quick 2
+3. Shoot a rocket then switch back to primary
+4. Push r1 and L1 at the same time
+5. When your reloading push square
+Credit: ...357...
+
+Rocket Flash V1 - On others screens, you are moving fast in rocket position
+1. Go into water thats kind of shallow
+2. Take out rocket but on your screen youll put it away
+3. no ask someone what you have out, if they say rocket go on land
+4. Now you can run full speed and everyone will see you running very fast with your rocket out
+Credit: FaTaL and Head-Shot
+
+Rocket Flash v3 - On others screens, you are moving fast in rocket position
+1. Get rocket and Claymores Mines or M2 Mines Your chioice
+2. Do shoot anything out of rocket but dont change from rocket leave it out
+3. Now take out Your plantable equipment and plant one and your doing it
+Credit: Outsider and Katana33
+
+Rocket Flash In Water - Doing rocket flash in water
+1. Do the regular rocket flash
+2. Now go to a ledge that is above water at a medium height
+3. Quickly run off the ledge and swim
+4. If done correct you will still be in the rocket flash underwater, but on your screen your swimming
+Credit: Outsider and Cableguy
+
+Advanced Rocket Flash - On others screens, you are moving fast in rocket position
+1. Do fatal's auto gun illusion in showoff glitches
+2. Now simplay take out your rocket and then take out your primary
+(Note: You can do anything in this swim,climb,etc)
+Credit: Outsider
+
+Hold Gun With Rocket Out - You have your rocket on your shoulder but can shoot and switch between guns
+1. Take out rocket
+2. Now take out binocs then primary
+3. Youll be shooting primary out of rocket
+Credit: NATE2K6
+
+Rocket In Hands With Gun Out - Your are holding a rocket in your hands with anyhting out
+1. Goto the top of a ledge
+2. Take out rocket
+3. While still taking out rocket walk backwards
+4. Tap L1 as ur falling, you should pull out ur primary
+Credit: #Capt
+
+Rocket In Hands With Gun Out v2 - Your are holding a rocket in your hands with anyhting out
+1. Get in the seat of a boat where you can shoot
+2. Take out your rocket then binocs
+3. Now take out gun and get out of boat but make sure when you get out you are able to walk not swim
+4. Youll have rocket in hands with gun
+Credit: Redman
+
+M203/Airburst As Primary - Have the M203 symbol in bottom right corner
+1. Do fatals no guns glitch
+2. Get into the game and get a any M203 gun
+3. Pull your cord till you lag out
+4. Rejoin the game
+5. Dont pick any guns and respawn and you will have M203 as primary
+Credit: NATE2K6
+
+Rocket Trick - On others screens you have a rocket on your back, when you dont have a rocket
+1. Do the rocket exorcist
+2. Now switch the rocket to something else
+3. Flip switch and spawn then flip back
+4. On others screens youll have a rocket on your back but not on yours
+Credit: Outsider
+
+Rocket Floating Off Back - Your rocket is floating off your back
+1. Get a convoy on some sort of slant (like on a hill, halfway off a small ledge so the back points up, etc.)
+2. Run at it and jump and keep holding up on the left analog stick
+3. Now take out your rocket and it should be off your back
+4. Now take out your gun and get off the convoy
+5. You should have your gun
+Credit: XxAce_ManxX
+
+Rocket Clipping - Clip walls with rocket out
+1. Get a rocket out and go to a soft proxy (Gate, door, etc.)
+2. Go up to the proxy as close as u can
+3. Go in prone and wiggle left and rigth on right joystick
+4. Hold up on left joystick as u wiggle and u will go through
+Credit: -_Nate_-
+
+Dud Rocket - You shoot a rocket but all you here is the noise, you see no rocket
+1. Must be non respawn and have someone get rocket as primary
+2. Kill them
+3. You throw all your nades or plant all your clays
+4. Run over there body and youll be running with rocket
+5. Now when you shoot the rocket it will be a dud, youll only here the noise but there will be no rocket
+Credit: Outsider
+
+Ghetto 31 Rockets - Can shoot a new rocket after running over someone's body
+1. Must be non respawn and have everyone on yours and the other team get rocket as primary
+2. Kill them all, for faster pick up, kill them in a line
+3. Now throw all your nades or plant all your clays
+4. Now keep running over the bodies
+5. You will keep picking up rockets after everybody, but to pick them up, you must have 0 rockets left
+Credit: Outsider
+
+Military Man (Multiple Rockets On Body Illusion) - Have tons of rockets going out of your body
+1. Get rocket as primary with Clan eXo's Anything as primary glitch
+2. Do the rocket exorcist
+3. Get a gun
+4. Flip switch respawn and flip back
+5. Now on others screens youll be doing rocket flash
+6. Jump around and shit, after awhile youll get out of rocket flash
+7. Now take out your rocket, you should have a rocket in your hands and on your back
+8. Take out gun and youll go back into rocket flash
+9. Keep repeating the steps and youll get tons of rockets on your body, like you're a full armada
+Credit: Outsider
+
+At-4 and RPG On Body Illusion - On others screens, you have both rpg and at4
+1. Make a respawn and make sure you do Anything As Primary in Random glitches so that you have an At4 or RPg as primary
+2. Have someone merge into the room, so that they are in a non respawn
+3. In game, do the rocket exorcist with the RPG or AT4
+4. Get two slots of grenades and get rid of the rocket
+5. Flip your switch and respawn then flip your switch back
+6. On others screens you'll be doing the Rocket Trick, and you'll the rocket you did the exoricst with will still be on your back
+7. Throw one set of grenades
+8. Now kill the person with the opposite rocket that you had
+9. Run over there body with the grenades out
+10. You should pick up the rocket
+11. When you take it out, on others screens, they'll see you with the rocket you just picked up in your hands, and the rocket you ddid the exorcist with on your back
+Credit: Coltz-One and SuperNintendo
+
+Rocket On Ground Turret - Have the rocket on the ground turret
+1. Get a rocket
+2. Go to turret
+3. Hit standby press X to mount
+4. Do Run With Rocket (Jump way recommended - easiest)
+5. Flip standby back
+6. You should get sucked back to turret
+7. Now dismount and you have rocket on turret
+Credit: sn0wman7
+
+-==-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
+
+Useful Glitches
+
+Skywalker V1-3
+Shoot In Skywalker
+Horizontal Clipping
+One Shoot Boot
+Host Spawns Early
+KGG (One Shoot Boot In Respawn)
+Join Enlisted Servers W/ Any Rank
+Dead Channel Glitch
+Spectator Glitch After Patch
+
+----------------------------------------
+
+Skywalker v1 - Can skywalk with rocket out
+1. Climb up a ledge where you hang on and take out your rocket
+2. Now fall off the ledge and press X hard as fast as you can
+3. You should climb with your rocket out now either climb up or down
+4. Now as long as you leave your rocket out you will be skywalking
+(Note: You may also get into a car and drive to where you want to go, and when you get out you will still be doing skywalker)
+Credit: _FasT_
+
+Skywalker v2 (Ladder and Ledge) - Can skywalk with rocket out
+1. Go to a ladder (top or bottom) or a hang climb
+2. Pull out rocket, then clays
+3. Plant a clay, as its planting wriggle your joystick left and right and keep tapping x
+4. When on the ladder/ledge climb up
+(Also works with dropping the bomb)
+credit: Dufff
+
+Shoot In Skywalker (No Bounce) - Can shoot guns while doing skywalker
+1. Take out your primary and have it on Quick 1
+2. Highlight your rocket and quickly press L1
+3. You should have your rocket out but holding your gun
+4. Now do skywalker
+Credit: Outsider
+
+Aqua Walker - Skywalker under or on top of water
+1. Do the skywalker and find somewhere that leads downward
+2. Now go down the slope till you are underwater
+Credit: SKA
+
+Horizontal Clipping - Can clip walls
+1. Climb on a ladder then get off or climb a ledge.
+2. Without using your right analog stick manuvure yourself to the wall you want to get into then dive sideways at it so that your body hits it sideways.
+Credit: Fizban
+
+One Shoot Boot - Can boot regular room
+1. Must be non-respawn
+2. Get only nades in armory and throw them
+3. Have someone with only a rocket in the equiptment slots and die
+4. Standby run over there body and pick up there primary then run away and standby back
+5. You should be running with rocket and when you shoot it everyone who entered the room before you is GONE!
+Credit: Fatal and Outsider
+
+Host Spawns Early - Can spawn before everyone else
+1. Wait till the end of the round and when the round screen first shows up hit standby
+2. Now when you spawn noone else will spawn and you can keep your switch flipped for as long as you can and youll be the only one to start
+Credit: NATE2K6
+
+KGG (One Shoot Boot In Respawn) - Boot everyone in the respawn room
+1. Get only an M203/Airburst and a pistol, nothing else
+2. Do the exorcist glitch just with the M203/Airburst
+3. While your dead get a rocket
+4. Wait till lag catches up then respawn
+5. Highlight your rocket and do run with rocket
+6. Shoot the rocket and the entire room gets booted
+Credit: KilleR-7
+
+Join Enlisted Servers W/ Any Rank - Can join enlisted rooms with any rank
+1. Go to the main menu
+2. Unplug the cord (From the PS2)
+3. As soon as everything freezes and you the music stops, plug it back in.
+4. You should now be in the Server Select Screen
+5. Quickly select server, and name.
+6. Once logged you should not see your rank icon.
+7. Go to enlisted ranks server and have fun
+Credit: Stealth Master and ...357...
+
+Dead Channel Glitch - Allows you to be on a channel other than Channel All, 1, and 2
+1. In respawn throw a nade next to you and press circle to open up commands
+2. Go to radio and highlight all
+3. After the grenade kills you press all
+4. You will be put into the dead channel and will stay in this secret channel til you respawn
+Credit: Aceman
+
+Spectator Glitch After Patch - Maybe the most useful glitch ever, originally found by Robby23 of Clan eXo before the recent patches. You are a spectator but you are able to play in the game. It is like a 3rd Party code. You can kill people, you are on your own team, everyone you kill, terrs and seals, counts toward your kills, and you cannot be voted out. Very useful glitch
+1. Find a room that is NOT started
+2. Press spectate and highlight the room that you’re going to do the glitch in
+3. Flip your switch and hit X to spectate, wait 6 seconds
+4. Flip switch back and keep tapping triangle rapidly
+5. Go into community
+6. Now this is the hard part, when you press triangle, you will join the room. But in order for it to work, you must join during the 10 second countdown, so you gotta get your timing right
+Credit: Hendrix and Robby23
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Gun/Skin/Armory/Vision/Ammo Glitches
+
+Unlock All Skins
+Shoot Gun Off Back
+Guille Suit In Any Map V1-2
+Skin Glitch
+No Guns In Armory
+James Bond Glitch
+Invisible Gun In Armory
+Decoy Gun
+Lock Armory/ No Icons v1-2
+Pick Up Weapons Anywhere
+Silent Guns
+3rd Person Thermal
+Hunter Vision v1-2
+Hunter Vision In Car
+Binocs As Primary
+Flaming Head/Shoot Gun Off Back
+Gun As Arm
+Mr. Limpy
+The Rhino
+Shoot Gun At Your Nuts
+2x Ammo As Primary v1-2
+Armory Open While Alive
+Full Screen Scope
+Armory Open On Boat Turret/Driver Seat
+Armory Open While Swimming
+Small Alive Armory Open While Dead
+Any Gun In Shotguns, Snipers, Pistols, etc Only
+
+----------------------------------------
+
+Unlock All Skins - Can have locked skins
+1. Go into armory and highlight what character you want unlocked
+2. Now open chat then hit triangle to get out
+3. As soon as your getting out hit X hard rapidly and left on dpad
+4. You should be in the customize character screen with that character even though it has "LOCKED" on it.
+5. Now you can save as custom and you will have it every game
+(Note: You can also go to the lobby and switch teams and G^ quick to get on the other side, you can also save the custom.)
+Credit: Swift
+
+Guille Suit In Any Map - Have ghillie in any map
+1. Go into a room with an african map and a map u want the gillie suite in. Do not load the map go to choose the character pick the guillie suite.
+2. Go to weapons and wait for the game to end. If you no when its about to end and go to a new map highlight the gillie suit in your armory and keep pressing over.
+3. When the game ends and everyone comes back to the lobby you will still have gillie suite selected but if u kept pressing over the gillie suit will now have a picture of some equipment like a grenade, but you will still have suit
+4. Now exit and green up if done right u will have gillie suite in the next map
+(Note: You can customze the guy)
+Credit: Swift
+
+Ghillie Suit In 10 Sec - Have ghillie in armory, but not as your character
+1. Go to either side on any team
+2. get any armory you want then save it
+3. When the countdown starts highlite the character with the ghillie suit
+4. As the countdown hits 0, rapidly tap X on the locked character
+Credit: FaTaL
+
+Skin Glitch - Have terr skin as seal, and vice versa
+1. Do haxed armory to get the chgaracter screen on the team view (must have a locked character)
+2. Now highlight that locked char again (or the other one if you got 2) hit select then x right after
+3. Hit triangle a couple times so your screen is normal again and there yea go
+Credit: Swifty14
+
+No Weapons In Armory - Have no weapons in lobby and in game
+1. Create a snipers only game
+2. Go into armory and customize
+3. Now make pistols only and customize
+4. Now go to the regular room and you will have no guns as long as you customize at all the same maps
+Credit: FaTaL
+
+James Bond Glitch - You are zoomed into your body
+1. Get behind a proxy that you can get stuck back in(harvester the wooden fences)
+2. Get stuck in the proxy
+3. Run foward in the direction that is the way out from the stuck proxy and go into scope then zoom back out and there you go
+Credit: BLinD
+
+Invisible Gun In Armory - There is no icon
+1. Find a dead body
+2. Pick up weapon
+3. As you reach down jump to the left
+Credit: DNAS
+
+Decoy Gun - Have a gun in hands but not in armory
+1. Get nothing in your armory
+2. Pick up somebodies weapon
+3. Now get on then off the turret
+4. You will have no gun, but a gun in your hands lol
+Credit: FaTaL
+
+Lock Armory - Cant open your armory or see icons
+1. Put binocs on L1
+2. Go into water so you are barely standing up with your primary out
+3. Now move forward press L1
+4. You should keep your gun out but have locked armory and cant shoot
+Credit: Killer-7
+
+Switch Primary/Pistol Anywhere - Can pick up different primary anywhere
+1. Have rocket out near car and near a dead body where u can pick up a wepon
+2. Highlight all 3 icons mount, switch primary, and switch secondary
+3. Hold "X" then hit Right on the "D" pad until you see mount
+4. Let go of "X" you should mount the car
+5. When in the car hit either "LEFT" or "RIGHT" on the "D" pad then right after that hit "X" fast, if you did it right u wont dismount if you did it rong you will dismount
+6. Dismount car an you will have your rocket out then wher ever you walk you can see the "Switch Primary" icon then jus hit "X" and there you go
+7. You can also get back into the driver's seat still with ur rocket out after doing the glitch correctly and drive anywhere then dismount and still be able to switch wepons
+Credit: -CodeRed-
+
+Silent Guns - Your guns are silent to others
+1. Do the rocket exorcist
+2. Pick a pistol and primary
+3. Pull your cord and spawn
+4. Switch to nades or rockets and switch back to ur guns
+5. Now no matter what weapons you switch to, anytime people will not hear your pistol or primary shoot unless u die
+Credit: Cableguy
+
+3rd Person Thermal
+1. Get a thermal gun
+2. Get inside the big boat (SOC-R)
+3. Take out binocs then take out your primary and go into thermal
+4. Now wait for the round to end and next round you'll be in third person thermal, but you can't shoot
+Credit: Clan BK<
+
+Lock Armory/ No Icons v2
+1. Get a scope
+2. Get in the big boat (SOC-R), now get in the seat where you can shoot
+3. Take out binocs then your gun and go into scope
+4. Wait for the round to end
+5. Next round you'll spawn, but cant shoot or open your armory, and you see no icons
+Credit: Clan BK<
+
+Hunter Vision v1 - You have no icons, name, health, etc in your picture
+1. Take out greandes
+2. Throw one right by you now quickly take out your binocs and hit circle to open up the vote menu
+3. You will die and when dead press select twice
+4. Spawn and you did it, there will be no icons/crosshairs/health/etc
+(Note: You can just have someone kill you while your in binocs)
+Credit: Hunt3r
+
+Hunter Vision v2 - You have no icons, name, health, etc in your picture
+1. Go by a ledge above water
+2. Take out your binocs then fall, while fallling hit circle and select twice
+Credit: Hunt3r
+
+Binocs As Primary - Have binocs icon in bottom right corner
+1. Put binocs on quick and have primary out
+2. Now press O and L1 and you should have out with your command menu
+3. Now press select twice and you have binocs as primary
+Credit: Ghost-Soldier
+
+Hunter Vision In Car - No icons, health, etc on your screen while in car
+1. Be next to a car
+2. Now go into scope
+3. Press O then down on dpad
+4. You should see your crosshairs with command menu open
+5. Now press select, then select
+6. And then press X, you should have Hunter Vision In Vehcile
+Credit: Ghost-Soldier
+
+Flaming Head/Shoot Gun Off Back - Shoot gun out of head or off back
+1. Do run with rocket with pistol
+2. Now take out primary
+3. Depending on your weapon, it will either go through your head or remain on your back
+Credit: Unknown
+
+Gun as Arm - Your gun is in your arm
+1. Take out Rocket
+2. Put primary on quick then take out binoculars then press quick
+3. Take out rocket then pistol and move forwards
+4. Then to take out primary open binoculars then press L1 to take primary out
+Credit: ROBBY23
+
+Mr. Limpy
+1. Get into prone and take out rocket
+2. Put primary on quick then take out binoculars then press quick
+3. Take out rocket then take out your pistol
+4. Then to take out primary open binoculars then press L1 to take primary out
+Credit: C.A.B. and ROBBY23
+
+The Rhino - Gun is sticking high out of your head
+1. Go above a ledge with rocket then take out binocs and primary
+2. Now get into crouch and take out rocket
+3. Fall of the ledge and take out your pistol at the same time and your gun should be through your head
+4. Now do run with rocket then take out primary and youll be shooting with a gun way above your head
+Credit: C.A.B
+
+Shoot Gun Down At Nuts - Your gun is pointed at your nuts
+1. Do shoot anything out of rocket under m203/rocket glitches
+2. Get in prone, pull out rocket, then pistol
+3. Stand up, pull out binocs or clays, then primary
+4. Your primary will be pointed at your nuts
+Credit: Dufff
+
+2x Ammo As Primary - Have ammo box in bottom right corner
+1. Get some nades for your equp slots.
+2. Set nades as one of your L1 quickswap buttons.
+3. Die and then switch the nades you had as your L1 to 2x ammo.
+4. Next round hit L1 and you should have your 2x ammo out.
+Credit: Diablo_Drew
+
+Full Screen Scope - Youll have a full screen scope
+1. Go into first person
+2. Press start and go into scope
+3. Now go to resume and it should be a full screen scope
+(Note: May take a few tries)
+Credit: Unknown
+
+2x Ammo As Primary In Snipers/Shotguns/etc Only - Have ammo box in bottom right corner
+1. Get a sniper/shotugn/etc and 2x Ammo
+2. Pick up the bomb and press quick 2
+3. Youll have 2x Ammo as primary
+Credit: Outsider
+
+Armory Open While Alive - You have the dead armory open while alive
+1. Be dead in a respawn
+2. Hit L2 to open armory and then X (Not like at the same time, but immideatly after)
+3. You should respawn with your armory open
+Credit: RYANNAYR
+
+Armory Open On Boat Turret/Driver Seat - Have alive armory open on boat turret/driuver seat
+1. Get in a boat must be the big one with the seats you can crouch in (SOC-R)
+2. Pull out your controller
+3. Press select then selct again then press R1
+4. Now get out of the Controller Unplugged screen
+5. Youll be in the seat with your armory, now you can switch seats and it will stay open, even on turret
+(Note: You cant move unless you unplug you controller and plug it in, you must play with the controller unplugged box open)
+Credit: Aceman
+
+Armory Open While Swimming - Have alive armory open while swimming
+1. Do the Armory Open On Boat Turret/Driver Seat glitch
+2. Have someone shotgun you into water, but not die
+3. Youll be swimming with your armory open
+(Note: You cant move unless you unplug you controller and plug it in, you must play with the controller unplugged box open)
+Credit: Aceman
+
+Small Alive Armory Open While Dead - Have alive armory open while dead
+1. Do the Armory Open On Boat Turret/Driver Seat glitch
+2. Have someone kill you
+3. You''ll be dead with your small alive armory open on the left side of the screen
+(Note: You cant respawn)
+Credit: Aceman
+
+Any Gun In Shotguns, Pistols, etc Only - Have any equiptment in Shotugns/Pistols/etc only room
+1. Do the eXo Universal Glitch into the room you want to merge into
+- Make sure you have your settings set so that it is a All weapons room
+2. Now you should have the weapons you had in the map you had as your custom
+3. So you have any weapon in any typee room
+Credit: Clan eXo
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Lobby Glitches
+
+Team Glitch V1-2
+Server Spam
+Auto Mic
+Hold Mic Forever
+Get 32 People In Small Map
+FaTaL Room
+Join Briefing Room from Join Game Menu
+Never Ending Game
+See Every Room On S3 V1-2
+Double Clan Glitch
+Lock Autoplay
+OFU Room
+Play In ranked Rooms Un-verified
+Overlapping Spec and Join Game List
+Over Lapping Lobby/HaXeD Armory Glitch
+Clan Takeover
+See Who Your Kicking In Clan Takeover
+Everlasting Invitation
+eXo Hax
+SocomNES Style
+Talk to People In Lobby While Spec
+Spawn Points Picture In Text Chat
+
+----------------------------------------
+
+Team Glitch v1 - Play on same team with no one on other side
+1. Be on the side opposite of that you want to be on
+2. Green up
+3. Have everyone on the other team green up (Unless it will force if a certain amount green up)
+4. Hit Start then almost IMMIDEATLY after hit select to switch teams
+5. You should switch teams and the count down will begin
+Credit: Unknown
+
+Team Glitch v2 - Play on same team with no one on other side
+1. Start on the team you want to do the team glitch on
+2. Hit standby, switch teams wait for bar to fill
+3. Now switch teams again and when the bar is almost filled hit standby back, then G^ as soon as possible
+Credit: Head Shot and Fatal
+
+Server Spam - Room's at top of Breifing list
+1. Go to create game
+2. Set the game name to whatever you want
+3. Make sure you put a passwaord
+4. Hit start then flip switch
+5. keep taping up and then turn pass off
+6. hit switch off and then you will get a message "incorrect pass"
+7. Put a pass and start game, hit switch and turn pass off
+8. Repeat steps 6-8 as many times as possible
+9. When in room, your game will be at the top of the briefing room
+Credit: FaTaL
+
+Auto Mic V1 - Have mic without holding L2
+1. In the lobby start to talk then pull your controller's cord
+Credit: Unknown
+
+Hold Mic Forever - Can hold mic forever
+1. Grab mic and hit stanby on
+2. Green up and then let go of mic
+3. green down and hit standby off after the yellow bar fills up a little bit
+Note: No one can grab the mic accept you all you have to do is hit L2 to grab mic
+Note: You can also do this by switching teams instead of greening up and down.
+Credit: mkplaya
+
+32 People In Small Map - Can have 32 people in a Small type map
+1. Go to create game
+2. Set all your settings
+3. set the playes amount to 6
+4. Go into play list pick any map at the SMALL setting (like Harvester Small)
+5. Enable respawn
+6. Highlite start game hit standby and keep pressing up on the dpad untill you can choose options
+7. Go into playlist pick any map and turn standby off
+Credit: FaTaL
+
+See Every Room On SOCOM 3 - You can see every room on socom in one breifing room
+1. Go to auto-play
+2. Leave the settings on defualt (or you can change em, i'll tell you more later)
+3. Hit Standby and press auto-play a couple times.
+4. Now quickly go to the Breifing rooms, and press Join Breifing room, but as soon as you press join, press standby again, to gain your connection.
+5. Now go to the Join Game tab, and you should see every active game on socom 3
+Credit : -Hunt3r-
+
+See Every Game On S3/No Standby Required - You can see every room on socom in one breifing room
+1. Join a brefing room
+2. Go to auto play, pick w/e settings you want to see (Ex:Like if you picked Harvester, you'd see every harvester game on socom)
+3. Highlight search for games
+4. Tap X, then right after hit triangle to go to the section where you can see the names of the game to join
+5. All the games that have the settings you selected should pop up
+Credit: Cable Guy
+
+Never Ending Game - Game never ends
+1. You have to be host
+2. When the countdown starts, wait till it gets to 2 then hit standby
+3. Once you get in the game turn standby off
+4. Abort and come back
+5. As long as the person stuck in the loading screen stays, the game will never end.
+Credit: FaTaL
+
+FaTaL Room -
+1. Go to create game and set all of your settings.
+2. Now press start game and pull the cord from the back of your ps2 till it says dissconected from game.
+3. If you did it right, the dissconected message will go away and youll go into the game lobby.
+4. Now get someone to come in the room and both of you greenup.
+5. On there screen the game will start, on yours it will stay in the lobby forever.(exactly like awsome lock room from s2 found by fatal)
+6. Have the person that started the game abort
+7. Now when people join the game it will say the game has already started
+8. Now G^
+Credit: Fatal
+
+Join Briefing Room from Join Game Menu - Can join a breifing room from the join game menu
+1. Join a briefing room
+2. Press triangle
+3. Go to join briefing room
+4. Press X then QUICKLY press right
+5. You will still be in the join game screen but when you go down on the d-pad itll move to different briefing rooms
+Credit: Outsider
+
+Double Clan Glitch - Be in two clans at once
+1. Be in a clan, turn off socom, and then get back on
+2. When you get to the user agreements screen hit accept
+3. Right when it says logged in and its about to take you to the main lobby hit standby
+4. Go to create clan type in a name thats not taken
+5. Hit standby off then keep on hitting create clan
+6. Now it should say your the leader of your clan, and youll have youll your old clans roster. But the only thing that you can change is you clan tag.
+Credit: Clan [cMf]
+
+Lock Autoplay - Autoplay button is locked
+1. Go to autoplay and highlight search for users
+2. Now hit X and quickly go to Advanced Options
+3. It should say unable to find room
+4. Now when you go back to autoplay the customs and search for users button should be locked
+(Note: May not get on first try.)
+Credit: Head-Shot
+
+OFU room - Fucks up the room. People cant join, voice mod activates when you switch teams, dont see yourself in lobby, etc
+1. Go to create game
+2. Set all your settings any way that you want
+3. Highlite start game
+4. Hit standby, hit start game and keep pressing up on your Dpad.
+5. Now quickly select save and turn standby off
+(Note: Now let it sit like that and when people join the room it will be all fucked up. Things will happen like: It will say a diff map then it really is, you wont be able to see yourself or anyone else in the room but you can talk to them, whenever you switch teams, your voice mod enables, you can have armory of the opposite team.)
+Credit: Fatal
+
+Play In Ranked Rooms Un-verified - Can play in ranked rooms unverified
+1. Go on a verifired name
+2. Go into a briefing room and go to ceate game
+3. Set your setings how you want and go to save
+4. While its saying dont remove memory card pull your cord from the back of your ps2
+5. After its done saveing it will say "you have been dissconected" and bring you back to the universe screen
+6. Create a new name and register it
+7. go to create game and it will say "ranked" and shortly dissapear.
+8. Go to load and the settings you saved before you got dissconected will show up and now you can create ranked games on non verified names.
+Credit: FaTaL
+
+Over Lapping Lobby - The armory will overlap with the lobby screen, map screen, etc
+1. Go to a locked character
+2. Open up text chat abnd press triangle
+3. Now quickly press X and quickly go to the lobby screen you want over lapped
+4. Now a LOCKED sign should appear on your screen
+5. Now press triangle and youll have over lapped screen
+Credit: Swifty
+
+Haxed Armory - Armory gets fucked up and messes with the icons
+1. Go to a locked character
+2. Open chat then close
+3. Right when you close it, hit triangle rapidly (Must do it RIGHT when you close chat)
+4. Then move cursor to armory and press X (Do this FAST)
+5. If done correctly your armory will be messed up
+(Note: The icons will disappear and get mixed up. A HE could actually have a SMOKE icon, same with guns, etc)
+Credit: Outsider
+
+Clan Takeover - Can disband/boot people from clan
+1. Highlight Leave Clan
+2. Press circle, then triangle
+3. You'll scroll through and invisble list
+4. You can kick people out of it, and disband without being leader
+(All lists are invisible, hit down 2 times to disband, hit 3 times to remove, must memorize clan list)
+credit: -anxiety-
+
+See Who Your Kicking In Clan Takeover - Easier way to kick players with clan takeover
+1. Highlight person u want to kick in the regular clan menu screen
+2. Go to manage clan hit circle then triangle
+3. Hit down 3 times to get to remove player
+4. Now when your doing it youll be on the same person you were in the regular clan screen
+Credit: -anxiety-
+
+eXo Hax
+1. Highlight the game you want to join
+2. Press x and then hit your switch
+3. Tap triangle rapidly till you can move and go to your online options
+4. Flip switch back and quickly go to screen adjustment (Where you can place the screen)
+5. Wait like 10 seconds untill you hear people in the room talking
+6. Press triangle and pull your cord to go to the universe screen
+7. Effects and such coming soon!
+Credit: FaTaL
+
+Everlasting Invation - Have the accpet/decline invite box open everywhere you go in the S3 Lobby
+1. Go to your invations
+2. Click on the invatation
+3. Now open your chat menu and close it now where ever you go you should have the accept/Declin/Leave clan
+Credit: SuperNintendo
+
+SOCOM NES Style - The community will turn different colors, like old school NES menus
+1. Log on normally
+2. Pull cord until you get disconnected and go to the name log in screen
+3. Log back on, eject disc
+4. Now go into community and it will be really old school
+Credit: Fatal
+
+Talk to People In Lobby While a Spec - Can talk to people in game lobby as spec
+1. Find a room that isnt started and has specs on
+2. Now join it and count to three, then flip switch for a good 17 seconds
+3. Start pushing triangle untill you get out of the list, then go to clan list
+4. Hit X, X and just wait for you to join room
+5. Now you can talk to the regular people, only when in lobby
+Credit: Robby23
+
+Spawn Points in Keyboard - Your spawn point pictures will be in the text chat in the game lobby
+1. Have someone on a team alone
+2. Highlight the persons name and and have him switch teams
+3. Now hit Sqaure now it gives you the options to Whisper Check the stats and shit like that
+4. Hit whisper hit Triangle Twice now move to the right once and the spawn points are in your keybord
+Credit: -AceMan.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Hostage/Convoy/Extraction Glitches
+
+Load/Extract Convoy Further From Drop/Load Zone
+Convoy Loop
+Invisible Convoy Boxes
+Extract Empty Convoy
+Extract Hostages Anywhere
+Extracting Hostages Doesnt End Game
+Kill Hostage = Extract
+Hostages Dont Extract In Hostage Zone
+Hostage Slingshot
+Hostages In Car With Nobody In It
+Hostage Clip
+Seals In Car w/ Hostages (Escort)
+Hostages Halfway/Fully Undermap
+Hostage Magnet
+Hostage Respawn v1-v2
+Multiple Control Of One Hostage Illusion
+Ran Over By Hostage
+Hostage Face Lift
+Be Hostage On Turret
+
+-----------------------------
+
+
+Load/Extract Convoy Farther From Zone - Can load/extract convoy away from the load/dropoff zone on others screens
+1. Get far away from load zone in convoy truck
+2. Flip your switch
+3. Get out then get in
+4. Drive the convoy forwards until u hit load zone
+5. Flip switch back
+6. On your screen the convoy is loading at load zone but on everyone else's its at its origonal location
+(Note: Do the same thing for extracting it, but at the extraction zone)
+Credit: C.A.B
+
+Convoy Loop - Boxes keep loading and then going back to load zone when you stop the pickup
+1. Do load convoy anywhere
+2. Now move the convoy so everyone sees it at the load zone
+3. Move the convoy out of load zone and the boxes will spawn again it will do it over and over again
+Credit: C.A.B
+
+Load Invisible Boxes - You load invisible boxes on others screens
+1. Do load convoy anywhere
+2. Now take out the comvoy and move the 2nd convoy truck in the load zone
+now the convoy will be loading invisible boxes
+Credit: C.A.B
+
+Extract Empty Convoy - You load invisible boxes or extract a empty convoy on others screens
+1. Do load convoy anywhere
+2. Now take out the comvoy and move the 2nd convoy truck in the load zone
+now the convoy will be loading invisible boxes
+(Note: You can extract with the invisible boxes too)
+Credit: C.A.B
+
+Extract Hostages Further From Extraction - The hostages will disppear further from extrction point on others screens
+1. Have hostages in car
+2. Flip switch
+3. Get out then get in
+4. Drive car in extraction
+5. When your in the extraction have someone pull the hostages out of car
+6. Flip switch back
+7. The round will auto end on others screens
+Credit: C.A.B
+
+Extracting Hostages Doesnt End Game - The hostages extract but the game doesnt end until the timer runs out
+1. Have control of hostages in a car
+2. Leave the game and have someone move hostages into extraction
+3. Next game have someone extract the hostages
+4. The hostages extract but the game wont end until the timer runs out
+Credit: C.A.B
+
+Kill hostage = Extracted - When you kill a hostage, it extracts
+1. Get control of hostages and leave game
+2. Have someone get hostages extracted without taking control of them
+3. Next round have the team the extracted the hostages get control of them
+4. You will be on the other team and kill the hostages.
+5. People that didnt leave the game see hostage extracted
+Credit: C.A.B
+
+Hostages Dont Extract In Hostage Zone - Hostages dont extract in Extract Zone
+1. One person grab all three hostages
+2. Takes them about 20 feet away from extraction
+3. He leaves and comes back
+4. The host pushes them into extraction
+Credit: Supernintendo.
+
+Hostage Slingshot - The hostage flies very high in the air once shotgunned
+1. Take hostage to ledge
+2. Then have the hostage infront of ledge tell it hold position
+3. Climb the ledge then move like 5 feet infront of them
+4. have someone behing them
+5. The person grabs them and the shotgun person shoots them
+Credit: Supernintendo.
+
+Hostages In Car With Nobody In It - Hostage is in car when no person is in the vehicle
+1. Get hostages in a car
+2. Now leave and the hostages will remain in it
+Credit: SuperNintendo.
+
+Hostage Clip - The hostage clips right through the wall
+1. Get control of a hostage
+2. Now get outside of a soft wall (Fence, Gate, etc.)
+3. Now get about 10 feet away from the gate and the hostage(s) you had control of will just clip through
+Credit: SuperNintendo.
+
+Hostages Halfway Undermap - Hostages are halfway under the map in crouch
+1. Get in a car with a hostage
+2. Flip switch get out of the car and flip back
+3. Now the hostage should be halfway under the map
+Credit: Fatal and NATE2K6
+
+Hostage Fully Under Map - Hostages are fully under the map
+1. Get a hostage
+2. Get a car
+3. Drive up a curve where it makes the car slant(Almost looks like its gunna tip over.)
+4. Once the car is slanted at a point dismount and the hostages should get pushed under map
+(Note:If u slant a car to the point where u can't dismount have someone shoutgun u out but make sure he doesnt shoot the hostages.)
+Credit: SuperNiNtendo.
+
+Seals In Car With Hostages (Escort) - Seals can be in a car with hostages, in escort
+1. Do the no driver in car with hostages glitch
+2. Then have the terr. get in wait five sec. then the terr. gets out
+3. Then the seal can see the mount icon and get in and drive with the hostages
+(Note: In Escort the seals are suppose to kill the hostages.)
+Credit: SuperNiNtendo. and DUFFF
+
+Hostage Magnet - Hostage will teleport to that car turret
+1. Do the hostage with no driver glitch
+2. Then click Follow on the hostage
+3. The hostage will not follow he will be sitting in the car still
+4. Get a another car driver near the other car and the hostage you clicked on will teleport to the car
+Credit: SuperNiNtendo., DUFFF,and Patriot
+
+Hostage Respawn v1 - Hostage respawns
+1. Get a hostage Near your spawn.
+2. Someone kills you, as soon as they do hit your switch
+3. Now spawn, take control of a hostage and kill yourself and it
+4. Now flip back and respawn
+Credit: Aceman
+
+Hostage Respawn v2 - Hostage respawns
+1. Do the Hostage in driver seat glitch.
+2. Then as soon as u do that go to the nearest extraction point and extract them.(Its like a time limit ).
+3. On everyone elses screen it will say hostage extracted except for the person that did the hostage in driver seat.
+4. Have the person that did the hostage in driver seat glitch get out of the car and the hostages will re appeare on everyone elses screen
+Credit: SuperNiNtendo
+
+Multiple Control Of One Hostage Illusion - More than one person can have control of the same hostage in the select screen, but one is only a illusion
+1. Have 2+ people ready to get control of a hostage
+2. Have everyone flip there switch and keep pressing X to take control of the hostage rapidly
+3. After 5 seconds flip your switch back but keep press X to take control
+4. When the lag catches up one person should have control of the hostage and someone else should still have the white circle in the select menu even though they dont have control
+5. Keep repeating this with others until you get the whole team with the white dot
+Credit: Clan eXo
+
+Ran Over By Hostage - When you get ran over, it says killed by hostage
+1. Do redline (eXo gltich)
+2. Have someone, who you see invisible, get hostage in driver seat
+3. The person who is invisible gets in the driver seat and when he runs you over it will say "Ran over by hostage"
+Credit: Supernintendo.
+
+Hostage Face Lift - The hostages face will change in appearnce, like its mouth will stay open
+1. Have flashbangs and a car
+2. Throw the flashbang to blind the hostage and mount a car realy fast
+3. She should mount then just dismount
+4. Once done, she should have a wierd face everytime you do this (Ex: Open mouth)
+Credit: SuperNiNtendo
+
+Be Hostage On Turret - It looks like you are the a hostage on a turret
+1. Get the Hostage On Turret
+2. Do the eXo Turret so you're invisible on the turret
+3. When you do it, it will look like you are actually the hostage on the turret
+Credit: Outsider and SuperNintendo
+Also found in Turret Glitches
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+» S3 - Socom 3 p2
+Text Glitches
+
+Long Room Name
+Lock Chat
+No Clan Tag
+Red Clan Tag
+Long Clan Tag
+Long Clan Name
+Colors/Buttons In Taunts
+Combine 2 Names
+Repeating Taunt
+Long Taunts
+Random/Linked Taunt
+Haxed Taunt
+Colored Private Messages
+Shiny Room Name
+
+----------------------------------------
+
+Long Room Name - The room name can be longer than the maximum amount of characters
+1. Go to message then chat and type whatever you want the room to be called in the lobby but dont enter it
+2. Press standby and enter the message
+3. Go to create game and type anything in for the name
+4. Press standby back on and the a will change to the message that you typed
+Credit: Unknown
+
+Lock The Chat - The chat will be locked
+1. Type in ~$~
+2. Enter it and it will only show up as one ~
+Credit: Unknown
+
+No Clan Tag - You can have no clan tag. It looks like this [ ]
+1. Join a briefing room
+2. Go to Clan menu
+3. Highlight Change Clan Tag
+4. Hit circle to open chat
+5. Type in a few random letters
+5. Hit standby
+6. Enter the message(what you want tag to be)
+7. Press triangle until your out of chat
+8. Hit X to open clan tag window, dont type anything
+9. Hit circle to enter
+10. Hit standby back
+11. QUICKLY Hit X again
+12. QUICKLY Hit Circle to enter again
+13. Go into a room and youll have no clan tag
+Credit: Whiplash
+Picture:
+
+Red Clan Tag - Your clan tag will be {#C??? but in red
+1. Press standby and go to manage clan
+2. Change tag to #C and leave manage clan
+3. Press standby back on and clan tag will change to [#C??? but in red
+Credit: DNAS
+
+Long Clan Tag - Can have a clan tag longer than 3 characters
+1. Join Briefing room, highlight change clan tag, open chat, type something random (doesnt matter what)
+2. Flip Switch, enter it, get out of chat, press X, Circle, X, Triangle, X, Circle, X, Triangle on change clan tag. Then wait to lag offline
+3. When you get the error message flip switch back, press X. Log back on and go into a briefing room
+4. Press X, Circle on your change clan tag 3 times about. Then repeatedly type what you want your clan tag to be untill it pops up once
+5. Last step. Go back to change clan tag, Press X, Circle on change clan tag over and over untill your text stops coming up in the chat
+Credit: Death_Affect & _-Assassin-_
+
+Long Clan Name - You can have a clan name longer than the maximum amount of characters
+1. Make a clan
+2. Go to disband, when it says do you wish to disband highlight "yes" and flip your switch then select "yes"
+3. Go to community and flip your switch back
+4. Open up the chat and type what you want your long clan name to be. (DON'T ENTER IT YET)
+5. Flip your switch then enter it
+6. Go to create clan name and type "a" and enter it, flip your switch back
+7. Hit create clan a couple of times (You'll notice that it won't let you create it until the lag catches up)
+8. Go back to create clan NAME and leave the keyboard open
+9. When lag catches up hit triangle to exit the keyboard then hit triangle again to leave the clan screen
+10. Once you leave the clan screen you'll see your long clan name pop up
+Credit: KilleR-7
+
+Colors/Buttons in Taunts - Can have colors and buttons in your taunts
+1. Go to taunts
+2. Ex: If you want it to say "TREE" in green or whatever you want, type #B#C!~ TREE (All the #C codes are the exact same as they were for S2 so you can make it any color w/ any buttons)
+3. Hit standby then enter what you wrote
+4. Go to Clan list or anything invloving your clan and hit standby off
+5. Go back to your taunts and the taunt should have whatever you wrote in whatever colors you put in...Example: TREE
+(Note: make sure to type #B before every #C code)
+Credit: KilleR-7
+
+Repeating Taunt - Your taunt will keep repeating
+1. Open Circle Menu Go To Taunts
+2. Highlight A Taunt Hit Traingle
+3. Go To Radio and Pick A Channel And Hit X
+Credit: _-Nate-_
+
+Long Taunts - Can have longer taunts than the max amount of characters
+1. Go to taunts
+2. Pull chat menu up type what u wnat ur taunt to be
+3. Press standby then press O then click on taunts press o turn standby back on
+4. Press on taunt and o again.
+Credit: Swift and Glock
+
+Random/Linked Taunt
+1. Do the Long taunts but with the alt AE( as many as possible to all three taunts)
+2. Now go in a game
+3. Go to taunts click on it press trianlge now press channel.
+4. You shud freeze and ull ahve to turn ur ps2 off
+5. Log back online and save your taunts
+6. Your taunts shall now all be linked and random wit sum weird stuff in it
+Credit: Swift and Glock
+
+Haxed Taunt
+1. Go to taunts and hilite taunt 1
+2. Make it o#C#B (Make sure the o is the alt one, with line through it) and with two digits left, put (space bar) then 1
+3. Those two digits make that "1" (w/out quotes)
+4. Now go to taunt 2 and make that a "1" (w/out quotes)
+5. Now go to taunt three and make it (alt o with slash) all the way thru
+6. Now press [] four times and type #C#B
+7. Now it will let you and 2 more (alt o with slashes)
+8. Now save it and join a random room
+9. Abort and go back to taunts
+10. Save taunts and go to community
+11. Leave community and you have your own Haxed Taunt
+(Note: Allows you to copy and paste stuff into your taunt during a game)
+Credit: Coltz-One
+
+Colored Private Messages - Your private messages will be colored
+1. Go into the socom lobby where you can join eSEALs and stuff
+2. Type "/" into the chat so you get an error "Unreconized command"
+3. Join a room (or stay in lobby) and have somebody send you a private message
+4. Then type /r (color code you want)(3 spaces or so, so it doesnt confuse it for another color) (Message)
+5. Enter it, you wont see the message but the other person will be able to see your message as the color you wanted
+Example: /r #C@ This is maroon turns out to be
+C%CdDeath_Affect: This is maroon
+Socom 3 Color chart
+Credit: Death_Affect & _-Assassin-_
+
+Shiny Room Name - You room name will be brighter than it is supposed to be
+1. Go to create game and get everything set up like you want the room to be
+2. Open the Room Name text bos
+3. Type in #B then after that type in whatever you want the room name to be
+Ex: #B eXo > hYd will turn out to be eXo > hYd but shiny
+4. Flip switch hit enter and then save the game settings (This does take 10+ seconds to do)
+5. Once done flip switch back and hurry up then go to Load
+6. Now start the game and the room name will be shiny
+Creadit: Clan Element
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Claymore/Mine/C4 Glitches
+
+Plant Clay/Mine In Water v1-2
+Fart Clays/Mines
+Plant Upside Down Clays/Mines
+
+----------------------------------------
+
+Plant Clay/Mine In Water v1 - Can plant things underwater
+1. Pick you claymore/mines, get in boat.
+2. Then go to where you want to place the claymore/mine.
+3. Hit X to get off then R1 right after. If you do it right, your guy will place the claymore/mine when he gets off the boat.
+Credit: -DaZeD-
+
+Plant Clay/Mine In Water v2 - Can plant things underwater
+1. Get on a ledge that is above water
+2. Start to plant your clay/mine and as soon as you do have someone shotugn you into the water'
+3. Youll continue with the animation and plant the mine in the water
+Credit: Unknown
+
+Fart Claymores/Mines - Clays/mines come out of your body with no animation, like you shit them out
+1: Empty armory
+2: Get only Clays/Mines
+3: Plant one, and while your planting it get someone to shoot you or die in some way
+4: When you respawn a claymore/mine will just pop out of your ass
+Credit: KilleR-7
+
+Plant Upside Down Clays/Mines - Clays/Mines are upside down on others screens
+1. Do Fatal's no armory glitch
+2. Get Clays/mines in both slots
+3. When your in the game plant a clay/mine once your in the motion of planting it have another person shot you in the head
+4. Respawn and plant your clays/mines they should all be upside down on everyone elses screen but your
+Credit: SuperNiNtendo.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Box Glitches
+
+Portable Climb
+Box Climb Return
+Super Fly
+Jump While Hanging
+Sling Shot
+Spring Shot
+
+----------------------------------------
+
+Portable Climb - Can hang anywhere you are pushed
+1. Go to any place where you can hang and a vehicle can get to you
+2. While hanging, have someone take the vehicle and slowly push you while your hanging
+3. While being pushed you will still be hanging
+4. When the vehicle makes you teleport you will also still be in the hang position
+(You can be pushed anywhere you desire around the map and when you pull up you will climb, aka, portable box climb)
+Credit: Fastkilla and Blink
+
+Box Climb Return - Can climb a ledge from a further distance
+1. Get climb icon
+2. Prone
+3. Stay in prone turn around and crawl away
+4. Turn around and press x if the climb icon is up
+Credit: .LaG.
+
+Super Fly - You will go flying once you hit the car
+1. Do the box climb return far enough back so a vehicle can ride through
+2. Get a friend to start driving a vehicle straight ahead so it will cross your path.
+3. Right before he gets to you hit climb. It takes a while to get the timing right, but what should happen is you hit the car as you go flying into it and you should go flying way far back.
+Credit: Fanman
+
+Jump While Hanging - Can jump while hanging
+1. Hang, then press jump
+2. You should jump while hanging
+Credit: Unknown
+
+Slingshot - You will fly VERY high in the air and then fall to your death
+1. Have someone do jump whila hanging
+2. When there at the peak of there jump they need to climb
+3. Then when there doing that, you need another person to shotgun them right when there climbing up
+Credit: Clan HyD
+
+Spring Shot - You will fly across the map, like sling shot, but you go horizontal
+1. Go to a normal climb ledge
+2. Have someone on the side of you ready to shotgun
+3. You will get shotgunned and go really far (Not high like sling shot but far)
+Credit: Clan hYd
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Random Glitches
+
+Clan eXo Anything As Primary
+Clan eXo Spawn Anywhere
+No Guns/Grenades Only/etc Room
+cSo Float
+Door Clipping
+Casper v1-2
+Magic Trick
+Quick Sand Glitch
+Fall To Death Off Any Height Ledge
+Ninja Fly
+Prone Crawl
+Snakes Clipping
+C4/Box Clipping
+Invisible Anything
+Redirect Anything
+Instant Explosions
+Commando Hurl
+eXo Slide
+eXo Invincibilty
+eXo Rocket
+eXo Bonfire
+NoMan's Land Glitch
+
+----------------------------------------
+
+Clan eXo Anything As Primary - Can have anything as your primary (Clays, c4, etc) in any room
+1. Do fatals no guns in armory in gun glithes
+2. Now select whatever you want as primary in one of the equiptment spots
+3. You will spawn with whatever you pick as primary
+4. You can also do this for c4 as primAry
+Credit: FaTaL
+Video:
+
+Clan eXo Spawn Anywhere - You skip the round total stats, so you can spawn at the location you flipped your switch at
+1. Make sure the round will end in a draw, if not make sure you have a long standby
+2. When the clock is at one flip your switch for about 12 seconds
+3. You should totally skip the round totals and start where you ended at
+(Note: If you want everyone to do it, then the host has to do the glitch. He will go to the round stats but everyone else will skip them)
+Credit: FaTaL
+
+No Guns/Grenades Only/etc Room - Can make a room with no guns, grenades only, etc
+1. Pick the map you want to be no guns in
+2. Go to weapon modes and turn everything off, or leave explosives on
+3. Press done and it will give you an error message
+4. Press circle to open the chat box than press triangle
+5 Press down 3 times to go to down than hit X
+Credit: FaTaL
+
+cSo Float - You are floating in the air wherever you flipped your switch at
+1. Go to a cliff, as high as you want to float
+2. Jump off, flip switch and youll fall to your death
+3. Keep it flipped until you see the respawn button
+4. Flip your switch back and quickly respawn
+5. When you spawn you should be floating at the height you first pressed standby on others screens' and you can move
+(Note: It can also be done with sling shot to float higher, as seen as the first glitch in eXo v4. You may want to flip back earlier then when the respawn icon comes up depending on your switch)
+Credit: Cableguy
+
+Door Clipping - On others screens, you are walking right through the door, because they see the door shut when you dont
+1. Open a door
+2. Flip switch close, then open, now flip switch back
+3. On others screens the door will be closed
+Credit: Unknown
+
+Un-Perfect Casper - You will be totally invisible to everyone, even though you are alive
+1. Have rocket on quick 1 and have the bomb
+2. Throw a grenade right infront of you then hit standby
+3. When you see respawn press x then respawn
+4. As soon as you spawn turn standby off
+5. Now quickly commit suicide and have the host pick up the bomb before lag catches up
+6. Respawn and you should be invisible to others
+(Note: This takes many tries)
+Credit: Fatal
+
+Perfect Casper - You will be totally invisible to everyone, even though you are alive
+1. Get an M203/Airbust
+2. Shoot the M203/Airburst and as soon as you do, flip your switch before it even hits the ground
+3. Respawn, jump in the air, and while in the air, kill yourself with a 203
+4. Ask somebody to shoot you, if your name fades away and your gun disappers, and when they shoot you, your vision doesnt get blury then its working
+5. Respawn, you will be doing the eXo Invincibity, now jump and you will do the eXo Slide.
+6. Wait a few seconds and you will disappear and be doing the casper
+Credit: Katana33
+
+Magic Trick - You will be under the ground and will not see yourself. When the boat moves, you will see yourself come out of the ground slowly
+1. Get in the back turret of a boat
+2. Now you have to time this right, you get out of the boat and as soon as you do have your friend back up and stop over you
+3. You should get pushed totally under the map
+4. Now when your friend moves the boat you will see yourself come swimming right out of the ground
+Credit: SKA
+
+Quick Sand Glitch - You will sink under the ground
+1. Prone at the ledge above the ground (works best if going onto flat ground)
+2. Shoot a bullet so you can reload.
+3. Scoot left until your character is somewhat leaning like hes on a slant.
+4. Lean left + reload and hold those until you go under, once under you can let go of reload but you must hold lean.
+Credit: Bwell
+
+Fall To Death Off Any Height Ledge - You can fall to your death by leaning off any ledge
+1. Prone on a slanted ledge above the ground
+2. Now do the same method you do for the quick sand glitch
+3. Now when you lean and reload you should reload on the wall (Like your spiderman)
+4. Now when you stop reloading you will fall to your death
+Credit: Bwell
+
+Ninja fly - After sometime, you will teleport somewhere on the map, can be far or short
+1. Get a boat under the ground that you can freely shoot your gun
+2. Have someone get a shotgun and you get a rocket
+3. Make sure you have out your rocket then get on the BACK turret.
+4. Now while your on the turret have someone shotgun you in the leg
+5. You will now get stuck face down outside the boat
+6. Face your feet whichever way you want to get thrown and wiggle back and forth
+7. Now after a little bit you should teleport far outside the proxy
+Credit: Fatal and DNAS
+
+Prone Crawl - On others screens, you are prone crawling, but on yours you are running normal
+1. Get grenades and get in prone
+2. Throw grenade about 10 feet away from you
+3. Press stand-by
+4. Now, you should get knocked up from the grenade. Just before you guy is about to get back to normal, push stand-by, then stand and run
+5. You should be prone crawling
+(Note: You can do this by anyway of doing that position where your hands are on your head.)
+Credit: Swifty14
+
+Snakes Clipping - You will clip the wall once shotgunned
+1. Get in the back turret of a car and line your back wit the wall you want to get in
+2. Now have two others cars surround you
+3. Have someone shotgun you and you will go into that wall
+Credit: Snake
+
+Invisible Nades/Clays - To others, your clays/nades/etc will be invisible
+1. Die, Get clays/nades.
+2. Flip your switch and respawn.
+3. Press R2 and highlight the clays/nades.
+4. Flip your switch back, and right when lag catches up, Press X to take them out.
+5. Now every claymore/mine or gernade you plant or throw will be invisible
+Credit: Cableguy
+
+Redirect Anything - You can redirect anything thrown / shot, but not bullets
+1. Have someone get inivisble nades
+2. Now right as they throw the nade, throw your nade
+3. Your grenade will be intercepted and sent to where ever the person thrrew their invisible nade
+Credit: Clan eXo
+
+Instant Explosions - Anything thrown / shot over the invisible clay will blow up instantly if timed right
+1. Have someone get invisible clays
+2. Now throw a nade over where there clay is
+3. Ince you throw it the person must detonate the clay
+4. It will blow up instantly
+Credit: Clan eXo
+
+Commando-Hurl - You will fly across the map like a ninja jump
+1. Set you controller scheme to commando.
+2. Get into any map that has a rough slant (not like citadel).
+3. Position your character so if he moves forward he would fall down this slant.
+4. Prone down and hold (Circle).
+5. Press (Triangle) continuously (even after you fall down) as fast as you can.
+6. You should move forward slowly and then when you fall down you should freeze(your movement) in prone.
+*All through this you should still be holding (Circle) and tapping (Triangle)
+7. The longer you tap (Triangle the further/faster you will go, go so once you are satisfied release both button and you will be propelled a good distance (Your body sling-shots itself).
+Credit: Judicial
+
+eXo Invincibility - You will be immune to bullets. It actually looks like you are dead, because you have no name over your head and no gun in your hands. So its like the casper, but since youre in non respawn, your body doesnt disappear
+1. Go into a room and leave and comeback in the game (unless you are joining late in the same round)
+2. Now have the host flip his switch right when he sees the ROUND stats screen
+3. Hosts flips back when he spawns
+4. Now in the game, whoever left and cameback or joined late that round will be dead on the hosts screen, like a perfect deadman walking you have no name above your head at all
+5. You are immune to bullets only to the host
+Credit: Outsider and Killer-7
+Video: http://www.evil-creation.com/Vids/S3...incibility.wmv
+
+eXo Slide - You will be sliding on your face and cant be killed by bullets, or ever get out of it
+1. Go into a room and leave and comeback in the game (unless you are joining late in the same round)
+2. Now have the host flip his switch right when he sees the ROUND stats screen
+3. Hosts flips back when he spawns like spawn early
+4. Now in the game, whoever left and cameback or joined late that round will be doing eXo Invincibility
+5. Now have the person whos doing eXo inviincibilty just jump, fall off a ledge, etc and they will do a fake death on your screen
+6. Now when they move theyll be sliding on there face
+(Note: When you get into a car you remain outside it on others screens, so you could do remote control car, turret glitch, and shoot anything off frag turrets if they have out nades)
+Credit: Outsider and Killer-7
+Video: www.evil-creation.com/Vids/S3G/eXoSlide.wmv
+
+eXo Rocket - You will have your rocket out, but it is invisible and it is invisible when shot
+1. Do eXo Invincibilty but have the person who is leaving and coming back get rocket as primary
+2. Now when they are doing eXo invincibilty dont fall\ jump at all
+3. The host will see them with an invisible rocket in there hands while doing in rocket stance and theyll see others just die randomly from a rocket (The fired round is also invisible)
+Credit: Outsider and Killer-7
+Video: www.evil-creation.com/Vids/S3G/eXoRocket.wmv
+
+eXo Bonfire - There will be a random fire where there is no car
+1. Get someone to do the cable glitch where car spawns (so they're at the spawn, but not on their screen)
+2. Park the car where you want bonfire.
+3. Wait for car to spawn on the other persons screen
+4. When it spawns on their screen, have them shoot it so its on fire
+5. Now there will be a random fire wherever you parked the car
+(Note: Yeah theres random smoke too)
+Credit: Glock and Aceman
+
+Nomans Land Glitch - You will be in the game, but you cant be seen and cant kill anyone. Once you join, you auto spawn right when you get in. You can talk to people in game too. This glitch has tons of side effects
+1. Find a room that is about to end and that some one on your friends list or clan list is in
+2. And in the last round leave it
+3. Now make a room flip switch leave
+4. Flip back once you hit yes to leave
+5. Now go back to that room through clan or friendslist quickly and g^
+6. Now once it ends go follow some one through friends list, clan or autoplay
+7. Make sure game is already started and just g^ whenever u can
+(Note: Effects: You auto spawn in the game, and you are totally invisible so you cant be killed or voted. There are minor things like you cant pick up bomb, hostages, etc)
+Credit: Coltz-One
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Ladder Glitches
+
+Deadman Walking Off Ladder
+Ladder To Hell
+32 People On Ladder
+4x Jump
+Opposite Ladder Slide
+Ladder Slide 20ft Away
+Prone Off Ladder
+Climb Off Top Of Ladder
+5 Second Continuous Ladder Slide
+Climb Into Walls From Top Of Ladder
+No Ladder Slide Animation (Lose health off ladder)
+Moon Walk
+Lock Ladder
+Mines/Clays/Etc On Ladder
+Ladder Illusion
+
+----------------------------------------
+
+Deadman Walking Off Ladder - Once you die, you will have extended life for a few seconds
+1. Go tot he top of a ladder with your nades out
+2. Throw a grenade to the bottom of the ladder
+3. Now quickly get on the ladder and keep pressing X to ladder slide
+4. You should day halfway throught the ladder slide, but when you get off you will be deadman walking
+Credit: Outsider
+
+Ladder to Hell - You will go under the ladder, like you go downward
+1. Find a ladder that is close to a edge and go to the bottom of it
+2. Go to the side where the edge is so you see the ladder climb icon
+3. Now press X and fall off the ledge and you will get on a invisible ladder underground
+Credit: Outsider
+
+32 People On Ladder- Can have 32 people on ladder
+1. Do the rocket flash
+2. Now climb on the ladder
+3. Others can now get on
+Credit: Head-Shot
+
+4x Jump - If shot right, you will jump about 4x the normal jump heighth
+1. Go either left or right of a ladder and press X and [] while running at the ladder
+2. You should do a big jump,while in the air have someone shoot you with a pistol in the leg and you should go super high
+Credit: ColdBlood
+
+Opposite Ladder Slide - On others screens, your back will be facing the ladder while you are on it
+1. Climb almost to the top of a ladder
+2. Standby, climb up, then standby back
+3. Now turn around and you will be on the opposite side of the ladder
+Credit: Corder
+
+Ladder Slide Further Away From Ladder - On others screens, they will see you ladder sliding, and bouncing, wherever you last were. YOu cant move
+1. Have one guy at the top of the ladder and have him start running at the ladder.
+2. Have another guy press X to climb the ladder and press standby and climb up the ladder (you should get sent back to the ladder when you go up)press standby and press x to ladder slide.
+3. When you hit the ground press standby back on and run away from the ladder.
+4. Wait till lag catches up and people will see you ladder sliding where you ran out.
+Credit: -Syko and ColdBlood
+
+Prone Off Ladder - You will prone off the top of the ladder
+1. Go up to the top of a ladder and make sure you arent host
+2. Now this may not work if the hosts connection is really good, but press X to climb up then quickly run to the side and dive in prone
+3. You should not go in prone, but get sucked to the ladder, soon you will prone off the ladder
+Credit: Outsider
+
+Climb Off Top of Ladder - Youll get on the ladder, and then climb right off of it like you're already at the bottom
+1. Go to the top of a ladder
+2. Press X run away and keep hitting triangle
+3. You should get sucked back on the ladder and climb right off
+Credit: Outsider
+
+5 Sec Continuous Ladder Slide - You will be stuck on the ladder in one spot, continuously ladder sliding
+1. Take out your pistol and go t the middle of a ladder
+2. Press R1 to shoot and then ladder slide
+Credit: Unknown
+
+Ladder Extension Climb - You will be on a invisible ladder
+1. Get on a ladder
+2. Have a car push you off to do the portable climb
+3. Have someone prone under you
+4. Once they are proned press forward on your anogle stick and back and any direct on the LEFT anolge stick
+5. Ask people what you are doing. ( Different movements give different animations)
+Credit: Ninja_Dude
+
+Climb Into Objects From Top Of Ladder - You will climb through the ladder, at the bottom. So youll teleport right to the bottom of the ladder
+1. Go to the top of a ladder and have your back facing it
+2. Now press X run away and hit triangle
+3. As soon as you get on the ladder hold up on the left analog stick
+4. You'll climb through the ladder
+Credit: Outsider
+
+Fall To Your Death From Ladder Slide - You will fall to your death after ladder sliding, if you have low enough health
+1. Easiest to be host
+2. Go to the top of a ladder
+3. Press X run away and rapidly hit triangle as fast as you can
+4. When you get on the ladder you will just ladder slide down and if you have low enoguh life you will fall to your death
+Credit: Outsider
+
+Moon Walk - On others screens you will be walking backwards VERY slow. On yours, you will slide forever backwards, VERY slow
+1. Get on the middle of a ladder with primary
+2. Press X to ladder slide and square at the same time
+3. You should get off the ladder and slide backwards very slow forever
+Credit: Unknown
+
+Lock Ladder - No one can get on the ladder, it is locked
+1. Go to ladder
+2. Press X and jump twice, it will lock
+Credit: Cableguy
+
+Mines/Clays/M2's on Ladder - You will plant a mine/clay/etc on the ladder
+1. Get on ladder now get off and quickly on ( wit pistol then pull out clays(or w.e))
+2. Get on ladder and go w.e hieght u wnat it on ladder
+3. Now press right on right analog stick and r1 and x (r1 and x rapidly)
+4. You should ladder slide and if you do it right u will here a click and w/e u had will be floatin on ladder. this is a hard way but does work if u have good timing.
+Credit: Swift
+
+Ladder Illusion - On others screens, you are on a invisible ladder in the air, about 2 feet from the ladder. On your screen, you are on the platform above the ladder
+1. Get one person standing at the top of a ladder and you get on
+2. Now go to the top climb up and right when you do, flip your switch
+3. Youll bounce back on the ladder now climb upand flip switch
+4. Dont move and on others screens youll be on a invisible ladder at the top
+(Note: You can shoot, just dont move)
+Credit: FaTaL and -anXieTy-
+
+-=-=-=-=-==-=-=-=-=-==-=-=-=-==--
+» S3 - Socom 3 p3
+Showoff Glitches
+
+Fake Lag V1-2
+3 Second Float
+See Body In Stat Screen
+Auto Gun/Pistol Illusion
+The Lineman
+Cable Glitch
+Primary On Turret Illusion
+Character Teleport
+Auto Pistol
+Convoy Shake
+Backwards Flash
+eXo Pose
+Die In Crouch
+Tip Toe Slide/Ice Skating
+Tak Float
+Boxer Float in Water
+Boxer Run
+All Exorcists And Positions
+Blury Vision
+Overtime Glitch
+Nate2kHax Slide
+Always Shoot Auto Gun Illusion
+
+----------------------------------------
+
+Fake Lag - You wil be running VERY slowly on others screens
+1. Go to a small ledge that you can climb
+2. Hit standby, go prone in front of the ledge
+3. Get in crouch, climb up the ledge
+4. Get in stand, hit stanby off
+5. Stay still till the lag catches up
+6. You can move but you have to go very slow
+Credit: CableGuy
+
+Fake Lag V2 - You will be running very slowly on others screens
+1. Put ur rpg or at4 on quick 2, and go inside the car with your primary out.
+2. Flip switch and dismount from the vehicle.
+3. Take out at4/rpg and when the mount icon shows up press x on it.
+4. Flip switch back on while running away with ur rpg/at4.
+5. As long as u have ur at4/rpg out u will always be running slow
+Credit: Killer-Jay
+
+3 Second Float - You will float for a few seconds
+1. Hang on a ledge
+2. Press square and IMMIDIATLY press down on left analog stick
+3. You should float slide for 3 sec
+Credit: _FasT_
+
+See Body In Stat Screen - You see your body in the stat screen
+1. Go next to a truck turret icon (Make sure the truck is facing a proxy and it must be the back turret)
+2. At the end of the game, when it is about to freeze press X to get on turret
+3. If done correct you should see your body in stat screen
+(Note: This may be very hard to time)
+Credit: Hex-It-Up
+
+Auto Gun/Pistol Illusion - To others, you will be shooting the gun you did the exorcist fully automatic. Or shooting pistol automatic
+1. Do the exorcist with whatever gun you want to look automatic
+2. Now pick an M60 or any fast gun
+3. Now flip your switch respawn and flip it back
+(Note: For pistol, just do exorcist with pistol and get a primary. In this you can keep switching back in forth to pistol and primary and the pistol will always be auto.)
+Credit: Fatal
+
+Convoy Shake - You will rapidly shake on the back of a convoy
+1. Get a convoy on some sort of small ledge. Ex: Little hill outside barn in harvester
+2. Now have the front facing down
+3. Get in the back and you should be shaking rapidly, your screen
+4. You remain in the same spot but the screen is mad crazy
+(Note: You can shoot rockets, plants clays, etc)
+Credit: Superboobs!!! and Nate2k6
+
+The Lineman - You will be in a position where your face is pointing down, like a lineman stance on others screens
+1. Park a vehicle on a ledge so that it looks like the middle of the car is in the ground and the front tires are on the bottom, and the back tires are on top of the ledge.
+2. Then go to the passengers side front seat.
+3. Start tapping X really fast.
+4. Afteyou go in and out of the car, and you are now outside of the car, start running forward, backwards, left, or right.
+(Note: Don't hit your right analog stick at all or you will get out)
+Credit: Clan [!BOOM]
+
+Cable Glitch - On your screen youll be in a different place than others see you at
+1. Flip switch run and flip back
+2. Youll be in the original spot you started
+3. To move you have to hit standby
+(Note: Can also be done in water when coming up from being under)
+Credit: Cableguy
+
+Character Teleport - The host will see you teleport to wherever your car was
+1. Do redmans car illusion and to see the glitch be host
+2. Have someone get in the driver seat and drive where ever they want to teleport to
+3. When your at the right spot get out and youll teleport there on the hosts screen
+Credit: Redman-
+
+Character Teleport v2 - You will see someone teleport to where you are
+1. Get it so that you dont see any cars with Universal Glitch, or something
+2. Have someone drive a car to where you are, you wont see them b/c on your screen they are at wherever they got in the car at
+3. When they get out, you will see them teleport from the spot they started, to the spot you are at
+Credit: Clan eXo
+
+Shoot Primary Out Of Turret Illusion - The person controlling the hostages will see the person on the turret shooting there primary rapidly off their back
+1. Do the hostage on Turret Glitch
+2. Have someone get on with the hostage
+3. Then shoot the turret the person controlling the hostages will Hear/See a rapid gun Fire coming from the Turret
+(Note: You can do it with any gun)
+Credit: SuperNiNtendo. and Nate2k6
+
+The Bounce - On others screens, you will be continuously bouncing up and down about 5 feet
+1. Hang on a ledge
+2. Hit standby climb off then standby back
+3. You will be bouncing up and down
+(Note: There are a MILLION ways to do this literally)
+Credit: Unknown
+
+Stealth Camo Glitch - On others screens, youll be dead but your name will be where you spawn and there will be no body, just you name
+1. Come in to a already started game
+2. You will be dead now do fatal's spawn anywhere glitch
+3. On your screen your dead, on others your name will just be floating in mid air
+Credit: GLOCK
+
+Backwards Flash - Youll be flashing while running backwards
+1. Get a boat close to land and have the turret face land
+2. Now get in and out of the turret for about 5 seconds and end up outsider
+3. Youll be flashing while running backwards
+Credit: Redman and ZinGy
+
+eXo Pose - The person who died will be floaing in the air like they died on a turret, but there is no car
+1. Whoever wants to do the pose get in a turret
+2. Have the host do spawn anywhere
+3. When the host is in the stats screen (while his switch is still flipped) he has to communicate to another player (Through aim, etc) to kill the person in turret
+4. When the next round starts the person who was in the turret will just be floating in air with his hands down like he died on the turret, but since its a new round, the car isnt there
+Credit: Outsider, Killer-7, and Robby23
+
+Die In Crouch - You will die in crocuh with no animation on others screens
+1. Do the non-respawn exorcist
+2. Have somebody get a regular gun
+3. Have them shoot you so you die
+4. When you die, you will do no animation and die in crouch
+Credit: GLOCK
+
+Tip Toe Slide/Ice Skating - Your feet will be moving very fast, but you will be in a crouch type position on others screens. You are moving fast with a heavy load on others screens
+1. Get a heavy armory such as airburst and two sets of rockets
+2. Do the exorcist
+3. Flip switch pick a lighter armory such as an hk5 and nothing else and spawn then flip switch back
+4. You will look like u have a heavy armory but you are walking fast
+Credit: Robby23
+Video: www.evil-creation.com/Vids/S3G/IceSkating.wmv
+
+Tak Float - You will fly very high in the air once shotgunned out of the boat
+1. Get into a big boat where you can just sit there in crouch
+2. Have somebody with a shotgun drive the boat onto the side of a bank/land
+3. Okay, now get in the seat where you are right by land now start turning in crouch to the right
+4. Have the other person get in the other spot you can crouch in
+5. Now while you are turning right, if they shoot you in the foot, you will either, dead or alive, fly straight up to the top of the mpa (higher than slingshot), you could slide on the land for 4-5 seconds, or you will just be outside the boat with your legs up in the air
+Credit: Twistd, Ace, and Killerjay
+Video: www.evil-creation.com/Vids/S3G/TakFloat.wmv
+
+Boxer Float in Water - You will be doing the falling animation in water on others screens. If you move fast, you do the bounce, so move slow. It looks like a boxer pose
+1. Get a bot kind of stuck in a cornerso that the nose of the boat is in/hitting the wall
+2. Two people get in passengers sides
+3. One person shotguns the other person out of the passengers seat (the person who, if they would get out, would go into water gets shotugnned out)
+4. As soon as you hit the water flip your switch, you should do a little slide then fall in the water, now flip switch back
+5. Stay still for a second, and on others screens you should be in a boxer position (It is actually the position you are in when you get stuck in a proxy and keep falling)
+6. You can mantain this pose by moving as slow as u can, u wont fall out ever, but if u move slow u can slide in it.
+7. If you move fast you bounce then go under the water, then bounce again
+Credit: KilleR-7 and killerjay
+Video: www.evil-creation.com/Vids/S3G/BoxerSlide.wmv
+
+Boxer Run - Youll be moving your legs very fast, and your upper body doesnt move on others screens, a lot like ice skating in stand
+1. Get ready as if you were going to do the boxer float in water
+2. Get shotgunned out and as soon as you do, hit standby you should slide for a seconds
+3. Swim on land and flip standby off (This is optional to swim on land or not, but sometimes it doesnt work when you are in water
+4. On others screens you are still in water doing boxer float
+5. Now flip switch run STRAIGHT, never turn around or stop
+6. After 3 seconds of running around hit back standby and keep running
+7. Your feet will be rapidly moving like Tip Toe Slide, but you are in stand, and your upper body doesnt move
+Credit: Killer-7 and Outsider
+
+Crouch Exorcist - You will be dead on your screen, but on others you are alive in crouch, and they can shotgun you around
+1. Before you do anything make sure you have your rocket on the quick button
+2. Now either have someone shoot or throw a grenade in front of you so you die
+3. The SECOND you die flip your switch
+4. When you see spawn flip your switch back and respawn
+5. Now before the lagg catches up take out the rpg and kill yourself
+6. On others screens you will be sitting there in crouch alive while your dead on your screen
+Credit: FaTaL
+
+Real Exorsist (Dead position) - You will be dead on your screen, but on others you are alive on your back, and they can shotgun you around
+1. HAVE THE BOMB! and put your rocket on quick
+2. throw a grenade in front of you and as it knocks you down hit standby on
+3. When you see respawn hit X
+4. Turn standby off and commit suicide with your rocket
+Credit: FaTaL
+
+Real Exorcist w/o Bomb - You will be dead on your screen, but on others you are alive on your back, and they can shotgun you around
+1. Have a m203
+2. Have someone run you over and as SOON as they do, flip your switch
+3. Respawn and kill youself
+4. You should be doing the Exorcist from Socom 2, where you sare lying on your back, but alive
+Credit: FaTaL
+
+Non-Respawn Exorcist - You will dead on your screen, but on others you are alive in crouch. This is in non respawn and they can shotugn you around
+1. Be dead and make sure it is not the first time you enter the game, so you have to be killed in action first
+2. Now do fatal's spawn anywhere glitch in useful glitches
+3. On your screen you will remain dead, but on others you will be doing Non-reapawn exorcist
+Credit: GLOCK
+
+Rocket Exorcist - You will dead on your screen but on others screens, you are alive with you rocket out. They can shotgun you around
+1. Get rocket as primary
+2. Now do the exorcist and you will be holding rocket while in exorcist
+Credit: Cableguy
+
+Hunchback Exorcist - Youll be dead on your screen in a hunchback position, but on others you are alive in crouch. When they shotgun you, on your screen it looks like you are sliding in the hunchback positon
+1. Get in a car and at a specific time you get out and have some kill you in a non respawn
+2. You should be dead on the ground but sitting in a car position
+3. Now do the spawn anywhere glitch and when you spawn youll be doing the exorcist and getting shotgun in that position
+(Note: Can also be done inside turret.)
+Credit: Outsider
+Video: http://www.evil-creation.com/Vids/S3...ckExorcist.wmv
+
+Scuba Exorcist - Youll be dead on your screen in a water death position, but on others you are alive in crouch. When they shotgun you, on your screen it looks like you are sliding in the water death position
+1. Die in the water in non respawn
+2. Now do the spawn anywhere
+3. Youll be doing swimming exorcist but to get on land you have to be at the very shoreline
+4. Now have someone shotgun you out of the water and youll do it on land
+Credit: Outsider
+
+Standing Exorcist - On your screen you are dead, but on others you are alive in stand. They can shotgun you around
+1. Park a boat by a ledge so that the water between the boat and cliff is deep enough to swim in
+2. Do regular crouch exorcist
+3. Have sumone shotgun you off the cliff and hit the boat
+4. You will stand up and still be in the exorcist
+Credit: Dufff and NATE2KHaX-
+
+Leet Hax Exorcist (Any Position) - You will be in whatever position you died in last on the person who left and came backs screen. He will see you dead, but the others will just see you doing the regular crocuh exorcist. So when they shotugn you, the person who left and came back will see you being shotgunned in the death position you last died in
+Example: Eturnal Scuba Exorcist
+1. Make sure your spawn is by water, very close
+2. Have somebody shoot you at a certain time, at that time, flip your switch
+3. You should die. Make sure they are still shooting you in the head
+4. Respawn then go into deep water (Where you can swim) and flip your switch back
+5. Once you flip it back you should die again seconds after
+6. Have whoever wants to see the exorcist leave and comeback
+7. When they see you, you will be dead in a scuba exorcist position and the others can shoot you around with a shotgun and you will stay in that position
+(Note: This can be done with any position, just make sure you die the second time in the positon you want to be doing the exorcist)
+Credit: SuperNintendo and Coltz-One
+
+Blury Vision - You will have blury/pixelated vision when you spawn
+1. Do the Crouch Exorcist
+2. Have someone shoot you rapidly in the face
+3. Your vision should be very blury
+4. Now respawn and youll have Blury Vision while alive
+Credit: Fatal
+
+Overtime Glitch - There will be 7 rounds won for whichever team you did the glitch for
+1. Make a Non-Respawn Room.
+2. Have a person merg with a respawn.
+3. Go up to 5 round rounds in the game end it so it says 6 as soon as it says 6 rounds Won have the host leave so that the person in Respawn becomes host.
+4. Once the person in Repawn becomes host it will stay in 6 rounds and it wont end till you end it. It will say 7 rounds if you win that round.
+Credit: SuperNiNtendo.
+
+The Nate2khax Slide - On others screens, you will be sliding around on your back. Like the eXo Slide, but you have a name over your head and can be killed
+1. Get a car and park the driver side door exactly infront of were you spawn.
+2. Now get in the drivers seat and have someone there with a gun, now choose a time, lets say 5:50, when the clock hits that time flip your switch and at that same time have them shoot you in the head for like 7 seconds straight.
+3. On your screen you should die but, on theirs you will still be there.(sometime you will hunch over and your name will get brighter that means its working to)
+4. Wait to respawn and get back in the car and flip your switch back, you should die inside the car after a couple seconds.
+5. Now wait for lag to catch up and ask someone if your laying outside of the car doing the back excorsist, they should say yes.
+6. The last step, Flip your switch wait about 4 seconds then respawn now run around for about another 4 seconds and slip your switch back, and you should be doing the NATE2KHaX slide.
+Credit: NATE2K6
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Vehicle Glitches
+
+T-Bone With Vehicle
+Car/Boat Clipping
+Crouch/Stand/Prone In Car
+Car Slide
+Car Proxie Teleport
+Boat Invincibility
+Clip Through Some Walls w/Car
+Make Car Drive Up Walls
+Switch Weapons In Car
+Invisible Vehicle Illusion
+Car Teleport Illusion
+Different Teams In Same Car
+Remote Control Car V1-2
+Remote Control Car Only
+Dummy Glitch
+Cars Spawn Blown Up
+Car Illusion Glitch
+Inside Blown Up Car
+Bridge Glitch
+Drive Blown Up Convoy
+Transparent Convoy
+Drive Transparent Convoy
+Vehicle Magnet
+Any Car Transparent
+Car Spawns Anywhere
+
+----------------------------------------
+
+T-bone With Vehicle - You can get pushed throuhg walls by a vehcile
+1. Have someone stand up against somthing and look strait down at the ground in stand
+2. Take a car and SLOWLY hit push them in
+3. Once they are sticking through it have them walk backwards and there in
+Credit: FaTaL and #1 Assassin~
+
+Car/Boat Clipping - You can clip vehiles throuhg things
+1. Person #1 gets in drivers seat and person #2 anywere else in the car
+2. Person #1 gets about 20 feet back
+3. Person #1 starts to drive full speed at what ever he is going to clip through and when he gets about 3-5 feet away hit standby and dismount
+4. Keep standby on for 2 seconds after you dissmount then turn it off
+5. Person #2 will see the car half way through the spot
+6. Person #2 will now get in drivers seat and continue to drive through the wall/proxy
+Credit: FaTaL and Bwell
+
+Crouch / Stand / Prone in Vehicle - You can crouch, stand, or prone in a vehicle on others screens
+1. Go next to a any vehicle
+2. Rapidly hit X so you get in and out of the car, but after 5 seconds stop
+3. You have to be out of the car on your screen, but on others your in the car
+4. Now when you switch stance they will see you switch stance in the car
+(Note: May help to hit standby once.)
+Credit: Blind
+
+Car Slide - The car will be sliding in the direction it was first at on others screens
+1. Have the car staying still
+2. Get in the drivers seat
+3. Hit standby and drive the car forwards about 5-10 feet and turn it about 90 degrees to the left.(example: When you start the front of the car should be faceing north, when you end it shoud be faceing west.)
+4. Turn standby off and dismount the car
+5. Now you can get back in the drivers seat and the on everyone elses screen when you drive strait forward the car will be sliding on its side.
+Credit: FaTaL
+
+Car Proxie Teleport - You will teleport somewhere in the map once you're too far in the cars proxie
+1. Park a car next to a wall that is sort of curved
+2. Now jump behind the car and get it so that you are sort of sliding backwards in a hulk type stance
+3. Now at the end of the slide you shoudl teleport very very far in the direction you are facing
+(Note: You may need to repark the car, throw nades, take out your rocket if you get stuck)
+Credit: Bwell and Outsider
+
+Boat Invincibility - You cant be run over by a boat
+1. Do the aqua walker in useful glitches under skywalker
+2. Now have a boat LIGHTLY hit you, you should get knocked out of it
+3. Now you should be invincible to boats
+Credit: SKA
+
+Clip Through Some Walls With Car - You can clip soem walls with cars
+1. Go up to a wall sideways that has a sort of slant so that the tires are on the slant
+2. Now go in the drivers seat and get out of the car
+3. You should either get stuck inbetween the car and the wall or get pushed into the wall
+(Note: This only works in some soft spots.)
+Credit: Swift
+
+Make Cars Drive Up Ledges - The car will drive up the ledge once you are killed
+1. Go driving straight at a wall that has a sort of slanted curve at the bootom
+2. Now go full speed at it and before you hit it a guy has to shoot you in the head
+3. The car should drive up the wall
+Credit: Swift
+
+Switch Weapons In Car - You can switch weapons in a car
+1. Kill a person park the car next to there body so you can see mount, and switch wepons
+2. Hold "X" and hit right on the "D" pad until you see mount, then let go of "X"
+3. When in car (dosent matter what seat) hit Right on the "D" pad to switch seats then "X" fast right after you hit right
+4. If you did it right you should be in the car, then you can dismount with the other primary/secondary....If you did it wrong you will most likeley dismount the car
+Credit: Codered
+
+Vehicle Teleport - On the person in the turrets screen, the vehcile will teleport to wherever it was driven when he gets out of the turret
+1. Do the hostage in driver seat. (Glitch)
+2. Once you get the hostage in driver seat make sure when you end up in the turret
+3. Then have someone else get in the driver seat with the hostage.
+4. Now drive around
+(Note: The person in the car see's the car moving, The person on turret doesnt see the car moving, so when he gets off the turret the car teleports where ever the driver took it)
+Credit: SuperNintendo. and Nate2k6
+
+Invisble Car Illusion - The person on the turret can not see the car it's in moving, so if the driver runs someone over, it will look like that person got run over by an invisible car, this is only visible to the person on the turret
+1. Do the hostage in driver seat glitch and make sure you end up on turett.
+2. Now while on the turret, the driver can run over people and they will just die from an invisible car
+(Note: Only person in turret can see)
+Credit: SuperNintendo. and Nate2k6
+
+Dummy Glitch - Youll be outside the car on others screen, but inside it on yours. So they will see a car driving itself if you did it with the driver seat, if you did it with the turret, they will see you shooting your gun fully auto
+1. Must be host
+2. Die and make sure you are by a car turret or seat
+3. Standby respawn go into the driver seat/turret and standby back
+4. Youll be in crouch outside the car but on your screen your inside the car seat or turret
+Credit: Cableguy
+
+Remote Control Car v1 - On your screen, you are inside the driver seat drving the car around, on others you are outside the car. So they see the car driving itself
+1. Get in the driver seat
+2. Now do fatal's spawn anywhere glitch in useful glitches
+3. On your screen you will remain in the driver seat
+4. On others screens the car will return to its spawn point and the person who did the glitch will be bouncing up and down and doing remote control car (They see a ghost driver, no one is drving the car)
+Credit: FaTaL
+
+Remote Control Car v2 - On your screen, you are inside the driver seat drving the car around, on others you are outside the car. So they see the car driving itself
+1. Get a car by a door
+2. Get in the car driver seat
+3. Flip your switch run to the door open it then get back in driver seat
+4. You will be bouncing up and down outside the car on others screens and youll be outside the car and it will driving by it self
+Credit: GLOCK
+
+Remote Control Car v3 - On your screen, you are inside the driver seat drving the car around, on others you are outside the car. So they see the car driving itself
+1. Get two cars right next to each other
+2. Flip your switch and tap (X) on anywhere in Car 1 that you can mount.
+3. Run over to the driver's seat of Car 2 and tap (X) and you should be able to get in it.
+4. Drive around and flip switch back and you will get sucked back to Car 1.
+(Note: While you are driving around Car 2 it will look like nobody is driving the car)
+Credit: ROBBY23
+
+Different Teams Inside Same Car - It will look to the people who left and came back that two different team players are inside the same car
+1. Do the turret glitch/remote control car glitch
+2. Now people that join the game after they do that will see the person actually in the turret/seat
+3. And they can get into the car as well
+Credit: GLOCK and CAB
+
+Cars Spawn Blown Up - The car spawns blown up
+1. With 1 sec left on timer drive the car towards the water
+2. Right before you enter the water flip your switch and continue to drive in
+3. Keep flipped for 10 seconds and make sure the round will end in draw like spawn anywhere
+4. On others screens the car spawns on fire
+Credit: KilleR-7
+
+Illusional Car Glitch - On your scren, you will not see the cars move, ever, nor can you move them. If you wait for the next round, the cars will be gone and invisible
+1. Have everyone on one side and you on the other
+2. Have them all G^
+3. You hit G^ standby ungreen hit switch teams standby
+4. The game will start and you wont be able to get in the driver seat/turret and wont see the cars move if they are driven by someone
+Credit: -Redman
+
+Inside Blown Up Car - You will see whoever did the Illusion Car Glitch inside a blown up car
+1. Do the car illusion glitch and get inside the car
+2. Now have someone blow up the car
+3. On everyones screen you are inside the car even though it is blown up
+Credit: -Redman
+Video: http://www.evil-creation.com/Vids/S3...BlownUpCar.wmv
+
+The Bridge Glitch - On your screen the car will be on the bridge, but on others screens, it will be in the water
+1. Position a car to the slide of a bridge so you can easily drive onto it, but so when you start your not on it
+2. Flip switch drive onto the bridge (about half) then flip switch back
+3. On everyone elses screens, the car willo be under the bridge but on yours its on top
+4. When you drive it drives (underwater, through the underneath of the bridge, etc.)
+Credit: Head-Shot
+
+Drive Car Full Speed While on Fire - You can a car full speed even though it is on fire
+1. Do eXo Bonfire glitch from Random glitches
+2. When bonfires there, have person doing cable glitch stand up
+3. Now, the car will spawn, and it will have full health while on fire
+Credit: -Aceman. and Glock
+
+Drive Blown Up Convoy - On your screen, the convoy will be blown up and someone will be driving it
+1. Make a harvester demo room and all the people who want to see it merge with extraction
+2. Now go get the truck over by spawn point 1 for seals (in suppresion its spawn 2)
+3. Now drive that to spawn 3 (terrorist spawn 2 in suppresion)
+4. Have the non merger sit in the drivers seat of the truck
+5. Now you should see him in the convoy
+6. Simply blow up the convoy and he wont die
+7. Now have somebody else who didnt merge get in the driver seat
+8. When he drives it around, it looks like he is driving a blown up covoy to the people that did the eXo Universal Glitch
+Credit: SuperNintendo and TheCrazy805Dude
+Video: http://www.evil-creation.com/Vids/S3...wnUpConvoy.wmv
+
+Drive Transparent Convoy - The people who merged will see a transparent convoy, and it will be moving b/c to the other people, they just see a normal car and they can drive it
+1. Make a harvester demo room and all the people who want to see it merge with extraction
+2. Now go get the truck over by spawn point 1 for seals (in suppresion its spawn 2)
+3. Now drive that to spawn 3 (terrorist spawn 2 in suppresion)
+4. Have the non merger sit in the drivers seat of the truck
+5. Now you should see him in the convoy
+6. Simply blow up the convoy and he wont die
+7. Now wait 45 seconds
+8. The person in the turck must get in then out of the truck, make sure it's right away
+9. When he gets out the car begins to disappear, when he gets back in, it stops disappearing, so you have to time it at how transparent you want it to be
+10. Now have someone else who didnt merge get into the drive seat and drive around
+11. To the people who merged, you see him driving a transparent convoy
+Credit: SuperNintendo and TheCrazy805Dude
+
+Vehicle Magnet - You will be sucked to another vehicle
+1. Have someone do any version of the remote control car glitch
+2. You should see no driver in the car so press x to get in the driver seat
+3. You shouldnt get in the seat since really someone is in there so get in a different car and drive away
+4. When the person doing the remote control car glitch gets out you should teleport into their car no matter how far away it is in the map
+Credit: Robby23 and Killer-7
+Video:www.evil-creation.com/Vids/S3G/VehicleMagnet.wmv
+
+Any Car Transparent - Any car is transparent, with someone sitting in it
+1. Make a room with the car you want to see spawn anywhere
+2. Have someone merge with any map
+3. Find the car you want to see spawn anywhere
+4. Have the person that merged find a car that is connected to the car you want to see spawn anywhere
+(Ex: Have them get in cars and switch seats, if you see them inside your car even thjough they arent on there screen, then you found the connected cars. Note: Some map types dont have connected cars. A good Example would be to merge Extract and Suppresion because the Convoy will be connected to a car)
+5. Have them get in the connected car so you see them
+6. Blow up the car
+7. The person who merged should still be in the car, wait about a minute after the car is blown up
+8. Have the person who merged quikcly get out then back into the car
+9. The car should turn somehwat invisible
+10. Keep doing this until you get the car as transparent as you want
+Credit: TheCrazy805Dude and SuperNintendo
+Picture: http://www.evil-creation.com/Vids/S3...sparentCar.bmp
+
+Car Spawns Anywhere - The car will spawn wherever it was blown up at
+1. Make a room with the car you want to see spawn anywhere
+2. Have someone merge with any map
+3. Find the car you want to see spawn anywhere
+4. Have the person that merged find a car that is connected to the car you want to see spawn anywhere
+(Ex: Have them get in cars and switch seats, if you see them inside your car even thjough they arent on there screen, then you found the connected cars. Note: Some map types dont have connected cars. A good Example would be to merge Extract and Suppresion because the Convoy will be connected to a car)
+5. Have them get in the connected car so you see them
+6. Blow up the car
+7. They must now get out of the car
+8. Wait until the car turns invisible
+9. A few seconds after, it should respawn wherever it blew up
+Credit: Clan eXo
+
+-=-=-=-=-=-==-=-=-=-=-==-=-=-=-
+» S3 - Socom 3 p4
+Merging Maps Glitches
+
+Here is a video of Merging Maps. Glitch found By Clan eXo
+http://www.NextGenBoards.com/Vids/MergeMaps.wmv
+
+
+eXo Universal Glitch
+eXo Clipping
+eXo Nitro Cars
+eXo Flat Tires
+Respawn In Non-Respawn
+Invisible Bomb Plant/Box Clipping
+Floating c4/Breach Clipping
+eXo Car Submarine
+eXo Boat Airplane In Harvester
+Play Two Maps At Once
+Shoot Frags Out Of Car/Car Turret
+Harvester Offline To Online Glitch
+Sit In Invisible Cars
+Drive From Turret
+Teleport to Top of Map from Car
+Open Breaches/Blow Up Doors
+eXo Boat Airplane In Storm Front
+
+------------------------------
+
+eXo Universal Glitch w/o Unplugging - Allows you to merge any maps, gametypes, etc with any other map, gametype, etc. The best glitch in the game found by Clan eXo. It has TONS of awesome capabilities, the glitches are listed below
+1. Make the settings you want to make the room
+2. Now save it then get out of the make room settings
+3. Go to lobby then back to create game lobby
+4. For the name make it all alt O (any alt O works)
+5. Now it should say create game failure, press X and join the game you want to merge into
+6. Keep pressing up on the D-pad, and when you can move go to the create game settings and press load then start
+7. When it loads, hit load then start one more time
+8. You should join the game you are set to join, but you will be in the different type of map
+Credit: SuperNintendo.
+
+eXo Clipping - Allows you to clip the small map boundaries on others screens, who are in a small type map
+1. Do the eXo Universal Glitch
+- For the eXo universal glitch, make it so that the room you are joining is a small map and the map you are set to create is a big map
+2. Now go to the where the small map people see the breaches
+3. Now the people in the big map run where they are and the small map people will see you clip right through them
+Credit: Clan eXo
+
+eXo Nitro Cars - On your screen you are driving a fast car, but on others screens, they see you driving a tank, convoy, slow car, as fast as you are driving the fast car
+1. Do (Tank, Convoy, etc) to a room that has a fast car (Technical, Hummer, etc) but no slow cars - For the eXo Universal Glitch, make it so that the room you are joining is a map with no slow cars and the map you are set to create is a map with slow cars.
+2. Now find the slow car you want to speed up (Tanks, Convoy, etc)
+3. Go to it and have someone that does not see that car as a slow car get in the driver seat
+4. Now when they drive the car, it looks like the slow car is going as fast as whatever car the person whos driving sees it as
+Credit: Clan eXo
+
+eXo Flat Tires - Total opposite of Nitro Cars. On your screen you're driving a Slow car, and to others it will look like a Fast car like the go-kart is going very slow
+1. Do the exact opposite of the eXo nitro glitch so that you see the car as a fast car (Technical, hummer, etc) and others see it as a slow car (Tank, Convoy, etc)
+2. When they drive the slow car, you will see the fast car going very slow, lol kind of funny
+Credit: Clan eXo
+
+Respawn In Non-Respawn - You are in a respawn, but everyone else is in a Non-respawn. So you can respawn in a non respawn room
+1. Do the eXo Universal Glitch (You get booted with glocks glitch)
+- For the eXo Universal Glitch, make it so that the room you are joining is a map with respawn off and the map you are set to create is a map with respawn on.
+2. Now when in the game you are able to die and respawn but the others aren’t.
+3. You can also pick up the weapons from the people in non-respawn when they die
+Credit: Clan eXo
+
+Invisible Bomb Plant/Box Clipping - You are in demolition/breach, but others are in a different map type. So when ever you plant the bomb, they will see nothing. Whenever they run through where the boxes are on your screen, it will look to you like they ran right throuhg them
+1. Do the eXo universal glitch
+- For the eXo Universal Glitch, make it so that the room you are joining is a map with/without a bomb and the map you are set to create is a map with/without a bomb
+- (Depending on if you want others to see the invisible bomb plant or yourself to see them plant a invisible bomb- To means that youd plant the bomb and others would see it invisible and from means that youd see others plant the invisible bomb, same goes for the Universal glitch, to see the invisible bomb do it in a room that has a bomb but make the game you are set to create as a mpa w/o a bomb and vice-versa)
+2. Now depending on if you are or aren’t in a demolition , have whoever sees the bomb and can pick it up, plant it, and the others who are in a different type of map will see that person just plant a invisible bomb
+(Note: This is also the same for control points, you can see people in a control point plant stance but your not in a Control point map and this is also box clipping because the people who are in a demo will see the people in a different type of map clipping right through where the boxes are)
+Credit: Clan eXo
+
+Floating c4/Breach Clipping - Similar to Invisible Bomb/Box Clipping. You are in a breach so when you plant a c4, others in a different map type will just see the c4 floating. Whenever someone in the different map type runs throuhg where a breach is on your screen, it will look like they ran right through it to you
+1. Do the universal glitch
+- For the eXo Universal Glitch, make it so that the room you are joining is a map with/without a breaches and the map you are set to create is a map with/without a breach
+- (Depending on if you want others to see the floating c4 or yourself to see them plant floating c4- To means that youd plant the c4 and others would see it float and from means that youd see others plant the c4, same goes for the Universal glitch, to see the c4 do it in a room that has a breach but make the game you are set to create as a map w/o a breach and vice-versa)
+2. Now depending on if you are or aren’t in a breach, have whoever sees the breach and plant a c4 on one of them, and the others who are in a different type of map will see that person just plant a floating c4
+(Note: This is also breach clipping)
+Credit: Clan eXo
+
+eXo Car Submarine - On your screen, you will see a car in the water, just sitting there. But to everyone else, the car is actually a boat. So they can drive it around and you will see a car driving underwater. You can get in the car too, but not drive. The only way you can drive is if they get the car close to land. Then when you drive the car, it will look like a boat on land to everyone else
+1. Do eXo Universal glitch
+- For the universal glitch, make sure that the room you are joining is a extraction and the room you are set to create is a demolition
+2. Now one of the boats should be a car on your screen and you can have someone drive you around since they see boats
+Credit: Clan eXo
+
+eXo Boat Airplane - On your screen, you will see a boat on the land, just sitting there. But to everyone else, the boat is actually a car. So they can drive it around and you will see a boat driving on land. SInce in harvester, if they cross any bridges with the car, the boat will clip throuhg and into the water. If at the seals spawn, they can just drive the boat to where the pipe is, and the boat will look very high in the air to you, about 50 feet. And it will stay at that elevation and clip anyhting in its way. To elevate you must find certain areas where the boat will just pop up. Yoiu can also sit in the boat, but not drive. If they drive the car into water, you can drive it, and itll look be the eXo Car Submarine
+1. Do eXo Universal Gltich
+- For the eXo universal glitch, make sure the room you are set to join is suppresion and the room you are set to create is a extarction
+2. Now on your screen, youll see the boats on land and when the other people drive them since they are hummers on there screen, you will see the boats floating above air as high as there spawn height was
+Credit: Clan eXo
+
+Play Two Maps At Once - You will be playing a different map than everyone else, so they will see you bouncing in the air, or you will see them bouncing(Depending on which map has a higher elevation.) You will also clip everything that they see, like walls, etc, but they dont see. And vice-versa
+1. Do the Universal glitch but make the room you are creating a different map then the room you are set to join
+2. Now you should be in a different map then the others and you will float, be underground, etc depending on the height your at and the height of where others in a different map see you
+Credit: Clan eXo
+
+Harvester Offline To Online Glitch - The Windmill will set on fire, and the top will fall off. The Secret door in the barn will also open
+1. Make a Harvestor control point respawn on
+2. Some one, anyone in the room does the universal glitch, so it says convoy on their screen and on everyone elses it's still control point respawn
+3. Then everyone get on seals
+4. Choose spawn point 3
+5. Then when u spawn run straight to the barn and go past the windmill when your on your way to the barn
+6. When you get to the barn then shoot the lights out in the barn
+7. Then open a couple doors and stuff around there
+8. Then turn and look at the windmill, it will be on fire, and will have exploded and the secret door in the barn will open
+Credit: Clan [HyP]
+
+Sit In Invisible Cars - On your screen, others are in a invisible car
+1.Do the eXo Universal Glitch, make it so that the room you are joining is a map with no convoy and the map you are set to create is a map with a convoy
+2. Now one of the cars on the map, when a person in a non-convoy game gets in it, will be sitting in a invisible convoy truck
+(Note: This isn't like redmans glitch because you see people sitting in the car. Also there are many cars, find the right one. Usually a hummer)
+Credit: Clan eXo
+
+Drive From Turret - On your screen, the person will be driving from the turret
+1. Do the eXo Universal Glitch
+- For the universal glitch have the game your joining a extract and the game your creating a demolition
+2. Now find one of the hummers
+3. When the people in the extract drive it, the person in demo will see them driving from the turret
+(Note: There are others map types you can merge to do this, this is just an example of one)
+Credit: Clan eXo
+
+Teleport To Top Of Map From Car - Once you get out of the car, you will teleport very high in the mpa, on others screens. Whenever you get into a car on your screen, you teleport to the linked car on there screen, so you're on there elevation. Just make sure that your map elevation is higher than theres
+1. Do either glcoks glitch from a map with a high mountain to a low map or the universal glitch
+- For universal glitch, make the room your going to join a low map and the map your creating a map with a tall mountain
+2. Now drive the car all the way up to the mountain
+- On others screens, they see the car at where their land is, like if you drove it up a mountain where on there screen was about a ditch, they'd see the car in the ditch
+3. Now get in the car and they'll see you inside the car
+4. Now when you get out you'll teleport as high as the mountain your standing on is, but on there screen your way above them becuase they're on flat land
+Credit: Clan eXo
+
+Open Breaches/Blow Up Doors - You will see others just open breaches like a door, because that is what they see it as. When you put a c4 on a breach, since they see it as a door, when the c4 blows up, so does the door
+1. Merge Citadel Breach with Suppresion so that you are in the breach.
+2. When you plant a c4 on a breach on others screens it looks like you blow up the door
+3. Vice versa for Open Breaches, when they open the door it blows up the breach on your screen
+Credit: Clan eXo
+
+eXo Boat Airplane In Storm Front - There will be a boat floating in the air in Storm Front, like the eXo Boat airplane which is in harvester. Only the person in tidal can drive it
+1. Make a Tidal Fury Demo
+2. Have a Person Merge with Storm Front Extraction
+3. Go to the terr. Spawn point 1 in front of the spawn their should be a mini boat on land floating in the air
+4. Have the person in tidal fury get in that boat and have the people in storm front cordinate so they don't drive in the water because the boat will teleport into water
+5. If you do happen to fall, just go way outside the map, then turn around, you will be back up in the air again
+Credit: SuperNiNtendo.
+
+-=-=-==-=-=-=-=-==-=-=-=-=-=-==-=-=-=-=-=-=
+
+Shoot/Plant/Throw Anything Glitches
+
+Clan [eXo]'s Shoot Anything v1-3
+Shoot Anything Off Frag Turret v1-2
+Plant/Throw Anything
+
+--------------------------
+
+Clan [eXo]'s Shoot Anything With Exorcist - You can shoot any equiptment (Claymore, M67, etc) out of airburst on others screens
+1. Do the rocket exorcist in random glitches
+2. Now switch the rocket with whatever you want to shoot and get an M203/Airburst/GL Launcher
+3. Flip your switch and spawn and flip switch back
+4. Now switch to your frags then whatever you want to shoot then frags
+5. Now everytime you shoot the frag it will be whatever you wanted and you dont have to keep switching like in s2
+Credit: Cableguy and Glock
+
+Clan [eXo]'s Shoot Anything w/o Exorcist - You can shoot any equiptment (Claymore, M67, etc) out of airburst on others screens
+1. Have no primary
+2. Die and hit your switch now quickly select 203's and whatever you want to shoot and flip your switch and spawn
+3. Switch to m203's then whatever you want to shoot then frags
+(Note: Same applies for shoot anything with exorcist)
+Credit: Cableguy
+
+Shoot Anything w/o Deleting Any Guns - You can shoot any equiptment (Claymore, M67, etc) out of airburst on others screens
+1. Do exorsist with a gun that cannot have a 203 attachment
+2. While dead get a 203 gun and what ever you wanna shoot
+3. Flip your swtcih, respawn, switch to what ever you wanna shoot, then back to your primary, then flip your switch back
+4. Now take out frags, and whatever you want to shoot, you will shoot
+Credit: NATE2K6
+
+Shoot Anything In Frag Turrets v1 - Can shoot anything out of frag turrets
+1. Get whatever you want to shoot out as primary and get on turret
+2. Have someone kill you and when they do flip switch then hurry up spawn and get on the turret and flip back
+3. Now whatever you had as primary youll be shooting on the turret
+(Note: For rockets, have only rocket and nades, go to icon have out cdlays flip switch take out rocket and flip back, now do this glitch with nades but youll be shooting rockets since you started with them, this was found by Swift and killerjay)
+Credit: Glock and Cab
+
+Shoot Anything Out Of Frag Turret v2 - Can shoot anything out of frag turrets
+1. Do -Redman's Illusional Car glitch
+2. The next round cars will be invisible on the person doing the Illusional Car glitch's screen
+3. Have somone take out whatever they want to shoot and go on the back turret of the boat
+4. When they shoot it will be whatever they had out before
+(Note: You can also do with bombs which was found by killer-7)
+Credit: Robby23
+
+Clan [eXo]'s Throw/Plant Anything - Can plant / throw anything such as plant nades, c4, etc. Or throw clays, c4, etc
+1. Do fatals no guns glitch in gun glitches
+2. Die and get whatever you want people to see you throw in the top right corner
+3. Get any kind of gernade in the lower right corner
+4. Respawn
+5. Flip ur switch to disconnect and kill yourself
+6. Now respawn quickly and switch to your nades and flip your switch back.
+7. Now every gernade you throw will be whatever you chose to throw
+(Note: To plant anything, substitute nades/smoke for clays/mines)
+Credit: NATE2K6
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Side Glitches of e.X.o Glitch (aka Redline)
+
+Here is a video of the god jump
+http://www.NextGenBoards.com/Vids/So....X.oGlitch.wmv
+
+e.X.o Glitch
+eXo God Jump
+eXo Rapid Nades/Rockets/Mines Drop
+Two People With Same Name
+Rapidly Teleporting Person Illusion
+Flashing Death Animations
+Flashing Death Slide
+Flashing Demo/Extract Points
+
+------------------------
+
+e.X.o Glitch (aka Redline) - Names / Character properties get mixed up and there are MANY side effects. You can control others
+1. Have two people in the lobby (One stays and the other disconnects) and as many people as you want doing the glitch outside
+2. At a certain time, the host in the lobby resets his ps2 and at the time all the people on the outside come in, QUICKLY
+3. If done right, everyone's names will get mixed up some will be invisible to others, etc
+Credit: Clan eXo
+
+eXo God Jump - You fly across the map in the direction of where the door was opened
+1. Do the redline so that 1 person has the ability to control another person
+- To check this, have the two people that switched names (Ex: Im Outsider and become NATE2K6, and NATE2K6 becomes Outsider, have someone take out there binocs or anything and if the other person switches to there binocs w/o opening armory, they are controlled)
+2. Now have one person go to a door and open it
+3. The person being controlled will FLY in the direction of the door, just keep opening and they’ll keep flying
+Credit: Clan eXo
+
+eXo Rapid Nades/Rockets/Mines Drop - You drop rapid nades, then get booted
+1. 1. Do the redline so that 1 person has the ability to control another person
+- To check this, have the two people that switched names (Ex: Im Outsider and become NATE2K6, and NATE2K6 becomes Outsider, have someone take out there binocs or anything and if the other person switches to there binocs w/o opening armory, they are controlled)
+2. Now make sure the controlled people have the same armory
+3. Now one person take out whatever they want to drop/shoot/plant rapidly and throw/shoot/plant one
+4. As soon as they throw/shoot/plant the thing they want to drop rapidly tons of nades/rockets/clays start flying from the body , but the bad thing is you get booted after about 10-15 of them are dropped
+(Note: For clays and mines they just rapidly plant in the original spot in a circle, even if you run. For mines you get booted, but clays you don’t get booted ntil you take out your primary/pistol/etc)
+Credit: Clan eXo
+
+Two People With Same Name - Two people have the same exact name
+1. Do the e.X.o glitch so someone becoems a different person
+2. Now say Outsider becomes Fatal, have the real fatal leave and comeback so he isnt another person
+3. When fatal gets in the room, there will be two people of the same name in the room
+Credit: Clan eXo
+Video: www.evil-creation.com/Vids/S3G/NameDuplicate.wmv
+
+Rapidly Teleporting Host/ Switching Teams Illusion - The host will be teleporting and switching nades RAPIDLY on others screens
+1. Be the person that stays in the lobby for the redline/e.X.o glitch (To see the glitch)
+2. When they get in the lobby youll have all the effects of the glitch
+3. Now on the person who stayed in the lobbies screen, one of the people who just joined will be rapidly switching teams
+4. Start the game
+5. On the hosts/your screen (person who stayed in lobby) the person who was switching teams rapidly will be still switching teams rapidly
+6. Find that person and when you see them you will notice that there body is going crazy flying VERY fast back and forth across the map
+(Note: The effects doesnt wear off)
+Credit: Clan eXo
+
+Flashing Death Animations - The host will do RAPID death animations when killed
+1. To see them, have someone do the rapidly telporting person/ switch teams illusion
+2. Kill that person
+3. Once you kill that person they will rapidly do death animations in that spot, different animations everytime
+Credit: Clan eXo
+
+Flashing Death Slide - The host will be sliding and flashing in a death position
+1. To see the slide, have someone do the flashing death animations
+2. Now have them respawn
+3. When they respawn, they will be doing the Rapid Teleporting Person / Rapid Switch Teams Illusion, but they will be sliding in some sort of death (On their back, face, etc)
+Credit: Clan eXo
+
+Flashing Demo/Extraction Points - The demo/extract points flash rapidly
+1. Be in the lobby of a demo/extarction/escort
+2. Do the e.X.o glitch but be the person who stays in the lobby and becomes host
+3. Now in the game, when someone takes control of a hostage or picks up the bomb youll see the demo/extraction points flashing rapidly
+Credit: Clan eXo
+
+-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=
+
+
+Swimming/Water Glitches
+
+Swim With Rocket
+Swimming Ninja Float
+Swim Under Map
+Swim On Land (Seen on own screen)
+Swim In Boat (Illusion)
+Prone Underwater V1-3
+Crouch Underwater (Don't Lose Air)
+Bounce In Water
+Perfect Move/Prone Underwater
+Armory Open Underwater
+Swimming Flash
+
+---------------------------
+
+Swim With Rocket - Have rocket in right corner while swimming
+1. Take out your rocket in a boat
+2. Now get out of the boat
+Credit: Unknown
+
+Swimming Ninja Float - Will be bouncing above water while swimming on others screens
+1. Go to an elivated area thats above water
+2. Jump off and while your in mid air hit standby
+3. Now go under the water swim about 3 feet and come up
+4. Turn standby off
+5. On others screens you will be bouncing up in down in the air while swimming
+Credit: FaTaL
+
+Swim Under the Ground - Will be swimming under the ground on others screens, dont move
+1. Go to elevated ground about 25 feet from water
+2. Get into prone
+3. Hit standby and quickly run into the water
+4. Turn standby off and DONT MOVE!
+5. Press triangle to go under then come back up
+6. On others screens you will be under the map where you started at
+Credit: FaTaL
+
+Swim On Land (See On Own Screen) - Will be swimming on land
+1. Get as close as possible the land but so that you can still go under
+2. Go under water, now while under have someone push you on land with a boat
+3. Now while out you must keep hitting triangle, to get further have someone push you with a car
+Credit: DNAS
+
+Swim On Boat - Will be swimming in a boat on others screens
+1. Go to the drivers of a boat seat while swimming, but dont get in
+2. Hit X very fast so you will go in and out of the boat.
+3. Hit standby once then off again while still tapping X.
+4. Make sure when you stop after 3 seconds after the standby part or so you are out of the boat.
+5. Don't move.
+6. People will see you doing the swimming action on and above/standing on the steering wheel, and if you dive under and move in tiny circles it looks cool.
+Credit: Blind
+
+Prone Under Water V1 - You're in prone underwater
+1. Go to a ledge that is about 8 feet above water
+2. Go to the edge in prone now lean and reload off
+3. You should go underwater in lean, but you dont have to hold it, and you will be stuck for a lil bit
+Credit: Unknown
+
+Prone Underwater V2 (Advanced) - You'll be in prone underwater
+1. Go into the deepest water you can without swimming
+2. Drive boat up next to you
+3. Press triangle and you should crouch underwater
+4. Mount the boat
+5. Dismount and hold lean
+6. Now simpley press triangle and you will be proneing under water. This works everywere!
+Credit: FaTaL
+
+Prone Underwater v3 - You'll be in prone underwater
+1. Go near shallow water
+2. Run, and prone dive at it. Before you hit the ground lean left or right and reload continously
+3. Now you should slide for a little bit, and have unlimited time underwater in prone
+Credit: Swifty14
+
+Crouch Underwater (Dont lose breath) - Be in crouch underwater, and you dont loose breath
+1. Get a vehicle and go to a spot that you can still run in stand but in water.
+2. Go in crouch so your head is under water and you are losing breath.
+3. Get in a car.
+4. Get out and turn left/right (away from boat)
+5. Wait for your guy to go down in crouch and you will be able to shoot too.
+Credit: .LaG.
+
+Bouncing In Water - Youll be running and bouncing in the water
+1. Place a car next to the water that u can swim in
+2. Get in drivers seat
+3. Flip switch go in water where u can swim
+4. Once lag catches up u will be hoping around in the water when u swim
+[Note: The higher the car is the higher you will bounce)
+Credit: ROBBY23 and Super_Fly
+
+Perfect Move/Prone Underwater - Can move underwater in prone
+1. find a spor close to a deep shore(one you can sink under)
+2. run along side the edge and go into prone
+3. as your falling hold reload and hit your left analog sitck whatever way the water is
+(Note: You should go underwater while still reloading and get stuck in that position)
+Credit: Swift, DUFFF and -Anxiety-
+
+Armory Open Underwater - Can open your armory underwater, and select equiptment
+1. Do the move and prone underwater gltich
+2. Find a part in the water that willpush u underwater (a dock or a wehicle works) OR find sumthing that slants your guy
+3. You should be able to open your armory switch weapons and some other things
+(Note: You can take out rocket/nades and shoot/throws them. You can alos do proxy break
+Credit: Swift and DUFFF
+
+Swimming Flash - YOull be flashing while swimming
+1. Do the backwards flash in showoff glitches
+2. Now get into water and you can swim around and be flashing on others screens
+Credit: Redman and ZinGy
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-
+
+
+Turret Glitches
+
+eXo Turret / Invisible On Turret / 2 Names
+Possessed Turret
+Turret Glitch v1-3
+Prone On Turret
+Fake Lag On Turret (Lib.)
+2 People On Same Turret (Lib.)
+David Blaine On Turret (Lib.)
+Hulk On Turret (Lib.)
+Shoot Anything Off Of Turret
+Shoot Rapid Guns Off Turret Illusion
+Superman On Turret
+
+-----------------------------------------
+
+Possessed Turret / 2 Names - On others screens, you be outside the turret in a rocket animation with 2 names above your head, even though on yours, you are on the turret. When you shoot the turret, it actually fires bullets, and it moves on others screens, unlike the turret glitch where the bullets come out of your gun
+1. Get a rocket and don’t be host
+2. Go near a turret and have someone next to you
+3. Pick a time for that person to shoot you in the leg
+4. Now hit standby press X to get on turret then take out rocket and flip back 2 seconds before you had the person shoot you
+5. You should get shot then go on the turret, but on the other persons screen your outside the turret with 2 names
+(Note: The turret is actually moving when you move and shoots, unlike the turret glitch where its silent)
+Credit: Outsider and CAB
+Video: http://www.evil-creation.com/Vids/S3...ssedTurret.wmv
+
+The eXo Turret/ Invisible On Turret - Youll be on the turret, but you wont have a body, so youll just see the turret. Your body will be outside the turret in a rocket animation. This is on your own screen! On others screens, they see the effectes of the Possessed Turret
+1. Get a rocket and don’t be host
+2. Go near a turret and have someone next to you
+3. Pick a time for that person to shoot you in the leg
+4. Now hit standby press X to get on turret and take out your rocket
+5. Now you have to time this right, plug your cord back in a second before you get shot, if done right you should go into the turret and get shot as going up
+6. This makes you totally invisible on the turret on your own screen, you see a decoy body of yourself outside the turret with an invisible rocket
+Credit: Outsider and CAB
+Video: www.evil-creation.com/Vids/S3G/eXoTurret.wmv
+
+2 People On Same Ground Turret / Possessed Turret - When you do this glitch, you will be on one turret, but your body will be on the other. People see your body on the turret you are not actually on, so others can get on that turret, and it looks like 2 people are on turret. When you shoot, it will look like possessed turret, since they dont see your body on the turret you're really on
+1. Be host and go up to one of the turrets in the Libration (Can use net tools not as host)
+2. Flip switch get on turret, get off turret and go get on the other turret
+3. Hit switch back you'll be controlling one turret invisibly but a decoy of your body will be on the other one
+4. So others can get on turret where your body is (Illusion body) and they see the possessed turret on the turret you're really at
+Credit: Aceman
+Video:
+
+Prone On Turret (eXo Turret w/o Unplug) - Youll be in prone while on the turret. It looks like eXo turret b/c you dont see much of your body at all
+1. Prone in front of the turret
+2. Have sumone shotgun you in the foot
+3. At that same time, immideatly press X to mount the turret
+4. You will be in prone while on turret, it looks like eXo Turret
+Credit: Crazy805Dude
+Video:
+
+Fake Lag On Turret - On others screens, it will look like you are walking in place on the turret
+1. Get on turret
+2. Have sumone shotgun you forward and hit your switch
+3. Wait till you fall over and stand back up and hit X to mount turret turret
+4. Hit switch back and you be walking backwards slowly away from the turret on others screens
+Credit: Twistd
+Video:
+
+Turret Glitch v1 - Youll be outside the turret bouncing on others screens, but on yours you're in the turret. When you shoot the turret, it looks like your gun is shooting fully automatic to others
+1. Get in the turret of a car
+2. Now do fatal's spawn anywhere glitch in useful glitches
+3. On your screen you will remain in the car turret
+4. On others screens the car will return to its spawn point and the person who did the glitch will be bouncing up and down and shooting a rapid gun as fast as turret
+Credit: FaTaL
+Video:
+
+Turret Glitch v2 - Youll be outside the turret bouncing on others screens, but on yours you're in the turret. When you shoot the turret, it looks like your gun is shooting fully automatic to others
+1. Must be host (Recommended)
+2. Get in a car turret by a door
+3. Flip your switch run to the door open it then get back in turret
+4. You will be bouncing up and down outside the car on others screens and shooting a automatic gun
+(Note: You have to either be host or flip your switch back before you get into the turret because you cant get into turret while switch is flipped)
+Credit: GLOCK
+Video:
+
+Turret Glitch v3 - Youll be outside the turret in crouch on others screens, but on yours you're in the turret. When you shoot the turret, it looks like your gun is shooting fully automatic to others
+1. Get a car invisible using Universal Glitch, Redmans Car Illusion, etc
+2. Get in the turret
+3. On others screens, you'll be outside the turret shoting your gun fully auto when you shoot the turret
+Credit: Clan eXo
+Video:
+
+Hulk Position On Turret - Youll be outside the turret floating in a hulk like position
+1. Make sure you are in Liberation Escort get on top of the Turret and make sure you can see the mount icon
+2. Have someone with a shotgun get in front of you so that you are facing them, and then they must shotugn you so that you are on the land next to the turret
+3. Flip your switch when they do you should get knocked on your back
+4. Get up, go to turret and press X to mount 3-7 (Just rapidly press X) while your switch is flipped
+5. Flip switch back and you should mount turret
+6. You should be in a hulk position from Socom 2 right next to the turret on others screens and the turret will be doing Possessed Turret
+Credit: SuuperNintendo and TheCrazy805Dude
+Video:
+
+David Blaine Position On Turret - Youll be outside the turret floating in a david blaine like position
+1. Make sure you are in Liberation Escort get on top of the Turret and make sure you can see the mount icon
+2. Have someone with a shotgun get behind you so that they are facing your back, and then they must shotugn you so that you are on the land next to the turret
+3. Flip your switch when they do you should get knocked on your face
+4. Get up, go to turret and press X to mount 3-7 (Just rapidly press X) while your switch is flipped
+5. Flip switch back and you should mount turret
+6. You should be in a David Blaine position from Socom 2 right next to the turret on others screens and the turret will be doing Possessed Turret
+Credit: SuperNintendo and TheCrazy805Dude
+Video:
+
+Shoot Anything Off Any Turret - You will be on the turret with whatever you want (Guns, mines, nades, etc.) Although you cannot move the turret, only up and down. So others must get on, which they can even though you are on it, and move it for you
+1. Get in prone then mount turret
+2. Have someone with a shotgun pick a time to shotgun you.
+3. At a certain have them shotgun you and at the same time get off the turret
+Credit: DNAS and RYANNAYR
+
+Shoot Rapid Primary Or Secondary Off Turret - You will be on the turret shooting a rapid gun off your back on others screens
+1. Ok This is kinda hard but once you perfect it its easy
+2. Press and hold the x button on mount
+3. Press and hold reload for a sec than right before he is about to reload let go of X
+4. You should see him reload while getting sucked to the turret
+5. On others screens, youll shoot your gun rapidly off your back
+Credit: Turo-Burglar
+
+Superman On Turret In Lib. - You will be in prone either 20 feet above the turret or 20 feet below it, on others screens, but on you screen you are on the turret
+1. Get on the roof by the turrets
+2. Unplug than jump off the roof than plug back in and dont move
+3. After lag catches up start moving and ask if your bouncing
+4. Go in prone in front of the turret and have someone shoot you in the foot with a shotgun
+5. While holding your head mount the turret
+Credit: Aceman
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Patched Glitches
+
+
+Run With Rocket v1
+Robby's Spec Glitch
+Rocket Flash v2
+Shoot In Skywalker (Bouncing)
+Have Rocket Icon In Car
+Joint's ProxyBreak
+3rd Person Thermal
+Lock Armory/ No Icons v2
+1st Person Scope/ Thermal
+1st Person Binocs
+eXo Universal Glitch w/ Specs Off
+eXo Universal Glitch w/ Specs
+Free Map Packs
+Verify Account W/o Credit Card
+Ranked Respawn Room
+
+-----------------------------
+
+Run With Rocket v1 - You can run with your rocket
+1. Do the shoot anything out of you rocket glitch so that you have your primary out in the active weapon slot, but you see your self holding your rocket
+2. Take out your rocket now walk off a medium ledge
+Credit: Cableguy
+
+Robby's Spec Glitch - You can play as a spectator. Awesome glitch, you couldnt be voted, so it was like 3rd party. You also couldnt be killed
+1. Go to the spec list
+2. Find the room in the spec list which you would like to join game as spec with weapons
+3. Flip switch and tap x on the room to join as spec.
+4. wait about 5 seconds and then flip switch back and tap triangle rapidly
+5. If done corectly you will get out of the spec list.
+6. The game should then load and your doing it
+(Notes: You are invincible to everyone. The only way you can die is from explosions and being ran over. People that join late can see you and if u start the game in the with everyone when they green up your visible. You are also on a third party which means even hostages are enemies)
+Credit: Robby23
+
+Rocket Flash V2 - You will be in the rocket position, but moving fast
+1. Do the opposite of the shoot anything out of rocket glitch (Instead of having your rocket out and highlighting your primary or whatever do the opposite)
+2. Now open your armory and select whatever you switched to
+3. You should get out of it but on others screens your doing rokcet flash
+Credit: Outsider
+
+Shoot In Skywalker (Bouncing) - You can shoot in skywalker
+1. Do the sky walker
+2. Put your primary on L1 and rocket on L1
+3. Open your armory and highlight your primary
+4. Hit X then L1 right after
+5. You can now switch back and fourth inbetween guns if you didnt fall out of the sky walker in the above steps
+(Note: Your guy will be bouncing up and down on others screens.)
+Credit: CableGuy
+
+Have Rocket Icon In Car - You have the Rocket icon in a car
+1. Have rocket out near car and near a dead body where u can pick up a wepon
+2. Highlight all 3 icons mount, switch primary, and switch secondary
+3. Hold "X" then hit Right on the "D" pad until you see mount
+4. Let go of "X" you should mount the car
+5. when in car hit "LEFT" on the "D" pad then quickly hit "X" you should see "Switch Primary" flash by then disappear if you did it right on ur screen on the bottom left you should see your rocket out
+Credit: -CodeRed-
+
+Joint's ProxyBreak - You can clip anything
+1. Lay near a wall in prone. like lay with your side by it.( works better if your going to the left.
+2. Make sure your gun is not hot.
+3. Pull your grenades out( to get through strong proxies.)
+4. Crawl Softly towards the wall. Almost as slow as to do the later to heaven
+Credit: Joint_No1
+
+3rd Person Thermal - You will see yourself in the thermal scope
+1. Get a thermal gun
+2. Get inside the big boat (SOC-R)
+3. Take out binocs then take out your primary and go into thermal
+4. Now wait for the round to end and next round you'll be in third person thermal, but you can't shoot
+Credit: Clan BK<
+
+Lock Armory/ No Icons v2 - You cant shoot, or open armory
+1. Get a scope
+2. Get in the big boat (SOC-R), now get in the seat where you can shoot
+3. Take out binocs then your gun and go into scope
+4. Wait for the round to end
+5. Next round you'll spawn, but cant shoot or open your armory, and you see no icons
+Credit: Clan BK<
+
+1st Person Scope/ Thermal - You have 1st person scope
+1. Press up on d pad
+2. Press circle and right after you do press up on d pad
+3. Then press triangle and youll have 1st person in any scope (including thermal)
+Credit: SideShowHost
+
+1st Person Binocs - You have 2st person binocs
+1. Put binocs on quick
+2. And hit circle, L1, tap X to send freind invite
+3. You can see the binoculars in you primary.
+Credit: Ghost_-Soldier
+
+eXo Universal Glitch w/ Specs Off (Before Patch) - You can merge any gametypes. Look at merge maps glitches for extra details
+1. Highlight the game you want to join
+2. Press triangle so you will be highlighting join game
+then move left to briefing
+3. Flip your switch go to join game then click on the room flip back
+4. Then it will say that that room is already created
+5. After that go to create game
+6. Then load a saved game flip your switch
+start game load game then start it again and flip back
+7. What this allows you to do is play a different type of map while someone else is playing something different.
+(Ex: If you created a Harvester Demo and the room you went to spectate was a harvester extract, then you would be playing in demo while everyone else was in extract)
+Credit: Sideshowhost, CAB, and Glock
+
+eXo Universal Glitch w/ Specs (Before Patch) - You can merge any gametypes. Look at merge maps glitches for extra details
+1. Save settings for the type of game you want to be in like be in a Demo while others in Extarct now go to spec lobby
+2. Flip switch, press X to join game as spec, flip switch back about 6 seconds later
+3. Keep pressing triangle until you can move your curser and go to create game
+4. Load a saved game and press start and wait until u get inside game
+5. When inside you will be in the type of room you selected to be in when you went to creat game
+(Ex: If you created a Harvester Demo and the room you went to spectate was a harvester extract, then you would be playing in demo while everyone else was in extract)
+Credit: Sideshowhost and CAB
+
+Free Map Packs - You could get the map packs for free
+1. Make all the personal info a bunch of fake info, but put a real email or it might not work right
+2. Make the credit number all 0's
+3. Put 157 for security number and a fake date like 12/06 for expiry date
+4. Do this 2 times (hit comfirm, itll give an error, comfirm again)
+5. Then change the security number to 137 and comfirm and itll say map packs purchased
+6. There you go, free map packs without a gift card or anything
+Credit: Hendrix
+
+Verify Account W/o Credit Card - You could verify your account without a credit card
+1. Make all the personal info a bunch of fake info, but put a real email or it might not work right
+2. Make the credit number all 0's
+3. Put 157 for security number and a fake date like 12/06 for expiry date
+4. Do this 2 times (hit comfirm, itll give an error, comfirm again)
+5. Then change the security number to 137 and comfirm and itll say map packs purchased
+6. You will download the map packs for free and your name will be Berified
+Credit: Hendrix
+
+Ranked Respawn Room - You can make a respawn room that is ranked
+1. Go to create game
+2. Set all your settings, and make it respawn
+3. Go to game options and pick any map demolition
+4. Enable respawn, make it 1 round
+5. Go to start game hit standby and press it
+6. Keep presing up on the d pad untill you can move the thing
+7. Make it ranked and turn standby off
+8. Now do the team glitch on seals
+9. Plant the bomb
+10. Keep repeating steps 8-9 each game and youll rank up.
+Credit: FataL
+
+-------------------------------------
+
+This archive has been created for the Members of www.NextGenBoards.com. Please, do NOT post this on any other site without first asking Outsider via PM or Aim at eXo Outsider
